@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article>
+{{ content }}
+</article>
+
+<div>
+    {% for post in site.posts %}
+    <div>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        </a>
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.excerpt }}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}">Continue reading</a>
+    </div>
+
+    {% endfor %}
+</div>

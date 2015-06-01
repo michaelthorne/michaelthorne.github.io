@@ -1,0 +1,41 @@
+/* -------------------------------------------------------------------------- *\
+   #PAGINATION
+\* -------------------------------------------------------------------------- */
+
+.pagination {
+    border-top: 6px $color-silver solid;
+    padding-top: 2.375em;
+
+    /**
+     * Label
+     */
+
+    .pagination__label {
+        font-family: $font-secondary;
+        font-weight: $weight-bold;
+        margin-bottom: 0.125em;
+        text-transform: uppercase;
+    }
+
+    /**
+     * Link
+     */
+
+    .pagination__link {
+        border-bottom: 1px solid $color-silver;
+        color: $color-gray;
+        display: inline-block;
+        margin-bottom: 1.5em;
+        text-decoration: none;
+        transition: color 0.25s;
+
+        &:last-of-type {
+            margin-bottom: 0;
+        }
+
+        &:focus,
+        &:hover {
+            color: $color-blue;
+        }
+    }
+}

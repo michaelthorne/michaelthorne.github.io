@@ -1,0 +1,17 @@
+# Site settings
+title: Michael Thorne
+description: Front-end web developer at Next in Cape Town, South Africa. Focused on web standards, performance and usability. Interested in design and photography.
+baseurl: "/userx"
+url: "http://userx.co.za"
+permalink: :categories/:title/
+google_analytics: UA-29325015-1
+profile_github: michaelthorne
+profile_google_plus: MichaelThorne_za
+profile_instagram: mikkelz_za
+profile_linkedin: thornemichael
+profile_twitter: mikkelz_za
+profile_youtube: mikkelzZA
+
+# Build settings
+markdown: kramdown
+highlighter: null

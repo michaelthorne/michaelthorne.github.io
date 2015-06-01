@@ -1,0 +1,40 @@
+/* -------------------------------------------------------------------------- *\
+   #HEADER
+\* -------------------------------------------------------------------------- */
+
+.header {
+
+    /**
+     * Primary
+     */
+
+    &.header--primary {
+        background-color: $color-black;
+        background-image: url('/userx/assets/images/general/michael-thorne-turkey-milipark-600x600.jpg');
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 18em;
+        padding-top: 2em;
+        text-align: center;
+
+        /* Strapline */
+
+        .strapline {
+            margin-bottom: 1.5em;
+        }
+    }
+}
+
+@media all and (min-width: $bp-small) {
+
+    .header {
+
+        &.header--primary {
+            background-image: url('/userx/assets/images/general/michael-thorne-turkey-milipark-1920x800.jpg');
+            height: 25em;
+            margin-bottom: 0;
+            position: relative;
+        }
+    }
+}

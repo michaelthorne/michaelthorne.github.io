@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article>
+    <header>
+        <a href="{{ page.url | prepend: site.baseurl }}"><time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time></a>
+        <h2>{{ page.title }}</h2>
+    </header>
+    {{ content }}
+</article>
+
+<div class="pagination">
+{% if page.previous %}
+    <div class="pagination__label">Previous:</div>
+    <a class="pagination__link" href="{{ page.previous.url | prepend: site.baseurl }}">{{ page.previous.title }}</a>
+{% endif %}
+{% if page.next %}
+    <div class="pagination__label">Next:</div>
+    <a class="pagination__link" href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.title }}</a>
+{% endif %}
+</div>

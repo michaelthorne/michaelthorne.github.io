@@ -1,0 +1,155 @@
+/* -------------------------------------------------------------------------- *\
+   #ARTICLE
+\* -------------------------------------------------------------------------- */
+
+article {
+
+    /**
+     * Anchor
+     */
+
+    a {
+        border-bottom: 1px solid $color-silver;
+        color: $color-gray;
+        text-decoration: none;
+        transition: color 0.25s;
+
+        &:focus,
+        &:hover {
+            color: $color-blue;
+        }
+    }
+
+    /**
+     * Blockquote
+     */
+
+    blockquote {
+        border-left: 6px solid $color-blue;
+        margin-bottom: 2em;
+        margin-left: 1em;
+        padding-left: 1em;
+
+        /* Paragraph */
+
+        p {
+            font-family: $font-secondary;
+            margin-bottom: 1em;
+            quotes: "\201C""\201D""\2018""\2019";
+
+            &:before {
+                content: open-quote;
+            }
+
+            &:after {
+                content: close-quote;
+            }
+        }
+
+        /* Cite */
+
+        cite {
+            font-size: 0.75em;
+            font-family: $font-secondary;
+        }
+    }
+
+    /**
+     * Figure
+     */
+
+    figure {
+        margin: 0 0 2em 0;
+
+        /* Caption */
+
+        figcaption {
+            background-color: $color-silver;
+            color: $color-black;
+            font-size: 0.75em;
+            font-family: $font-secondary;
+            padding: 0.25em 0.75em 0.375em;
+        }
+    }
+
+    /**
+     * Horizontal Rule
+     */
+
+    hr {
+        border: 0;
+        border-top: 6px solid $color-black;
+        display: block;
+        height: 1px;
+        margin: 0 auto 2em;
+        padding: 0;
+        width: 33%;
+    }
+
+    /**
+     * Image
+     */
+
+    img {
+        height: auto;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    /**
+     * Lists
+     */
+
+    ol,
+    ul {
+        margin-bottom: 1.5em;
+
+        li {
+            margin-bottom: 1.5em;
+        }
+    }
+
+    /**
+     * Paragraph
+     */
+
+    p {
+        margin-bottom: 1.5em;
+
+        &+ blockquote,
+        &+ figure,
+        &+ hr {
+            margin-top: 2em;
+        }
+    }
+
+    /**
+     * Preformatted
+     */
+
+    pre {
+        margin-bottom: 1.5em;
+    }
+
+    /**
+     * Time
+     */
+
+    time {
+        display: inline-block;
+        font-size: 0.625em;
+        margin-bottom: 1.5em;
+    }
+}
+
+@media all and (min-width: $bp-small) {
+
+    article {
+        font-size: 1.5em; /* 24 / 16 */
+
+        figure {
+            margin-right: -1.5em;
+            margin-left: -1.5em;
+        }
+    }
+}

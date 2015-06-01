@@ -1,0 +1,40 @@
+/* -------------------------------------------------------------------------- *\
+   #NAV
+\* -------------------------------------------------------------------------- */
+
+.nav {
+
+    /**
+     * Primary
+     */
+
+    &.nav--primary {
+
+        .list {
+
+            li {
+                display: inline-block;
+                margin-left: 1.25em;
+
+                &:first-child {
+                    margin-left: 0;
+                }
+            }
+
+            a {
+                border-bottom: 1px solid rgba($color-white, 0.5);
+                color: $color-white;
+                font-family: $font-secondary;
+                letter-spacing: 1px;
+                padding-bottom: 0.125em;
+                text-decoration: none;
+                transition: border-color 0.25s;
+
+                &:focus,
+                &:hover {
+                    border-bottom-color: $color-blue;
+                }
+            }
+        }
+    }
+}
