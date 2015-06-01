@@ -27,7 +27,7 @@ September last year we went to New York.
 
 <figure>
     <a href="http://www.flickr.com/photos/mikkelz/sets/72157624485305951">
-        <img src="/userx/assets/images/general/michael-thorne-craft-bike-transalp-2010-800x533.jpg" alt="CRAFT Bike Transalp 2010 – Etappe 4">
+        <img src="/assets/images/general/michael-thorne-craft-bike-transalp-2010-800x533.jpg" alt="CRAFT Bike Transalp 2010 – Etappe 4">
     </a>
     <figcaption>CRAFT Bike Transalp 2010 – Etappe 4</figcaption>
 </figure>
