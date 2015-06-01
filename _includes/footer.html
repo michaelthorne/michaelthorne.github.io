@@ -1,4 +1,17 @@
 <footer class="footer footer--primary" role="contentinfo">
+    <nav class="nav nav--primary">
+        <ul class="list">
+        {% assign sorted_pages = (site.pages | sort: 'order') %}
+        {% for page in sorted_pages %}
+            {% if page.title %}
+            <li>
+                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    </nav>
+
     <div class="social">
         <ul class="list">
             {% if site.profile_github %}

@@ -1,0 +1,74 @@
+/* -------------------------------------------------------------------------- *\
+   #POST
+\* -------------------------------------------------------------------------- */
+
+.post {
+    border-bottom: 1px solid $color-silver;
+    margin-bottom: 3em;
+    padding-bottom: 3.5em;
+
+    /**
+     * Time
+     */
+
+    .post__time {
+        border-bottom: 1px solid $color-silver;
+        color: $color-gray;
+        display: inline-block;
+        font-size: 0.875em; /* 14 / 16 */
+        margin-bottom: 1em;
+        text-decoration: none;
+        transition: color 0.25s;
+
+        &:focus,
+        &:hover {
+            color: $color-blue;
+        }
+    }
+
+    /**
+     * Title
+     */
+
+    .post__title {
+        font-size: $h3-font-size;
+        margin-bottom: 0.5em;
+    }
+
+    /**
+     * Excerpt
+     */
+
+    p {
+
+        a {
+            border-bottom: 1px solid $color-silver;
+            color: $color-gray;
+            text-decoration: none;
+            transition: color 0.25s;
+
+            &:focus,
+            &:hover {
+                color: $color-blue;
+            }
+        }
+    }
+}
+
+/**
+ * Posts
+ */
+
+.posts {
+
+    /* Post */
+
+    .post {
+
+        &:last-child {
+            border-bottom: 0;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+    }
+}

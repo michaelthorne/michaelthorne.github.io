@@ -3,10 +3,10 @@ layout: default
 ---
 
 <article>
-    <header>
-        <a href="{{ page.url | prepend: site.baseurl }}"><time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time></a>
-        <h2>{{ page.title }}</h2>
-    </header>
+    <a href="{{ page.url | prepend: site.baseurl }}">
+        <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+    </a>
+    <h2>{{ page.title }}</h2>
     {{ content }}
 </article>
 

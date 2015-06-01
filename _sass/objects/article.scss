@@ -64,11 +64,12 @@ article {
         /* Caption */
 
         figcaption {
-            background-color: $color-silver;
-            color: $color-black;
+            color: $color-gray;
             font-size: 0.75em;
             font-family: $font-secondary;
-            padding: 0.25em 0.75em 0.375em;
+            padding-top: 0.375em;
+            padding-bottom: 0.5em;
+            padding-left: 0.125em;
         }
     }
 
@@ -137,7 +138,7 @@ article {
 
     time {
         display: inline-block;
-        font-size: 0.625em;
+        font-size: 0.625em; /* 15 / 24 */
         margin-bottom: 1.5em;
     }
 }
@@ -148,8 +149,8 @@ article {
         font-size: 1.5em; /* 24 / 16 */
 
         figure {
-            margin-right: -1.5em;
-            margin-left: -1.5em;
+            margin-right: -2em;
+            margin-left: -2em;
         }
     }
 }

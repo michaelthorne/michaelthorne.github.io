@@ -5,7 +5,7 @@ date: 2014-08-22
 categories: journal
 ---
 
-The topic for the most recent meetup was: Content’s Forgotten Corners, presented by content strategist [http://about.me/kerry-anne](Kerry-Anne Gilowey).
+The topic for the most recent meetup was: Content’s Forgotten Corners, presented by content strategist [Kerry-Anne Gilowey](http://about.me/kerry-anne).
 
 It was refreshing to hear a talk on content strategy, continuing on from the topics of the [July meetup](cape-town-ux-craft-july-meetup)
 which were focused on the psychological and organisational aspects of user experience.

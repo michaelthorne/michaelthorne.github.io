@@ -4,10 +4,12 @@ layout: default
 
 {% for post in site.posts | limit: 1 %}
 <article>
-    <a href="{{ post.url | prepend: site.baseurl }}"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time></a>
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </a>
     <h2>{{ post.title }}</h2>
     {{ post.content }}
 </article>
 {% endfor %}
 
-<a class="btn" href="{{ site.baseurl }}/journal">View my journal</a>
+<a class="btn" href="{{ site.baseurl }}/journal">View my journal →</a>
