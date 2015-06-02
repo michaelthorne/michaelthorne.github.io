@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Contact Michael Thorne
+title: Contact me
 nav: Contact
 order: 3
 permalink: /contact/
 ---
 
-## Contact me.
+## Contact me
 
 Hi, I’d like to hear from you.
 

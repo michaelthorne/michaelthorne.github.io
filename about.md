@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About Michael Thorne
+title: About me
 nav: About
 order: 1
 permalink: /about/
 ---
 
-## About me.
+## About me
 
 I’m a front-end web developer, sports enthusiast and avid traveller who lives in Cape Town, South Africa.
 
