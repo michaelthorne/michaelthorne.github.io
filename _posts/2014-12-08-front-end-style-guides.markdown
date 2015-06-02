@@ -23,7 +23,7 @@ we need to cater for all the standard HTML elements, which are the building bloc
 form patterns and later, templates which are finally displayed as the web pages our users see in their browsers.
 
 <figure>
-    <img src="/assets/images/journal/orderin-front-end-style-guide.png" width="1350" height="648" alt="OrderIn Front-end Style Guide">
+    <img src="/assets/images/journal/orderin-front-end-style-guide-1230x692.png" width="1230" height="692" alt="OrderIn’s front-end Style Guide">
     <figcaption>Screenshot of the front-end style guide I created for <a href="http://orderin.co.za">OrderIn</a>.</figcaption>
 </figure>
 
