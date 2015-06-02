@@ -9,4 +9,4 @@ permalink: /journal/
 
 ## My journal
 
-This is a collection of some work-related thoughts and ideas. Writing is hard, but apparently practice makes perfect.
+This is a collection of some work-related thoughts and ideas. Writing is hard, but they say practice makes perfect.

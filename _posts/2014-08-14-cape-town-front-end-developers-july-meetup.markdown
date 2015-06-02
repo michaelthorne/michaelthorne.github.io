@@ -5,8 +5,8 @@ date: 2014-08-14
 categories: journal
 ---
 
-“Building a front-end style guide with Jekyll” was the topic for the most recent Cape Town Front-end Developers meetup.
-The topic was presented by [Justin Slack](http://justinslack.com) who currently works at New Media Labs.
+“Building a front-end style guide with Jekyll” was the topic for the Cape Town Front-end Developers meetup. [Justin Slack](http://justinslack.com)
+who currently works at New Media Labs, presented his topic.
 
 As per the title of the Meetup, Justin used Jekyll, which is a static website generator, to show how it could be used to
 generate a front-end style guide.

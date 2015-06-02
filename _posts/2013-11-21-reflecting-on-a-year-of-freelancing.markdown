@@ -5,9 +5,9 @@ date: 2013-11-21
 categories: journal
 ---
 
-When I began this chapter of my life as a freelance front-end web developer, I had the best of intentions, but obviously
-had no idea on how it would pan out. I didn’t even know if I was even being realistic in my expectations. But looking back
-on the year that was, I think I can safely that I made the right decision both personally and from a career perspective.
+When I began the chapter of my life as a freelance front-end web developer, I had the best of intentions, but had no idea
+on how it would pan out. I didn’t even know if I was even being realistic in my expectations. But looking back on the year
+that was, I think I can say that I made the right decision from both my personal and career perspectives.
 
 The lessons I learned during the two years of my previous job were invaluable to me and I can look back on them with (some)
 fond memories. I made some great friends, who continue to influence me in a positive way and I’ll be forever grateful to

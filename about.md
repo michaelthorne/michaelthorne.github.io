@@ -24,7 +24,7 @@ In 2010 I went to visit my cousin who lives in Munich, Germany. We took part in 
 mountain bike race. The route goes through Germany, Austria, Switzerland and finishes in Italy. It took 8 days and we cycled
 just under 600 kilometers. At the end of 2012 I went on holiday to [Thailand](https://www.flickr.com/photos/mikkelz/collections/72157632483864195)
 and [Cambodia](https://www.flickr.com/photos/mikkelz/collections/72157632527368371) with my girlfriend and two mutual friends.
-In 2013 my girlfriend and I travelled to [Turkey](https://www.flickr.com/photos/mikkelz/collections/72157648811892350/) and in
+In 2013 my girlfriend and I travelled to [Turkey](https://www.flickr.com/photos/mikkelz/collections/72157648811892350) and in
 September last year we went to New York.
 
 <figure>

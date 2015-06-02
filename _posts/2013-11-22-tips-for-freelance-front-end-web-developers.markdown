@@ -5,8 +5,8 @@ date: 2013-11-22
 categories: journal
 ---
 
-Having just reflected on my year of freelancing, I thought it would be good to look back and share some of things that helped
-make my year a successful one.
+I just [reflected on my year of freelancing](journal/reflecting-on-a-year-of-freelancing) and I thought I would look back and share some of things that helped make my
+year a successful one.
 
 ### Get your finances in order
 

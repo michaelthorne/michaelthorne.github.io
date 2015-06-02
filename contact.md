@@ -13,7 +13,7 @@ Hi, I’d like to hear from you.
 
 You can email me at [contact@userx.co.za](contact@userx.co.za) or get in touch with me on Twitter [@mikkelz_za](https://twitter.com/@mikkelz_za).
 
-Alternatively, you can read my [code](https://github.com/michaelthorne), look at my [photos](https://instagram.com/mikkelz_za)
+Otherwise, you can read my [code](https://github.com/michaelthorne), look at my [photos](https://instagram.com/mikkelz_za)
 or track my [running & cycling](https://www.strava.com/athletes/1328198).
 
 <figure>
