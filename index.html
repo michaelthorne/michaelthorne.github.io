@@ -4,9 +4,9 @@ layout: default
 
 {% for post in site.posts | limit: 1 %}
 <article>
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%b %-d, %Y" }}</time>
-    </a>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }}</a>
+    </time>
     <h2>{{ post.title }}</h2>
     {{ post.content }}
 </article>

@@ -1,8 +1,10 @@
-<header class="header header--primary" role="banner">
-    <a class="strapline" href="{{ site.baseurl }}/">
+<div class="strapline">
+    <a class="strapline__link" href="{{ site.baseurl }}/">
         <h1 class="hN">{{ site.title }}</h1>
     </a>
+</div>
 
+<header class="header header--primary" role="banner">
     <nav class="nav nav--primary">
         <ul class="list">
         {% assign sorted_pages = (site.pages | sort: 'order') %}

@@ -4,7 +4,7 @@
 
 .pagination {
     border-top: 6px $color-silver solid;
-    padding-top: 2.375em;
+    padding-top: 3em;
 
     /**
      * Label
@@ -23,11 +23,10 @@
 
     .pagination__link {
         border-bottom: 1px solid $color-silver;
-        color: $color-gray;
-        display: inline-block;
+        color: $color-blue;
         margin-bottom: 1.5em;
         text-decoration: none;
-        transition: color 0.25s;
+        transition: border-color 0.25s;
 
         &:last-of-type {
             margin-bottom: 0;
@@ -35,7 +34,11 @@
 
         &:focus,
         &:hover {
-            color: $color-blue;
+            border-bottom-color: $color-blue;
+        }
+
+        &+ .pagination__label {
+            margin-top: 1.5em;
         }
     }
 }

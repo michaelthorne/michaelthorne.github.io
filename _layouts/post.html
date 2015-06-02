@@ -3,9 +3,9 @@ layout: default
 ---
 
 <article>
-    <a href="{{ page.url | prepend: site.baseurl }}">
-        <time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time>
-    </a>
+    <time datetime="{{ page.date | date: "%Y-%m-%d" }}">
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.date | date: "%b %-d, %Y" }}</a>
+    </time>
     <h2>{{ page.title }}</h2>
     {{ content }}
 </article>

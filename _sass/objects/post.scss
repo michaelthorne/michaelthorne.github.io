@@ -4,8 +4,8 @@
 
 .post {
     border-bottom: 1px solid $color-silver;
-    margin-bottom: 3em;
-    padding-bottom: 3.5em;
+    margin-bottom: 2em;
+    padding-bottom: 1em;
 
     /**
      * Time
@@ -13,16 +13,16 @@
 
     .post__time {
         border-bottom: 1px solid $color-silver;
-        color: $color-gray;
+        color: $color-blue;
         display: inline-block;
         font-size: 0.875em; /* 14 / 16 */
-        margin-bottom: 1em;
+        margin-bottom: 0.5em;
         text-decoration: none;
-        transition: color 0.25s;
+        transition: border-color 0.25s;
 
         &:focus,
         &:hover {
-            color: $color-blue;
+            border-bottom-color: $color-blue;
         }
     }
 
@@ -43,13 +43,13 @@
 
         a {
             border-bottom: 1px solid $color-silver;
-            color: $color-gray;
+            color: $color-orange;
             text-decoration: none;
-            transition: color 0.25s;
+            transition: border-color 0.25s;
 
             &:focus,
             &:hover {
-                color: $color-blue;
+                border-bottom-color: $color-orange;
             }
         }
     }
