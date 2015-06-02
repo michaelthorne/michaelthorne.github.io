@@ -10,7 +10,7 @@ they are now commonplace in front-end web design and development.
 
 My first experience with a style guide, although nothing like how I know them to be structured today, was in creating an
 HTML document to preview typography on the Web. While I was working at Hellocomputer in 2010, embedding custom Web Fonts
-via <code>@font-face</code> was still quite tricky for consistent cross-browser rendering. So I created a [template](http://userx.co.za/c/hc/s/typography.html)
+via <code>@font-face</code> was still quite tricky for consistent cross-browser rendering. So I created a [template](http://work.userx.co.za/hc/s/typography.html)
 so that the designer and I could see how a font family would render in the browser. Fortunately we had [Paul Irish’s bulletproof @font-face syntax](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax)
 article along with [Font Squirrel’s](http://www.fontsquirrel.com) free service for converting web fonts. Things are a little
 easier nowadays with the wide selection of font families provided by services like [Google Fonts](http://www.google.com/fonts)
