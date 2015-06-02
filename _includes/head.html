@@ -7,8 +7,6 @@
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="author" href="https://plus.google.com/+{{ site.profile_google_plus }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700%7CMerriweather:400,700,400italic,700italic">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
     {% if page.previous %}
     <link rel="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="{{ page.previous.title }}">
@@ -16,4 +14,16 @@
     {% if page.next %}
     <link rel="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="{{ page.next.title }}">
     {% endif %}
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script>
+        WebFont.load({
+            google: {
+                families: ['Open+Sans:400', 'Merriweather:400,700,400italic,700italic']
+            },
+            custom: {
+                families: ['FontAwesome'],
+                urls: [ 'https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' ]
+            }
+        });
+    </script>
 </head>
