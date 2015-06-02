@@ -14,7 +14,7 @@ via <code>@font-face</code> was still quite tricky for consistent cross-browser 
 so that the designer and I could see how a font family would render in the browser. Fortunately we had [Paul Irish’s bulletproof @font-face syntax](http://www.paulirish.com/2009/bulletproof-font-face-implementation-syntax)
 article along with [Font Squirrel’s](http://www.fontsquirrel.com) free service for converting web fonts. Things are a little
 easier nowadays with the wide selection of font families provided by services like [Google Fonts](http://www.google.com/fonts)
-and [Typekit](https://typekit.com").
+and [Typekit](https://typekit.com).
 
 Fast forward nearly 4 years and the style guides I build and work with are complex systems, with typography forming only
 one section of the entire guide. Needless to say, typography is one of the more important aspects of web design, but there
