@@ -50,7 +50,15 @@
 @media all and (min-width: $bp-small) {
 
     .l-main {
-        padding-top: 3em;
-        padding-bottom: 3em;
+        padding-top: 4em;
+        padding-bottom: 4em;
+    }
+}
+
+@media all and (min-width: $bp-xl) and (min-height: $bp-medium) {
+
+    .l-main {
+        padding-top: 6em;
+        padding-bottom: 6em;
     }
 }
