@@ -1,6 +1,6 @@
 <div class="strapline">
     <a class="strapline__link" href="{{ site.baseurl }}/">
-        <h1 class="hN">{{ site.title }}</h1>
+        <h1 class="hN">{{ site.strapline }}</h1>
     </a>
 </div>
 
@@ -11,7 +11,7 @@
         {% for page in sorted_pages %}
             {% if page.title %}
             <li>
-                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.nav }}</a>
             </li>
             {% endif %}
         {% endfor %}

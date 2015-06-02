@@ -1,6 +1,7 @@
 ---
 layout: journal
-title: Journal
+title: The Journal of Michael Thorne
+nav: Journal
 order: 2
 permalink: /journal/
 ---

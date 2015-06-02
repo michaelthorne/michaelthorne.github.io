@@ -3,6 +3,7 @@
 \* -------------------------------------------------------------------------- */
 
 .footer {
+    background-color: $color-black;
 
     /**
      * Primary
@@ -10,12 +11,13 @@
 
     &.footer--primary {
         padding-top: 3em;
-        padding-bottom: 3em;
         text-align: center;
 
-        /* Nav */
-
         .nav {
+            margin-bottom: 3em;
+        }
+
+        .social {
             margin-bottom: 3em;
         }
     }

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Contact
+title: Contact Michael Thorne
+nav: Contact
 order: 3
 permalink: /contact/
 ---

@@ -1,0 +1,26 @@
+/* -------------------------------------------------------------------------- *\
+   #TECH
+\* -------------------------------------------------------------------------- */
+
+.tech {
+    background-color: $color-white;
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    p {
+        font-family: $font-secondary;
+        margin-bottom: 0;
+
+        a {
+            border-bottom: 1px solid $color-silver;
+            color: $color-orange;
+            text-decoration: none;
+            transition: border-color 0.25s;
+
+            &:focus,
+            &:hover {
+                border-bottom-color: $color-orange;
+            }
+        }
+    }
+}

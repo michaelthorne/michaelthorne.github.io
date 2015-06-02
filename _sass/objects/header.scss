@@ -14,11 +14,9 @@
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
-        height: 11em;
-        padding-top: 1em;
+        height: 10em;
+        padding-top: 2em;
         text-align: center;
-
-        /* Strapline */
 
         .strapline {
             margin-bottom: 1.5em;
@@ -32,7 +30,7 @@
 
         &.header--primary {
             background-image: url('/assets/images/general/michael-thorne-turkey-milipark-1920x800.jpg');
-            height: 17em;
+            height: 16em;
             margin-bottom: 0;
             position: relative;
         }

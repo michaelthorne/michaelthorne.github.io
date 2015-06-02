@@ -5,7 +5,7 @@
         {% for page in sorted_pages %}
             {% if page.title %}
             <li>
-                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.nav }}</a>
             </li>
             {% endif %}
         {% endfor %}
@@ -43,5 +43,12 @@
                 <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="RSS"><span class="fa fa-rss" aria-hidden="true"></span></a>
             </li>
         </ul>
+    </div>
+
+    <div class="tech">
+        <div class="l-wrapper">
+            <p>This website was built using <a href="http://jekyllrb.com">Jekyll</a> and is hosted on <a href="https://pages.github.com">GitHub Pages</a>.</p>
+            <p></p>
+        </div>
     </div>
 </footer>
