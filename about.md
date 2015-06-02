@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+excerpt: I’m a front-end web developer at Next, sports enthusiast and avid traveller who lives in Cape Town, South Africa.
 nav: About
 order: 1
 permalink: /about/

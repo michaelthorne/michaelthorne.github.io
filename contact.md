@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact me
+excerpt: Contact me if you’d like to chat about work or have any questions relating to my website.
 nav: Contact
 order: 3
 permalink: /contact/
