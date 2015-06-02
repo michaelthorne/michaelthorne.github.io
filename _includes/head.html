@@ -2,18 +2,23 @@
     <meta charset="utf-8">
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
     <link rel="alternate" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" type="application/rss+xml" title="{{ site.title }}">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="author" href="https://plus.google.com/+{{ site.profile_google_plus }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
+
     {% if page.previous %}
     <link rel="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="{{ page.previous.title }}">
     {% endif %}
     {% if page.next %}
     <link rel="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="{{ page.next.title }}">
     {% endif %}
+
+    <!-- Web Fonts -->
     <script>
         WebFontConfig = {
             google: {
@@ -25,6 +30,8 @@
             }
         };
     </script>
+
+    <!-- Web Font Loader -->
     <script>
         (function(){var e=document.createElement("script");e.src=("https:"==document.location.protocol?"https":"http")+
         "://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js";e.type="text/javascript";e.async="true";
