@@ -28,14 +28,12 @@
         line-height: inherit;
         margin-bottom: 0;
         padding: 0.25em 0.5em;
-        text-shadow: 1px 1px 1px rgba($color-black, 0.25);
         transition: background-color 0.25s, color 0.25s;
 
         &:focus,
         &:hover {
             background-color: $color-white;
             color: $color-blue;
-            text-shadow: none;
         }
     }
 }
