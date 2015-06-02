@@ -15,10 +15,7 @@
     <link rel="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="{{ page.next.title }}">
     {% endif %}
     <script>
-        (function(){var e=document.createElement("script");e.src=("https:"==document.location.protocol?"https":"http")+"://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js";e.type="text/javascript";e.async="true";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
-    </script>
-    <script>
-        WebFont.load({
+        WebFontConfig = {
             google: {
                 families: ['Open+Sans:400', 'Merriweather:400,700,400italic,700italic']
             },
@@ -26,6 +23,11 @@
                 families: ['FontAwesome'],
                 urls: [ '//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' ]
             }
-        });
+        };
+    </script>
+    <script>
+        (function(){var e=document.createElement("script");e.src=("https:"==document.location.protocol?"https":"http")+
+        "://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js";e.type="text/javascript";e.async="true";
+        var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
     </script>
 </head>
