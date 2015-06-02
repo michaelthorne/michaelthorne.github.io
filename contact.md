@@ -15,6 +15,6 @@ Alternatively, you can read my [code](https://github.com/michaelthorne), look at
 or track my [running & cycling](https://www.strava.com/athletes/1328198).
 
 <figure>
-    <img src="/assets/images/general/michael-thorne-robben-island-ferry-2013-800x533.jpg" alt="Michael Thorne – Robben Island Ferry, 2013" />
+    <img src="/assets/images/general/michael-thorne-robben-island-ferry-2013-800x533.jpg" width="800" height="533" alt="Michael Thorne – Robben Island Ferry, 2013" />
     <figcaption>Michael Thorne – Robben Island Ferry, 2013</figcaption>
 </figure>
