@@ -67,12 +67,13 @@ article {
         /* Caption */
 
         figcaption {
-            color: $color-black;
+            background-color: $color-black;
+            color: $color-white;
             font-size: 0.875em;
             font-family: $font-secondary;
             font-style: italic;
-            padding-top: 0.5em;
-            padding-left: 0.125em;
+            padding: 0.5em 1em 0.75em;
+            text-align: right;
         }
     }
 

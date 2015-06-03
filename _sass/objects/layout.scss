@@ -22,15 +22,8 @@
 .l-wrapper {
     margin-right: auto;
     margin-left: auto;
-    max-width: $bp-medium;
+    max-width: $bp-small;
     width: 90%;
-}
-
-@media all and (min-width: $bp-xl) {
-
-    .l-wrapper {
-        max-width: $bp-small;
-    }
 }
 
 

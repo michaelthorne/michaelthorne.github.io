@@ -24,7 +24,7 @@ form patterns and later, templates which are finally displayed as the web pages 
 
 <figure>
     <img src="/assets/images/journal/orderin-front-end-style-guide-1230x692.png" width="1230" height="692" alt="OrderIn’s front-end Style Guide">
-    <figcaption>Screenshot of the front-end style guide I created for <a href="http://orderin.co.za">OrderIn</a>.</figcaption>
+    <figcaption>Screenshot of the front-end style guide I created for <a href="http://orderin.co.za">OrderIn</a></figcaption>
 </figure>
 
 Whilst some clients I’ve worked with haven’t fully grasped all the benefits of style guide driven development, there have

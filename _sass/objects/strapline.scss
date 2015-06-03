@@ -5,6 +5,7 @@
 .strapline {
     background-color: $color-blue;
     border-radius: 2px;
+    display: inline-block;
     text-align: center;
 
     /**
@@ -12,7 +13,6 @@
      */
 
     .strapline__link {
-        display: inline-block;
         text-decoration: none;
     }
 
@@ -27,7 +27,7 @@
         font-weight: $weight-bold;
         line-height: inherit;
         margin-bottom: 0;
-        padding: 0.375em 0.5em;
+        padding: 0.125em 0.5em 0.1875em 0.5em;
         transition: background-color 0.25s, color 0.25s;
 
         &:focus,
@@ -44,8 +44,6 @@
 
         .hN {
             font-size: $h2-font-size;
-            padding-top: 0.25em;
-            padding-bottom: 0.25em;
         }
     }
 }

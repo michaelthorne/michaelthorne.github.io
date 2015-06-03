@@ -31,7 +31,7 @@ September last year we went to New York.
     <a href="http://www.flickr.com/photos/mikkelz/sets/72157624485305951">
         <img src="/assets/images/general/michael-thorne-craft-bike-transalp-2010-800x533.jpg" width="800" height="533" alt="CRAFT Bike Transalp 2010 – Etappe 4">
     </a>
-    <figcaption>CRAFT Bike Transalp 2010 – Etappe 4</figcaption>
+    <figcaption>CRAFT Bike Transalp 2010 – Etappe 4, 2010</figcaption>
 </figure>
 
 Whenever I have spare time, I enjoy [cycling and running](http://www.strava.com/athletes/1328198) to keep fit and unwind

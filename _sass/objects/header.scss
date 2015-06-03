@@ -14,11 +14,14 @@
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
-        height: 9em;
-        padding-top: 1em;
+        height: 10em;
+        position: relative;
         text-align: center;
 
-        .strapline {
+        /* Nav */
+
+        .nav {
+            padding-top: 1em;
             margin-bottom: 1.5em;
         }
     }
@@ -30,9 +33,13 @@
 
         &.header--primary {
             background-image: url('/assets/images/general/michael-thorne-turkey-milipark-1920x800.jpg');
-            height: 15em;
+            height: 20em;
             margin-bottom: 0;
             position: relative;
+
+            .nav {
+                margin-bottom: 4.5em;
+            }
         }
     }
 }
@@ -42,7 +49,7 @@
     .l-header {
 
         &.header--primary {
-            height: 23em;
+            height: 30em;
         }
     }
 }
