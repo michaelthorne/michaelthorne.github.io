@@ -3,8 +3,6 @@
 \* -------------------------------------------------------------------------- */
 
 .strapline {
-    background-color: $color-blue;
-    border-radius: 2px;
     display: inline-block;
     text-align: center;
 
@@ -13,7 +11,18 @@
      */
 
     .strapline__link {
+        background-color: $color-blue;
+        border-radius: 2px;
+        color: $color-white;
+        display: inline-block;
+        padding: 0.25em 1.0625em 0.3125em;
         text-decoration: none;
+
+        &:focus,
+        &:hover {
+            background-color: $color-white;
+            color: $color-blue;
+        }
     }
 
     /**
@@ -21,20 +30,12 @@
      */
 
     .hN {
-        color: $color-white;
         font-family: $font-secondary;
         font-size: $h4-font-size;
         font-weight: $weight-bold;
         line-height: inherit;
         margin-bottom: 0;
-        padding: 0.125em 0.5em 0.1875em 0.5em;
         transition: background-color 0.25s, color 0.25s;
-
-        &:focus,
-        &:hover {
-            background-color: $color-white;
-            color: $color-blue;
-        }
     }
 }
 
