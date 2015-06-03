@@ -1,9 +1,13 @@
-/**
- * Syntax highlighting styles
- */
+/* -------------------------------------------------------------------------- *\
+   #SYNTAX HIGHLIGHTING
+\* -------------------------------------------------------------------------- */
 
 .highlight {
-    background: #fff;
+    background: $color-white;
+    border: 1px solid $color-silver;
+    border-radius: 2px;
+    font-size: 0.75em;
+    padding: 0.75em 1em;
 
     .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error
