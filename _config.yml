@@ -15,6 +15,6 @@ profile_youtube: mikkelzZA
 
 # Build settings
 markdown: kramdown
-# highlighter: null
+highlighter: null
 sass:
     style: :compressed
