@@ -51,6 +51,6 @@ address the problem.
 
 ---
 
-By using Twitter in a positive way, we can make small improvements within communities. Even if it is just to say thank you.
+By using Twitter like this, we can make small a difference within our communities. Even if it is just to say thank you.
 
 <script src="//platform.twitter.com/widgets.js" async></script>
