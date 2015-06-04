@@ -23,8 +23,11 @@ we need to cater for all the standard HTML elements, which are the building bloc
 form patterns and later, templates which are finally displayed as the web pages our users see in their browsers.
 
 <figure>
-    <img src="/assets/images/journal/orderin-front-end-style-guide-1230x692.png" width="1230" height="692" alt="OrderIn’s front-end Style Guide">
-    <figcaption>Screenshot of the front-end style guide I created for <a href="http://orderin.co.za">OrderIn</a></figcaption>
+    <img srcset="/assets/images/journal/orderin-front-end-style-guide-1230x692.png 1230w,
+                 /assets/images/journal/orderin-front-end-style-guide-615x346.png   615w"
+        src="/assets/images/journal/orderin-front-end-style-guide-1230x692.png"
+        alt="OrderIn’s front-end Style Guide">
+    <figcaption>Screenshot of the front-end style guide I created for <a href="http://www.orderin.co.za">OrderIn’s</a> website</figcaption>
 </figure>
 
 Whilst some clients I’ve worked with haven’t fully grasped all the benefits of style guide driven development, there have
