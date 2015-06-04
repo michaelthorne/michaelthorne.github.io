@@ -55,6 +55,6 @@ One of the things that I like most about the industry in which I work is how peo
 into how and why they designed a product or website. They create tools to improve our workflow, most of which are free to
 use. And they push the boundaries, whilst setting the standards for us to follow. It is exciting to be apart of it.
 
-I’ve credited some of those who have helped and motivated me over the years in my website’s [humans.txt](http://userx.co.za/humans.txt) file.
+I’ve credited some of those who have helped and motivated me over the years in my website’s [humans.txt](/humans.txt) file.
 
 Thanks for visiting.

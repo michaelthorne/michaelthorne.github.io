@@ -43,7 +43,7 @@ isn’t rendering correctly in a template due to some or other overriding style.
 way and look at reusing elements and patterns wherever possible. Because you’re building a system and not creating individual
 templates, you start to quickly see how pages are structured and what is shared and common amongst them.
 
-The [style guide](http://userx.co.za/styleguide) I created for my website is quite basic, focusing primarily on typography.
+The [style guide](/styleguide) I created for my website is quite basic, focusing primarily on typography.
 I found it helpful, even with a small number of templates, to have a consistent set of styles which I could define once
 and use throughout the website.
 
