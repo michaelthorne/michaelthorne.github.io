@@ -44,14 +44,16 @@ to home or overseas.
 </blockquote>
 
 I’ve read some [amazing books](https://kindle.amazon.com/profile/Michael-Thorne/146993) which have been an inspiration to
-me and for my career. These are just a few of my favourite:
+me during my career. These are just a few of my favourite:
 
 * [Designing With Web Standards](http://en.wikipedia.org/wiki/Designing_with_Web_Standards) by Jeffrey Zeldman
 * [Adaptive Web Design](http://adaptivewebdesign.info) by Aaron Gustafson
 * [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) by Ethan Marcotte
 * [Man’s Search for Meaning](http://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X) by Viktor E. Frankl
 
-The thing I love most about my industry, is the generous people that share their work and experiences with the community.
+One of the things that I like most about the industry in which I work is how people share what they do. They provide insight
+into how and why they designed a product or website. They create tools to improve our workflow, most of which are free to
+use. And they push the boundaries, whilst setting the standards for us to follow. It is exciting to be apart of it.
 
 I’ve credited some of those who have helped and motivated me over the years in my website’s [humans.txt](http://userx.co.za/humans.txt) file.
 
