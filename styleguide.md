@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Style Guide
-excerpt: This is the front-end Style Guide for my personal website. It displays the typographic styles for the markup my of content.
+excerpt: This is the front-end Style Guide for the website. It displays the typographic styles for the markup my of content.
 permalink: /styleguide/
 ---
 
 ## Style Guide
 
-This is the front-end Style Guide for my personal website. It displays the typographic styles for the markup my of content.
+This is the front-end Style Guide for the website. It displays the typographic styles for the markup my of content.
 
 <hr class="separator">
 
