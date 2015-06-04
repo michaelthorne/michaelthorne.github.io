@@ -156,6 +156,14 @@ article {
             }
         }
     }
+
+    /**
+     * Tweet
+     */
+
+    .twitter-tweet {
+        margin-bottom: 1.5em !important;
+    }
 }
 
 @media all and (min-width: $bp-small) {
