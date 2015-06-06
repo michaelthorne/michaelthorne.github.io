@@ -1,4 +1,4 @@
-<header class="header header--primary" role="banner">
+<header class="header header--primary header--{% if page.header %}{{ page.header }}{% else %}default{% endif %}" role="banner">
     <nav class="nav nav--primary">
         <ul class="list">
         {% assign sorted_pages = (site.pages | sort: 'order') %}

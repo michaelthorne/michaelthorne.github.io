@@ -3,6 +3,7 @@ layout: page
 title: About me
 excerpt: I’m a front-end web developer at Next, sports enthusiast and avid traveller who lives in Cape Town, South Africa.
 nav: About
+header: about
 order: 1
 permalink: /about/
 ---
@@ -29,7 +30,10 @@ September last year we went to New York.
 
 <figure>
     <a href="http://www.flickr.com/photos/mikkelz/sets/72157624485305951">
-        <img src="/assets/images/general/michael-thorne-craft-bike-transalp-2010-800x533.jpg" width="800" height="533" alt="CRAFT Bike Transalp 2010 – Etappe 4">
+        <img srcset="/assets/images/general/michael-thorne-craft-bike-transalp-2010-820x461.jpg 820w,
+                     /assets/images/general/michael-thorne-craft-bike-transalp-2010-410x231.jpg 410w"
+            src="/assets/images/general/michael-thorne-craft-bike-transalp-2010-820x461.jpg"
+            alt="CRAFT Bike Transalp 2010 – Etappe 4, 2010">
     </a>
     <figcaption>CRAFT Bike Transalp 2010 – Etappe 4, 2010</figcaption>
 </figure>

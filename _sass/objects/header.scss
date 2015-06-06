@@ -9,9 +9,9 @@
      */
 
     &.header--primary {
-        background: $color-black url('/assets/images/headers/michael-thorne-turkey-milipark-600x600.jpg') no-repeat center center;
+        background: $color-black no-repeat center center;
         background-size: cover;
-        height: 12em;
+        height: 14em;
         position: relative;
         text-align: center;
 
@@ -22,6 +22,38 @@
             margin-bottom: 2em;
         }
     }
+
+    /**
+     * Default
+     */
+
+    &.header--default {
+        background-image: url('/assets/images/headers/michael-thorne-default-turkey-milipark-640x360.jpg');
+    }
+
+    /**
+     * About
+     */
+
+    &.header--about {
+        background-image: url('/assets/images/headers/michael-thorne-about-turkey-cappadocia-640x360.jpg');
+    }
+
+    /**
+     * Contact
+     */
+
+    &.header--contact {
+        background-image: url('/assets/images/headers/michael-thorne-contact-new-york-640x360.jpg');
+    }
+
+    /**
+     * Journal
+     */
+
+    &.header--journal {
+        background-image: url('/assets/images/headers/michael-thorne-journal-table-mountain-640x360.jpg');
+    }
 }
 
 @media all and (min-width: $bp-small) {
@@ -29,24 +61,39 @@
     .header {
 
         &.header--primary {
-            background-image: url('/assets/images/headers/michael-thorne-turkey-milipark-1920x800.jpg');
-            height: 22em;
+            height: 24em;
             margin-bottom: 0;
             position: relative;
 
             .nav {
-                margin-bottom: 6em;
+                margin-bottom: 3em;
             }
+        }
+
+        &.header--default {
+            background-image: url('/assets/images/headers/michael-thorne-default-turkey-milipark-1600x900.jpg');
+        }
+
+        &.header--about {
+            background-image: url('/assets/images/headers/michael-thorne-about-turkey-cappadocia-1600x900.jpg');
+        }
+
+        &.header--contact {
+            background-image: url('/assets/images/headers/michael-thorne-contact-new-york-1600x900.jpg');
+        }
+
+        &.header--journal {
+            background-image: url('/assets/images/headers/michael-thorne-journal-table-mountain-1600x900.jpg');
         }
     }
 }
 
-@media all and (min-width: $bp-xl) and (min-height: $bp-medium) {
+@media all and (min-width: $bp-xl) and (min-height: $bp-small) {
 
-    .l-header {
+    .header {
 
         &.header--primary {
-            height: 30em;
+            height: 32em;
         }
     }
 }
