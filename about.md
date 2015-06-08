@@ -6,6 +6,7 @@ nav: About
 header: about
 order: 1
 permalink: /about/
+lastmod: 2015-06-08
 ---
 
 ## About me

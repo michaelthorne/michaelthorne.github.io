@@ -11,6 +11,7 @@ sitemap:
     {% unless page.sitemap.exclude == true %}
     <url>
         <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+        <lastmod>{{ page.lastmod | date: "%Y-%m-%d"}}</lastmod>
     </url>
     {% endunless %}
 {% endfor %}
@@ -18,6 +19,7 @@ sitemap:
     {% unless post.published == false %}
     <url>
         <loc>{{ site.url }}{{ post.url }}</loc>
+        <lastmod>{{ post.date | date: "%Y-%m-%d"}}</lastmod>
     </url>
     {% endunless %}
 {% endfor %}

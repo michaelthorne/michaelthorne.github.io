@@ -6,6 +6,7 @@ nav: Contact
 header: contact
 order: 3
 permalink: /contact/
+lastmod: 2015-06-08
 ---
 
 ## Contact me
