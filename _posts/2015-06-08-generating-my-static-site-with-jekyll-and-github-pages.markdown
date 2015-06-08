@@ -12,6 +12,7 @@ and Markdown files.
     <a href="http://jekyllrb.com/">
         <img srcset="/assets/images/journal/jekyll-logo-820x418.png 820w,
                      /assets/images/journal/jekyll-logo-410x209.png 410w"
+            sizes="100vw"
             src="/assets/images/journal/jekyll-logo-820x418.png"
             alt="Jekyll logo">
     </a>

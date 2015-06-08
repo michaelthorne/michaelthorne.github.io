@@ -19,6 +19,7 @@ You can email me at [contact@userx.co.za](contact@userx.co.za) or get in touch w
     <a href="https://www.flickr.com/photos/mikkelz/sets/72157649224195065">
         <img srcset="/assets/images/general/michael-thorne-turkey-istanbul-2013-820x461.jpg 820w,
                      /assets/images/general/michael-thorne-turkey-istanbul-2013-410x231.jpg 410w"
+            sizes="100vw"
             src="/assets/images/general/michael-thorne-turkey-istanbul-2013-820x461.jpg"
             alt="Michael Thorne – Istanbul, 2013">
     </a>
