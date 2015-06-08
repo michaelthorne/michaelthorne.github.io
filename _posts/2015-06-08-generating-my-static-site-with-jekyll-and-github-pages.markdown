@@ -33,7 +33,8 @@ It was a tedious converting all my pages to Markdown (even though I don’t have
 
 ## GitHub Pages
 
-Seeing as my the source code for my website is on GitHub, it seemed logical to try out [GitHub Pages](https://pages.github.com).
+Seeing as my the source [code for my website](https://github.com/michaelthorne/michaelthorne.github.io) is on GitHub, it
+seemed logical to try out [GitHub Pages](https://pages.github.com).
 
 <blockquote>
     <p>GitHub Pages are public webpages hosted and published through our site.</p>
