@@ -50,6 +50,8 @@ and use throughout the website.
 
 ---
 
+### Website Style Guide Resources
+
 [Anna Debenham](http://www.maban.co.uk) recently started a super project on GitHub, which is a collection of [style guide resources](http://styleguides.io).
 She, along with a [bunch of contributors](https://github.com/maban/styleguides/graphs/contributors) have added articles,
 examples and tools to help you understand and create your own style guides. It’s great to see how the community contributed
