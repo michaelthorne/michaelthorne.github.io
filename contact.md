@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact me
-excerpt: Contact me if you’d like to chat about work or have any questions relating to my website.
+excerpt: You can email me or or get in touch with me on Twitter @mikkelz_za if you’d like to chat about work or have any questions relating to my website.
 nav: Contact
 header: contact
 order: 3
@@ -13,7 +13,8 @@ lastmod: 2015-06-08
 
 Hi, I’d like to hear from you.
 
-You can email me at [contact@userx.co.za](contact@userx.co.za) or get in touch with me on Twitter [@mikkelz_za](https://twitter.com/@mikkelz_za).
+You can email me at [contact@userx.co.za](contact@userx.co.za) or get in touch with me on Twitter [@mikkelz_za](https://twitter.com/@mikkelz_za)
+if you’d like to chat about work or have any questions relating to my website.
 
 <figure>
     <a href="https://www.flickr.com/photos/mikkelz/sets/72157649224195065">

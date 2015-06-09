@@ -5,8 +5,7 @@ date: 2013-03-27
 categories: journal
 ---
 
-Welcome to my small, but growing footprint on the Web. I have over 10 years of industry-related experience and decided to
-specialise as a front-end web developer at the end of last year.
+Welcome to my small, but growing footprint on the Web. I have over 10 years of industry-related experience and decided to specialise as a front-end web developer at the end of last year.
 
 I have been fortunate to work with and learn from some smart people over the years. I feel that the knowledge I’ve acquired,
 combined with my passion for the work I do will ensure I continue to be successful in my career.

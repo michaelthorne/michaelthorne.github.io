@@ -5,8 +5,7 @@ date: 2014-04-24
 categories: journal
 ---
 
-I spent last year freelancing, but received a great opportunity to work at Joe Public n (now known as [Next](http://www.wearenext.co.za))
-on a full-time basis this year.
+I spent last year freelancing, but received a great opportunity to work at Joe Public n (now known as [Next](http://www.wearenext.co.za)) on a full-time basis this year.
 
 I worked with them (previously [Knnktr](http://knnktr.tumblr.com)) on a few freelance projects last year and I was well aware
 of their attitude towards work, web design and development, as well as their dealings with clients. Naturally I saw eye-to-eye
