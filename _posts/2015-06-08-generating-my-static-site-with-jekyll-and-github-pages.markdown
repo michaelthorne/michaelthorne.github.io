@@ -9,10 +9,10 @@ I recently converted my website to use Jekyll and GitHub Pages. Jekyll allows yo
 
 <figure>
     <a href="http://jekyllrb.com/">
-        <img srcset="http://assets.userx.co.za/userx/1.0.0/images/journal/jekyll-logo-820x418.png 820w,
-                     http://assets.userx.co.za/userx/1.0.0/images/journal/jekyll-logo-410x209.png 410w"
+        <img srcset="/assets/images/journal/jekyll-logo-820x418.png 820w,
+                     /assets/images/journal/jekyll-logo-410x209.png 410w"
             sizes="100vw"
-            src="http://assets.userx.co.za/userx/1.0.0/images/journal/jekyll-logo-820x418.png"
+            src="/assets/images/journal/jekyll-logo-820x418.png"
             alt="Jekyll logo">
     </a>
     <figcaption>Jekyll is a simple, blog-aware, static site generator.</figcaption>
