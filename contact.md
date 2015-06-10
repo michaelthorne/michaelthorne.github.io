@@ -18,10 +18,10 @@ if you’d like to chat about work or have any questions relating to my website.
 
 <figure>
     <a href="https://www.flickr.com/photos/mikkelz/sets/72157649224195065">
-        <img srcset="/assets/images/general/michael-thorne-turkey-istanbul-2013-820x461.jpg 820w,
-                     /assets/images/general/michael-thorne-turkey-istanbul-2013-410x231.jpg 410w"
+        <img srcset="http://assets.userx.co.za/userx/1.0.0/images/general/michael-thorne-turkey-istanbul-2013-820x461.jpg 820w,
+                     http://assets.userx.co.za/userx/1.0.0/images/general/michael-thorne-turkey-istanbul-2013-410x231.jpg 410w"
             sizes="100vw"
-            src="/assets/images/general/michael-thorne-turkey-istanbul-2013-820x461.jpg"
+            src="http://assets.userx.co.za/userx/1.0.0/images/general/michael-thorne-turkey-istanbul-2013-820x461.jpg"
             alt="Michael Thorne – Istanbul, 2013">
     </a>
     <figcaption>Michael Thorne – Istanbul, 2013</figcaption>

@@ -24,10 +24,10 @@ In order to restore the **Personal Hotspot** option on your iPad/iPhone, follow 
 * Disable and Enable the Cellular Data on your device
 
 <figure>
-    <img srcset="/assets/images/journal/ipad-settings-cellular-data-apn-887-500.png 887w,
-                 /assets/images/journal/ipad-settings-cellular-data-apn-444-250.png 444w"
+    <img srcset="http://assets.userx.co.za/userx/1.0.0/images/journal/ipad-settings-cellular-data-apn-887-500.png 887w,
+                 http://assets.userx.co.za/userx/1.0.0/images/journal/ipad-settings-cellular-data-apn-444-250.png 444w"
         sizes="100vw"
-        src="/assets/images/journal/ipad-settings-cellular-data-apn-887-500.png"
+        src="http://assets.userx.co.za/userx/1.0.0/images/journal/ipad-settings-cellular-data-apn-887-500.png"
         alt="iOS 8 – Cellular Data Settings APN">
     <figcaption>iOS 8 – Cellular Settings APN</figcaption>
 </figure>

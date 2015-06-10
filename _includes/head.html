@@ -23,7 +23,7 @@
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="author" href="https://plus.google.com/+{{ site.profile_google_plus }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.assets_url }}">
 
     {% if page.previous %}
     <link rel="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="{{ page.previous.title }}">

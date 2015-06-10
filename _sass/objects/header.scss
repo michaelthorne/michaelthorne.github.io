@@ -11,7 +11,7 @@
     &.header--primary {
         background: $color-black no-repeat center center;
         background-size: cover;
-        height: 14em;
+        height: 14em; /* 224 / 16 */
         position: relative;
         text-align: center;
 
@@ -28,7 +28,7 @@
      */
 
     &.header--default {
-        background-image: url('/assets/images/headers/michael-thorne-default-turkey-milipark-640x360.jpg');
+        background-image: url('http://assets.userx.co.za/userx/1.0.0/images/headers/michael-thorne-default-turkey-milipark-640x360.jpg');
     }
 
     /**
@@ -36,7 +36,7 @@
      */
 
     &.header--about {
-        background-image: url('/assets/images/headers/michael-thorne-about-turkey-cappadocia-640x360.jpg');
+        background-image: url('http://assets.userx.co.za/userx/1.0.0/images/headers/michael-thorne-about-turkey-cappadocia-640x360.jpg');
     }
 
     /**
@@ -44,7 +44,7 @@
      */
 
     &.header--contact {
-        background-image: url('/assets/images/headers/michael-thorne-contact-new-york-640x360.jpg');
+        background-image: url('http://assets.userx.co.za/userx/1.0.0/images/headers/michael-thorne-contact-new-york-640x360.jpg');
     }
 
     /**
@@ -52,7 +52,7 @@
      */
 
     &.header--journal {
-        background-image: url('/assets/images/headers/michael-thorne-journal-table-mountain-640x360.jpg');
+        background-image: url('http://assets.userx.co.za/userx/1.0.0/images/headers/michael-thorne-journal-table-mountain-640x360.jpg');
     }
 }
 
@@ -61,7 +61,7 @@
     .header {
 
         &.header--primary {
-            height: 24em;
+            height: 24em; /* 384 / 16 */
             margin-bottom: 0;
             position: relative;
 
@@ -71,19 +71,19 @@
         }
 
         &.header--default {
-            background-image: url('/assets/images/headers/michael-thorne-default-turkey-milipark-1600x900.jpg');
+            background-image: url('http://assets.userx.co.za/userx/1.0.0/images/headers/michael-thorne-default-turkey-milipark-1600x900.jpg');
         }
 
         &.header--about {
-            background-image: url('/assets/images/headers/michael-thorne-about-turkey-cappadocia-1600x900.jpg');
+            background-image: url('http://assets.userx.co.za/userx/1.0.0/images/headers/michael-thorne-about-turkey-cappadocia-1600x900.jpg');
         }
 
         &.header--contact {
-            background-image: url('/assets/images/headers/michael-thorne-contact-new-york-1600x900.jpg');
+            background-image: url('http://assets.userx.co.za/userx/1.0.0/images/headers/michael-thorne-contact-new-york-1600x900.jpg');
         }
 
         &.header--journal {
-            background-image: url('/assets/images/headers/michael-thorne-journal-table-mountain-1600x900.jpg');
+            background-image: url('http://assets.userx.co.za/userx/1.0.0/images/headers/michael-thorne-journal-table-mountain-1600x900.jpg');
         }
     }
 }
@@ -93,7 +93,7 @@
     .header {
 
         &.header--primary {
-            height: 32em;
+            height: 32em; /* 512 / 16 */
         }
     }
 }
