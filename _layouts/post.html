@@ -15,12 +15,10 @@ layout: default
 <div class="pagination">
 {% if page.previous %}
     <div class="pagination__label">Previous:</div>
-
     <a class="pagination__link" href="{{ page.previous.url | prepend: site.baseurl }}">{{ page.previous.title }}</a>
 {% endif %}
 {% if page.next %}
     <div class="pagination__label">Next:</div>
-    
     <a class="pagination__link" href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.title }}</a>
 {% endif %}
 </div>
