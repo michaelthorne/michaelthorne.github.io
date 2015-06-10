@@ -7,7 +7,7 @@ categories: journal
 
 The topic for the most recent meetup was: “Content’s Forgotten Corners”. Content strategist [Kerry-Anne Gilowey](http://about.me/kerry-anne) presented her topic.
 
-It was refreshing to hear a talk on content strategy, continuing on from the topics of the [July meetup](cape-town-ux-craft-july-meetup)
+It was refreshing to hear a talk on content strategy, continuing on from the topics of the [July meetup](/journal/cape-town-ux-craft-july-meetup)
 which were focused on the psychological and organisational aspects of user experience.
 
 The screenshots from [lorem oopsum](http://loremoopsum.tumblr.com) that Kerry-Anne shared were amusing and I

@@ -13,7 +13,7 @@ lastmod: 2015-06-08
 
 Hi, I’d like to hear from you.
 
-You can email me at [contact@userx.co.za](contact@userx.co.za) or get in touch with me on Twitter [@mikkelz_za](https://twitter.com/@mikkelz_za)
+You can email me at [contact@userx.co.za](mailto:contact@userx.co.za) or get in touch with me on Twitter [@mikkelz_za](https://twitter.com/@mikkelz_za)
 if you’d like to chat about work or have any questions relating to my website.
 
 <figure>

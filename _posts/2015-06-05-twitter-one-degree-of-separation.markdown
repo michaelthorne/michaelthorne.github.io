@@ -23,7 +23,7 @@ on this momentous occasion. And he favourited my tweet.
 
 ### Sharing my thoughts
 
-After recently watching [Kurt Cobain: Montage of Heck](www.imdb.com/title/tt4229236), I started listening to Nirvana again.
+After recently watching [Kurt Cobain: Montage of Heck](http://www.imdb.com/title/tt4229236), I started listening to Nirvana again.
 And I’m enjoying it. I posted this on Twitter and Brett Morgen (director and producer) favourited my tweet.
 
 <blockquote class="twitter-tweet">
