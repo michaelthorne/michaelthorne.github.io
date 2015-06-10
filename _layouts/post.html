@@ -4,11 +4,11 @@ layout: default
 
 <article itemscope itemtype="http://schema.org/BlogPosting">
     <time datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.date | date: "%b %-d, %Y" }}</a>
+        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.date | page: "%b %-d, %Y" }}</a>
     </time>
-    <h2 itemprop="headline"{{ page.title }}</h2>
+    <h2 itemprop="headline">{{ page.title }}</h2>
     <div itemprop="articleBody">
-        {{ post.content }}
+        {{ content }}
     </div>
 </article>
 
