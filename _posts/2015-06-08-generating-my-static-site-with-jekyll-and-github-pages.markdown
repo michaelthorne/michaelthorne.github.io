@@ -51,13 +51,16 @@ generate my static site and upload it. GitHub Pages generates my site for me whe
 
 GitHub Pages run Jekyll in safe mode, which means you can’t use custom plugins. And I needed an automated solution for generating
 my sitemap. David Ensinger has written about [generating a sitemap in Jekyll without a plugin](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin).
-I am using his updated method on my website. Thanks David!
+I am using his updated method on my website which works great.
 
-### Compress HTML in Jekyll
+### Compressing HTML in Jekyll
 
-I regularly use the Grunt `htmlmin` plugin for [minifying HTML](https://www.npmjs.com/package/grunt-contrib-htmlmin). The
-performance benefit of minified HTML is that it reduces the document’s file size. White space gets removed from the HTML
-and this can lower the time it takes to download a web page. Anatol Broder created a Jekyll layout that [compresses HTML
+I use the Grunt `htmlmin` plugin for [minifying HTML](https://www.npmjs.com/package/grunt-contrib-htmlmin) in most of my
+projects. The performance benefit of minified HTML is that it reduces the document’s file size. White space gets removed
+from the HTML and this can lower the time it takes to download a web page. I haven’t had much time to research how to use
+Jekyll and Grunt, but I still want to minify my HTML.
+
+Anatol Broder has created a clever Jekyll layout that [compresses HTML
 in Liquid](http://jch.penibelst.de). The great thing about this solution, is that a custom plugin isn’t required either.
 
 ---
