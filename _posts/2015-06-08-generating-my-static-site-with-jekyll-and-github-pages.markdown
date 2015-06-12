@@ -62,7 +62,7 @@ from the HTML and this can lower the time it takes to download a web page. I hav
 Jekyll and Grunt, but I still wanted to minify my HTML.
 
 Anatol Broder has created a clever Jekyll layout that [compresses HTML
-in Liquid](http://jch.penibelst.de). The great thing about this solution, is that a custom plugin isn’t required either.
+in Liquid](http://jch.penibelst.de). The nice thing about this solution, is that a custom plugin isn’t required either.
 
 ---
 
