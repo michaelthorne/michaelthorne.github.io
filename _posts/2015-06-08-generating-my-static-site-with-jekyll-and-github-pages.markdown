@@ -59,7 +59,7 @@ I am using his updated method on my website which works great.
 I use the Grunt `htmlmin` plugin for [minifying HTML](https://www.npmjs.com/package/grunt-contrib-htmlmin) in most of my
 projects. The performance benefit of minified HTML is that it reduces the document’s file size. White space gets removed
 from the HTML and this can lower the time it takes to download a web page. I haven’t had much time to research how to use
-Jekyll and Grunt, but I still want to minify my HTML.
+Jekyll and Grunt, but I still wanted to minify my HTML.
 
 Anatol Broder has created a clever Jekyll layout that [compresses HTML
 in Liquid](http://jch.penibelst.de). The great thing about this solution, is that a custom plugin isn’t required either.
