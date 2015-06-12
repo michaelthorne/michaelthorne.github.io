@@ -51,6 +51,7 @@ generate my static site and upload it. GitHub Pages generates my site for me whe
 
 GitHub Pages run Jekyll in safe mode, which means you can’t use custom plugins. And I needed an automated solution for generating
 my sitemap. David Ensinger has written about [generating a sitemap in Jekyll without a plugin](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin).
+
 I am using his updated method on my website which works great.
 
 ### Compressing HTML in Jekyll
