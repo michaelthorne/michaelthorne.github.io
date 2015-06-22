@@ -37,10 +37,10 @@ ehthumbs.db
 Thumbs.db
 
 # PhpStorm #
-###########
+############
 *.idea
 
 # Jekyll #
-################
+##########
 _site
 .sass-cache
