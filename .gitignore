@@ -44,9 +44,3 @@ Thumbs.db
 ################
 _site
 .sass-cache
-
-# Node / Grunt #
-################
-node_modules
-validation-report.json
-validation-status.json
