@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "PhpStorm performance optimisation tips"
-date: 2014-10-20
 categories: journal
 ---
 

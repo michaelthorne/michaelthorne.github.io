@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Front-end Style Guides"
-date: 2014-12-08
 categories: journal
 ---
 

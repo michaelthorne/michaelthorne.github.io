@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Generating my static site with Jekyll and GitHub Pages"
-date: 2015-06-08
 categories: journal
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cape Town UX Craft – July Meetup"
-date: 2014-08-05
 categories: journal
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Accessing a Grunt connect server on your WiFi network"
-date: 2014-06-08
 categories: journal
 ---
 
