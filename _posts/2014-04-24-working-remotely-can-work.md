@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Working remotely can work"
-date: 2014-04-24
 categories: journal
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How to restore the Personal Hotspot on your iPad in iOS 8"
-date: 2014-11-10
 categories: journal
 ---
 

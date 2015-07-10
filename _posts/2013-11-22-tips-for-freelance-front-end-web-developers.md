@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Tips for freelance front-end web developers"
-date: 2013-11-22
 categories: journal
 ---
 

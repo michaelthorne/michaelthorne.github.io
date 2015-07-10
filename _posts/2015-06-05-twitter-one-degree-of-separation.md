@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Twitter: one degree of separation"
-date: 2015-06-05
 categories: journal
 ---
 

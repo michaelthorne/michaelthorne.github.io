@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Reflecting on a year of freelancing"
-date: 2013-11-21
 categories: journal
 ---
 
