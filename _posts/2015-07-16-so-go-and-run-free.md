@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "So go run free"
+title: "So go and run free"
 categories: journal
 ---
 
