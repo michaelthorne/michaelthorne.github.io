@@ -93,7 +93,7 @@ So I made it over the finish line at my own pace in 4 hours, 2 minutes and 9 sec
 
 ### What I learned
 
-The feeling of pride and happiness on completing such a tough challenge was worthwhile. I realised that I am mentally
+The pride and happiness I felt on completing such a tough challenge made it all worthwhile. I realised that I am mentally
 strong and if I put my mind to it, I can achieve what I want. You need to be fit, but mental health and a good strategy
 is even more important for challenges like this.
 
