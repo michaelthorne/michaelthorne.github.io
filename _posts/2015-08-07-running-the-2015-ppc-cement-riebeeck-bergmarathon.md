@@ -53,7 +53,7 @@ eat one more banana and take a relaxed walk up to starting line from where I’d
 
 All the articles I’d read up on running your first marathon had a common theme: start slow and finish strong. I definitely
 did my best to run within myself, although it was quite difficult. When you have a lot of runners passing you in the first
-few kilometers, it is difficult to hold back. But yet, feeling of passing people in the last few kilometers of the race made
+few kilometers, it is difficult to hold back. But yet, the feeling of passing people in the last few kilometers of the race made
 it worthwhile.
 
 I marked off a few key points on the route which were my goals within the race. They were as follows:
