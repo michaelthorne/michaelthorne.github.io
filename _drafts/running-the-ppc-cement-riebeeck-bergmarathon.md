@@ -1,0 +1,17 @@
+- Training and preparation
+- Goal and motivation
+- Morning of the race
+- The race
+ - Strategy
+ - Nutrition
+ - Challenge (climbs, dirt road, etc.)
+ - The last few km's
+- Equipment
+ - Shoes
+ - Clothes
+ - Hat, Sunglasses
+ - Music
+- What I learned
+ - Mental strength
+ - Enjoyment
+ - Things I'd do differently
