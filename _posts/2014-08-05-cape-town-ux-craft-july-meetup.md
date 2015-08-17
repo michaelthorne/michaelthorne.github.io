@@ -4,7 +4,8 @@ title: "Cape Town UX Craft – July Meetup"
 categories: journal
 ---
 
-The [Cape Town UX Craft](http://www.meetup.com/Cape-Town-UX-Craft-Meetup) is a group on the popular service, Meetup. They held their second meetup on the 23rd of July at Ogilvy’s office in Cape Town.
+The [Cape Town UX Craft](http://www.meetup.com/Cape-Town-UX-Craft-Meetup) is a group on the popular service, Meetup. They
+held their second meetup on the 23rd of July at Ogilvy’s office in Cape Town.
 
 As per the description on their group’s page:
 

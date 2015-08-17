@@ -4,7 +4,8 @@ title: "How to restore the Personal Hotspot on your iPad in iOS 8"
 categories: journal
 ---
 
-A few weeks ago I upgraded my 4th generation iPad (retina) to iOS 8. However, I was recently [working remotely](/journal/working-remotely-can-work) and found the option to create a personal hotspot on my iPad was missing.
+A few weeks ago I upgraded my 4th generation iPad (retina) to iOS 8. However, I was recently [working remotely](/journal/working-remotely-can-work)
+and found the option to create a personal hotspot on my iPad was missing.
 
 This option allows you to share your cellular data connection with other computers and devices via a Wi-Fi connection. I
 have significantly bigger data bundle on my iPad contract, than I do on my mobile phone, so whenever I work remotely and

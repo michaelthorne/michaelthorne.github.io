@@ -4,7 +4,8 @@ title: "Accessing a Grunt connect server on your WiFi network"
 categories: journal
 ---
 
-Before I get started, if you’ve heard of Grunt but haven’t tried it out, I’m not going to be able to do it the justice it deserves. I do recommend Chris Coyier’s excellent tutorial on 24 ways: “[Grunt for People Who Think Things Like Grunt are Weird and Hard](http://www.24ways.org/2013/grunt-is-not-weird-and-hard)”.
+Before I get started, if you’ve heard of Grunt but haven’t tried it out, I’m not going to be able to do it the justice it
+deserves. I do recommend Chris Coyier’s excellent tutorial on 24 ways: “[Grunt for People Who Think Things Like Grunt are Weird and Hard](http://www.24ways.org/2013/grunt-is-not-weird-and-hard)”.
 
 *Disclaimer: I’m not going to entertain a “Grunt vs Gulp” argument here. This is specifically for those of you, like myself,
 currently using Grunt for automating web development tasks. And I work on a Windows PC and laptop, so no OS wars, please.

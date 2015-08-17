@@ -8,7 +8,8 @@ I finished the 2015 PPC Cement Riebeeck Bergmarathon on my first attempt at a ro
 That’s a whole 42.195 kilometres or 26 miles and 385 yards (if you are that way inclined).
 
 <blockquote>
-    <p>The marathon was one of the original modern Olympic events in 1896, though the distance did not become standardized until 1921.</p>
+    <p>The marathon was one of the original modern Olympic events in 1896, though the distance did not become standardized
+        until 1921.</p>
     <cite>— <a href="https://en.wikipedia.org/wiki/Marathon">Wikipedia</a></cite>
 </blockquote>
 
@@ -53,8 +54,8 @@ eat one more banana and take a relaxed walk up to starting line from where I’d
 
 All the articles I’d read up on running your first marathon had a common theme: start slow and finish strong. I definitely
 did my best to run within myself, although it was quite difficult. When you have a lot of runners passing you in the first
-few kilometers, it is difficult to hold back. But yet, the feeling of passing people in the last few kilometers of the race made
-it worthwhile.
+few kilometers, it is difficult to hold back. But yet, the feeling of passing people in the last few kilometers of the race
+made it worthwhile.
 
 I marked off a few key points on the route which were my goals within the race. They were as follows:
 
@@ -82,8 +83,8 @@ This took my mind off the distance and allowed me to focus on my rhythm and work
 when I run, but this helped me during the marathon.
 
 The final 7 to 8 kilometers were tough. The course has an uphill finish and I felt pressured to finish within my goal time. I
-also felt a slight onset of cramping in my left quadricep which I’ve never had before. With a few kms remaining, I knew that finishing
-in under 4 hours was not possible (without blowing a gasket).
+also felt a slight onset of cramping in my left quadricep which I’ve never had before. With a few kms remaining, I knew that
+finishing in under 4 hours was not possible (without blowing a gasket).
 
 So I made it over the finish line at my own pace in 4 hours, 2 minutes and 9 seconds.
 
@@ -97,8 +98,8 @@ The pride and happiness I felt on completing such a tough challenge made it all 
 strong and if I put my mind to it, I can achieve what I want. You need to be fit, but mental health and a good strategy
 is even more important for challenges like this.
 
-42 kms is a long distance and running for four hours is not easy. If you can appreciate the fact that it is a privilege to run,
-then you’ll do well.
+42 kms is a long distance and running for four hours is not easy. If you can appreciate the fact that it is a privilege
+to run, then you’ll do well.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
     <div style="padding:8px;">
