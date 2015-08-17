@@ -30,7 +30,7 @@ pairs. After a quick Google search, I found out how to achieve this in Jekyll on
 
 Below is a sample of the YAML Front Matter in one of the handbooks:
 
-{% highlight scala %}
+{% highlight yaml %}
 chapters:
     welcome: "Welcome"
     your-first-day: "Your First Day"
