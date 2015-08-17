@@ -40,9 +40,9 @@ And the code to generate the table of contents in the layout:
 
 {% highlight html %}
 <ol class="list">
-{{ "{% for chapter in page.chapters "}}%}
+    {{ "{% for chapter in page.chapters "}}%}
     <li><a href="#{{ "{{ chapter[0] "}}}}">{{ "{{ chapter[1] "}}}}</a></li>
-{{ "{% endfor "}}%}
+    {{ "{% endfor "}}%}
 </ol>
 {% endhighlight %}
 
