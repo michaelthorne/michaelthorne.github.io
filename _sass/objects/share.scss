@@ -1,0 +1,39 @@
+/* -------------------------------------------------------------------------- *\
+   #SHARE
+\* -------------------------------------------------------------------------- */
+
+.share {
+    background-color: $color-white-dark;
+    margin-top: 2em;
+    margin-bottom: 2.5em;
+    padding: 1.5em;
+
+    /**
+     * Icon
+     */
+
+    .share__icon {
+        float: left;
+        font-size: 1.25em; /* 18 / 16 */
+        margin-right: 0.5em;
+    }
+
+    /**
+     * Synopsis
+     */
+
+    .share__synopsis {
+        font-size: 0.875em; /* 14 / 16 */
+        margin-top: 0;
+        margin-bottom: 0;
+
+        a {
+            color: $color-blue;
+
+            &:focus,
+            &:hover {
+                border-bottom-color: $color-blue;
+            }
+        }
+    }
+}

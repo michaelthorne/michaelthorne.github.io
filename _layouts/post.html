@@ -12,6 +12,11 @@ layout: default
     <div itemprop="articleBody">
         {{ content }}
     </div>
+
+    <div class="share">
+        <span class="share__icon icon-twitter" aria-hidden="true"></span>
+        <p class="share__synopsis">If you enjoyed this post, please <a href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;url={{ site.url }}{{ page.url }}&amp;via={{ site.profile_twitter }}" target="_blank">share it on Twitter</a>.</p>
+    </div>
 </article>
 
 <div class="pagination">
