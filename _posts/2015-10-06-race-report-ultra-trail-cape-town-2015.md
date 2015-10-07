@@ -209,7 +209,7 @@ Wait, I lie! Maybe a little less happy.
 <small><i>Unfortunately my Garmin Fenix 3 lost GPS connectivity going up Platteklip Gorge. As a result the distance of 69km
 is incorrect.</i></small>
 
-### Reflection
+## Reflection
 
 Relief. Pride. Grateful. Those are the feelings that come to mind.
 
@@ -243,7 +243,7 @@ much as it was a physical one.
     </div>
 </blockquote>
 
-### Thank you
+## Thank you
 
 The organisers of UTCT did an incredible job. The information leading up to the race was spot on. The route markings were
 excellent and the aid stations were life savers. All the volunteers and supporters on the day definitely made it easier
@@ -256,7 +256,7 @@ my ass! And to my Mom: I’m so glad that you were there at the finish. It meant
 
 ---
 
-Update: I’ve added a list below with a few links to blogs and photos of Ultra-trail Cape Town 2015.
+**Update**: I’ve added a list below with a few links to blogs and photos of Ultra-trail Cape Town 2015.
 
 * [Ultra-trail Cape Town 100 by Devon Yanko](http://www.devonyanko.com/news/2015/10/6/ultra-trail-cape-town)
 * [Aid Stationing at the Ultra-trail Cape Town by Leave The Couch](http://leavethecouch.com/aid-stationing-at-the-ultra-trail-cape-town/)
