@@ -122,6 +122,10 @@ article {
         li {
             margin-bottom: 1.5em;
         }
+
+        &+ h2 {
+            margin-top: 0.8125em;
+        }
     }
 
     ul {
