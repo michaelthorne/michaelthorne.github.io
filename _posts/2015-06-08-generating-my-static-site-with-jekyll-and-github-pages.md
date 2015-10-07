@@ -4,8 +4,7 @@ title: "Generating my static site with Jekyll and GitHub Pages"
 categories: journal
 ---
 
-I recently converted my website to use Jekyll and GitHub Pages. Jekyll allows you to generate static websites from templates
-and Markdown files.
+I recently converted my website to use Jekyll and GitHub Pages. Jekyll allows you to generate static websites from templates and Markdown files.
 
 <figure>
     <a href="http://jekyllrb.com/">

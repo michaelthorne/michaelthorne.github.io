@@ -4,8 +4,7 @@ title: "Twitter: one degree of separation"
 categories: journal
 ---
 
-For a while I’ve been trying to spend less time on my phone browsing social media networks. The easiest way for me to do
-this was to remove the majority of those types of apps from my phone.
+For a while I’ve been trying to spend less time on my phone browsing social media networks. The easiest way for me to do this was to remove the majority of those types of apps from my phone.
 
 But yet, Twitter continues to impress me with how it allows us to interact with others.
 

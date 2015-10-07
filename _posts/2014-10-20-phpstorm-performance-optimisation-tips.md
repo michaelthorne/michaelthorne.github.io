@@ -4,8 +4,7 @@ title: "PhpStorm performance optimisation tips"
 categories: journal
 ---
 
-My first experience of JetBrains products was back in 2006 with IntelliJ when I was doing Java development. Over the last
-few years I’ve been using PhpStorm, but I’m always looking to optimise it’s performance.
+My first experience of JetBrains products was back in 2006 with IntelliJ when I was doing Java development. Over the last few years I’ve been using PhpStorm, but I’m always looking to optimise it’s performance.
 
 My work computer is a pretty neat [Samsung](http://www.samsung.com/africa_en/consumer/pc-peripherals-printer/notebook-pc/laptops/NP730U3E-K01ZA)
 laptop with an Intel i5 processor, 4GB of DDR3 memory and a 128GB solid-state drive. The SSD has made the noticeable performance

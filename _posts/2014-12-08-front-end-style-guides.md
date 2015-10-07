@@ -4,8 +4,7 @@ title: "Front-end Style Guides"
 categories: journal
 ---
 
-A style guide is a set of rules and standards to help enforce consistency and improve communication. They used to be exclusive
-to journals and publications, but they are now popular in web design.
+A style guide is a set of rules and standards to help enforce consistency and improve communication. They used to be exclusive to journals and publications, but they are now popular in web design.
 
 My first experience with a style guide, although nothing like how I know them to be structured today, was in creating an
 HTML document to preview typography on the Web. While I was working at Hellocomputer in 2010, embedding custom Web Fonts

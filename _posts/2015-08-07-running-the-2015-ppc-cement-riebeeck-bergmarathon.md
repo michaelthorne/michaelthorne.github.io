@@ -4,8 +4,7 @@ title: "Running the 2015 PPC Cement Riebeeck Bergmarathon"
 categories: journal
 ---
 
-I finished the 2015 PPC Cement Riebeeck Bergmarathon on my first attempt at a road marathon.
-That’s a whole 42.195 kilometres or 26 miles and 385 yards (if you are that way inclined).
+I finished the 2015 PPC Cement Riebeeck Bergmarathon on my first attempt at a road marathon. That’s a whole 42.195 kilometres or 26 miles and 385 yards (if you are that way inclined).
 
 <blockquote>
     <p>The marathon was one of the original modern Olympic events in 1896, though the distance did not become standardized

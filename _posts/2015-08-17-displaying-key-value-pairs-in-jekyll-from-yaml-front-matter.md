@@ -4,8 +4,7 @@ title: "Displaying key value pairs in Jekyll from YAML Front Matter"
 categories: journal
 ---
 
-I have just added the company handbooks to our Jekyll-powered website at Next. We used Markdown to write the content of
-the handbooks so that anyone in the company would be able to update them.
+I have just added the company handbooks to our Jekyll-powered website at Next. We used Markdown to write the content of the handbooks so that anyone in the company would be able to update them.
 
 The blog was recently moved from Tumblr to Jekyll and Markdown has proven to be popular at Next. To get the handbooks
 on our website up and running, I first created static HTML versions of them. The aim was to then have each handbook as a
