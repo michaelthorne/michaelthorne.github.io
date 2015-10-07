@@ -186,11 +186,23 @@ article {
     }
 
     /**
+     * Garmin Connect
+     */
+
+    .garmin-connect {
+        display: block;
+        margin-right: auto;
+        margin-bottom: 1.5em !important;
+        margin-left: auto;
+    }
+
+    /**
      * Instagram
      */
 
     .instagram-media {
         margin-bottom: 1.5em !important;
+        max-width: 100% !important;
     }
 
     /**
