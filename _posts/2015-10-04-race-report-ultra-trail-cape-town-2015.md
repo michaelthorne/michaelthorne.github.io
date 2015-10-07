@@ -4,7 +4,7 @@ title: "Race report: Ultra-trail Cape Town 2015"
 categories: journal
 ---
 
-I entered the 65km Ultra-trail run at the beginning of the year having never run a full marathon. Upon reaching the finish
+I entered the 65km ultra-trail run at the beginning of the year having never run a full marathon. Upon reaching the finish
 of the race, I felt as much relief as I did joy in completing this challenge.
 
 * [About the race](#about-the-race)
