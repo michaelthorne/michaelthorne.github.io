@@ -53,6 +53,15 @@ pack. I used two [Ultimate Direction 500ml bottles](http://www.ultimatedirection
 Valves, in place of the Salomon soft flasks. The reason for this was that it is easier to refill the bottles and I also
 like the kicker valves. The hydration pack is lightweight, with a perfect fit that ensures there is no chafing.
 
+<figure>
+    <img srcset="/assets/images/journal/salomon-s-lab-advanced-skin3-12set-600x635.jpg 600w,
+                 /assets/images/journal/salomon-s-lab-advanced-skin3-12set-300x318.jpg 300w"
+        sizes="100vw"
+        src="/assets/images/journal/salomon-s-lab-advanced-skin3-12set-600x635.jpg"
+        alt="Salomon Advanced Skin3 12SET hydration pack">
+    <figcaption>Salomon Advanced Skin3 12SET hydration pack</figcaption>
+</figure>
+
 I recently upgraded to the [New Balance Leadville 1210v2](http://www.newbalance.com/leadville-1210v2) shoes. I had the previous
 version of the shoe and they just seem to work for me.
 
@@ -96,6 +105,16 @@ without knowing what was to come.
 I always knew these were going to be two tough sections. After ascending Kloof Corner, the run along the contour path to
 Platteklip Gorge went well. Shortly after starting the climb up Platteklip Gorge, the hope of better weather diminished.
 With only a few hundred meters to go, I could finally see the top of the climb, albeit covered in clouds.
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+    <div style="padding:8px;">
+        <div style="background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
+            <div style="background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+        </div>
+        <p style="margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/8YuG6fQFWk/" style="color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">My view (or lack thereof) for almost 13 hours today. Ultra-trail Cape Town 65 km is a beast. The rain and wind today made a tough race insanely difficult. Congrats to all the finishers, especially the 100 km guys.</a></p>
+        <p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Michael Thorne (@mikkelz_za) on <time style="font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-10-03T18:55:20+00:00">Oct 3, 2015 at 11:55am PDT</time></p>
+    </div>
+</blockquote>
 
 Now I had to make my way to Maclear’s Beacon, the highest point on the course. As familiar as I was with this route, nothing
 could’ve prepared me for the conditions that lay ahead. The paths were completely flooded and runners scrambled all over
@@ -170,9 +189,23 @@ all we’d run at least 20km together and spent a good 5 hours motivating each o
 Reaching the finish, I had the pleasant surprise of seeing my Mom, who I didn’t know would be there. Having her and my girlfriend
 to support me at the end was special. I felt more sorry for them standing in the cold, than I did for myself at that point.
 
+<figure>
+    <img srcset="/assets/images/journal/ultra-trail-cape-town-2015-finish-1024x840.jpg 1024w,
+                 /assets/images/journal/ultra-trail-cape-town-2015-finish-512x420.jpg 512w"
+        sizes="100vw"
+        src="/assets/images/journal/ultra-trail-cape-town-2015-finish-512x420.jpg"
+        alt="The joy of finishing the 2015 Ultra-trail Cape Town">
+    <figcaption>The joy of finishing the 2015 Ultra-trail Cape Town</figcaption>
+</figure>
+
 My official time for the 65km route: 12 hours 53 minutes and 42 seconds. My final position was 90 out of 126 runners who
 completed the race. I think there were quite a few more registered runners, but even if I finished last I would’ve been happy.
 Wait, I lie! Maybe a little less happy.
+
+<iframe class="garmin-connect" src="https://connect.garmin.com/activity/embed/917795088" width="465" height="500" frameborder="0"></iframe>
+
+<small><i>Unfortunately my Garmin Fenix 3 lost GPS connectivity going up Platteklip Gorge. As a result the distance of 69km
+is incorrect.</i></small>
 
 ### Reflection
 
@@ -198,6 +231,16 @@ shower, a lot.
 In those moments, the clarity and simplicity through which you see life is quite special. It was a spiritual journey as
 much as it was a physical one.
 
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+    <div style="padding:8px;">
+        <div style="background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;">
+            <div style="background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+        </div>
+        <p style="margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/8abiUfQFdu/" style="color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Ultra-trail Cape Town 65 km: been there, done that and got the t-shirt (and medal).</a></p>
+        <p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Michael Thorne (@mikkelz_za) on <time style="font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-10-04T10:51:32+00:00">Oct 4, 2015 at 3:51am PDT</time></p>
+    </div>
+</blockquote>
+
 ### Thank you
 
 The organisers of UTCT did an incredible job. The information leading up to the race was spot on. The route markings were
@@ -208,3 +251,15 @@ All my friends who gave me advice this year and wished me good luck, I appreciat
 
 My girlfriend, Elze-mari: you’re a star. Thanks for your love and support on the day and throughout the year. You saved
 my ass! And to my Mom: I’m so glad that you were there at the finish. It meant the world to me.
+
+---
+
+Update: I’ve added a list below with a few links to blogs and photos of Ultra-trail Cape Town 2015.
+
+* [Ultra-trail Cape Town 100 by Devon Yanko](http://www.devonyanko.com/news/2015/10/6/ultra-trail-cape-town)
+* [Aid Stationing at the Ultra-trail Cape Town by Leave The Couch](http://leavethecouch.com/aid-stationing-at-the-ultra-trail-cape-town/)
+* [Sportograf @ Ultra Trail Cape Town](http://www.sportograf.com/en/event/2939-Ultra-Trail-Cape-Town-2015#event)
+* [UTCT 2015 by Jeff Ayliffe](https://www.facebook.com/media/set/?set=a.435364166650073.1073741847.247813108738514&type=3)
+* [UTCT 2015 by Peter Kirk](https://www.facebook.com/media/set/?set=a.435368719982951.1073741848.247813108738514&type=3)
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
