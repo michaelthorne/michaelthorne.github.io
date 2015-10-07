@@ -10,14 +10,14 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <meta property="og:image" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}apple-touch-icon.png">
+    <meta property="og:image" content="{{ site.url }}/assets/images/headers/michael-thorne-default-turkey-milipark-1600x900.jpg">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="{{ site.profile_twitter }}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:image" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}apple-touch-icon.png">
+    <meta name="twitter:image" content="{{ site.url }}/assets/images/headers/michael-thorne-default-turkey-milipark-1600x900.jpg">
 
     <link rel="alternate" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" type="application/rss+xml" title="{{ site.title }}">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
