@@ -35,7 +35,7 @@
             border-bottom-color: $color-blue;
         }
 
-        &+ .pagination__label {
+        & + .pagination__label {
             margin-top: 1.5em;
         }
     }
