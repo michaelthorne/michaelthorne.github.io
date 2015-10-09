@@ -202,7 +202,7 @@ completed the race. I think there were quite a few more registered runners, but 
 Wait, I lie! Maybe a little less happy.
 
 <div class="u-embed">
-    <iframe src="https://connect.garmin.com/activity/embed/917795088" width="465" height="500"></iframe>
+    <iframe src="https://connect.garmin.com/activity/embed/917795088" width="100%" height="500"></iframe>
 </div>
 
 <small><i>Unfortunately my Garmin Fenix 3 lost GPS connectivity going up Platteklip Gorge. As a result the distance of 69km
