@@ -263,5 +263,6 @@ my ass! And to my Mom: I’m so glad that you were there at the finish. It meant
 * [Sportograf @ Ultra Trail Cape Town](http://www.sportograf.com/en/event/2939-Ultra-Trail-Cape-Town-2015#event)
 * [UTCT 2015 by Jeff Ayliffe](https://www.facebook.com/media/set/?set=a.435364166650073.1073741847.247813108738514&type=3)
 * [UTCT 2015 by Peter Kirk](https://www.facebook.com/media/set/?set=a.435368719982951.1073741848.247813108738514&type=3)
+* [From zero to Ultra Trail in 6 weeks by John Mullins](http://www.johnmullins.co.za/ultratrailcapetown2015/)
 
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
