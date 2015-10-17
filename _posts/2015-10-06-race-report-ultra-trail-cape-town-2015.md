@@ -201,12 +201,13 @@ My official time for the 65km route: 12 hours 53 minutes and 42 seconds. My fina
 completed the race. I think there were quite a few more registered runners, but even if I finished last I would’ve been happy.
 Wait, I lie! Maybe a little less happy.
 
-<div class="u-embed">
-    <iframe src="https://connect.garmin.com/activity/embed/917795088" width="465" height="500"></iframe>
+<div class="u-fluid-embed">
+    <iframe src="https://www.strava.com/activities/414653572/embed/9e33b655041818be8a47bce17d2f4cfbb37224eb"></iframe>
 </div>
 
-<small><i>Unfortunately my Garmin Fenix 3 lost GPS connectivity going up Platteklip Gorge. As a result the distance of 69km
-is incorrect.</i></small>
+<small><i>Unfortunately my Garmin Fenix 3 lost GPS connectivity going up Platteklip Gorge. Don Huston (DATEZZ on the Garmin
+Forums), was able to [repair my FIT file](https://forums.garmin.com/showthread.php?29924-How-to-repair-a-fit-file&p=736228#post736228)
+as best as possible.</i></small>
 
 ## Reflection
 
