@@ -28,7 +28,7 @@
      */
 
     &.header--default {
-        background-image: url('/assets/images/headers/michael-thorne-default-turkey-milipark-640x360.jpg');
+        background-image: url("/assets/images/headers/michael-thorne-default-turkey-milipark-640x360.jpg");
     }
 
     /**
@@ -36,7 +36,7 @@
      */
 
     &.header--about {
-        background-image: url('/assets/images/headers/michael-thorne-about-turkey-cappadocia-640x360.jpg');
+        background-image: url("/assets/images/headers/michael-thorne-about-turkey-cappadocia-640x360.jpg");
     }
 
     /**
@@ -44,7 +44,7 @@
      */
 
     &.header--contact {
-        background-image: url('/assets/images/headers/michael-thorne-contact-new-york-640x360.jpg');
+        background-image: url("/assets/images/headers/michael-thorne-contact-new-york-640x360.jpg");
     }
 
     /**
@@ -52,7 +52,7 @@
      */
 
     &.header--journal {
-        background-image: url('/assets/images/headers/michael-thorne-journal-table-mountain-640x360.jpg');
+        background-image: url("/assets/images/headers/michael-thorne-journal-table-mountain-640x360.jpg");
     }
 }
 
@@ -71,19 +71,19 @@
         }
 
         &.header--default {
-            background-image: url('/assets/images/headers/michael-thorne-default-turkey-milipark-1600x900.jpg');
+            background-image: url("/assets/images/headers/michael-thorne-default-turkey-milipark-1600x900.jpg");
         }
 
         &.header--about {
-            background-image: url('/assets/images/headers/michael-thorne-about-turkey-cappadocia-1600x900.jpg');
+            background-image: url("/assets/images/headers/michael-thorne-about-turkey-cappadocia-1600x900.jpg");
         }
 
         &.header--contact {
-            background-image: url('/assets/images/headers/michael-thorne-contact-new-york-1600x900.jpg');
+            background-image: url("/assets/images/headers/michael-thorne-contact-new-york-1600x900.jpg");
         }
 
         &.header--journal {
-            background-image: url('/assets/images/headers/michael-thorne-journal-table-mountain-1600x900.jpg');
+            background-image: url("/assets/images/headers/michael-thorne-journal-table-mountain-1600x900.jpg");
         }
     }
 }
