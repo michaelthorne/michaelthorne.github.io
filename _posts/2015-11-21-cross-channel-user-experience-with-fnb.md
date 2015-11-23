@@ -59,4 +59,4 @@ The entire situation could be a lot simpler if:
 
 And now you know why I get annoyed at the bank charges for accessing an archived statement.
 
-FNB, you can do so much better. I expect a lot better for the bank charges I pay on my accounts.
+FNB, you can do so much better. I expect a lot more for the bank charges I pay on my accounts.
