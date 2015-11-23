@@ -57,6 +57,14 @@ The entire situation could be a lot simpler if:
 3. Don’t make clients waste their time and money by phoning a call centre that is can’t help. Or even better, allow the call centre to unblock the card over the phone. I realise there are security implications to this. A few security questions can help this process. That’s not to say that displaying an ID book at a bank ensures 100% security either.
 4. When your social media account tells you to send an email to a specified address, at least have the courtesy to reply to the email. It has been a week now and I have yet to receive a reply. This is unfortunately always the case with FNB and email communication.
 
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">.<a href="https://twitter.com/Rbjacobs">@Rbjacobs</a> No reply in 3 days. And you wonder why I get annoyed at being charged R6 for an archived statement?</p>
+    &mdash; Michael Thorne (@mikkelz_za) <a href="https://twitter.com/mikkelz_za/status/667309621250396160">November 19, 2015</a>
+</blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 And now you know why I get annoyed at the bank charges for accessing an archived statement.
+
+---
 
 FNB, you can do so much better. I expect a lot more for the bank charges I pay on my accounts.
