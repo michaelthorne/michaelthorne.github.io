@@ -70,3 +70,10 @@ And now you know why I get annoyed at the bank charges for accessing an archived
 ---
 
 FNB, you can do so much better. I expect a lot more for the bank charges I pay on my accounts.
+
+**Update: 2015-11-27**
+
+It’s been 10 days and I still haven’t had a reply to the email I sent to [fnbcard@fnb.co.za](mailto:fnbcard@fnb.co.za)
+as requested by [RBJacobs](https://twitter.com/Rbjacobs) on Twitter. How is this acceptable? And why do banks get away it?
+
+
