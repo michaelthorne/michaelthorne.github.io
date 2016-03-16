@@ -22,7 +22,7 @@ if you’d like to chat about work or have any questions relating to my website.
                      /assets/images/general/michael-thorne-turkey-istanbul-2013-410x231.jpg 410w"
             sizes="100vw"
             src="/assets/images/general/michael-thorne-turkey-istanbul-2013-820x461.jpg"
-            alt="Michael Thorne – Istanbul, 2013">
+            alt="">
     </a>
     <figcaption>Michael Thorne – Istanbul, 2013</figcaption>
 </figure>

@@ -17,7 +17,7 @@ but to add new ones in future.
                      /assets/images/journal/the-next-handbook-410x209.png 410w"
             sizes="100vw"
             src="/assets/images/journal/the-next-handbook-820x418.png"
-            alt="The Next handbook">
+            alt="">
     </a>
     <figcaption>The Next handbook</figcaption>
 </figure>

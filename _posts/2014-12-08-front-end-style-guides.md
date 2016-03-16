@@ -26,7 +26,7 @@ form patterns and later, templates which are finally displayed as the web pages 
                  /assets/images/journal/orderin-front-end-style-guide-467x263.png   467w"
         sizes="100vw"
         src="/assets/images/journal/orderin-front-end-style-guide-1230x692.png"
-        alt="OrderIn’s front-end Style Guide">
+        alt="">
     <figcaption>Screenshot of the front-end style guide I created for <a href="http://www.orderin.co.za">OrderIn’s</a> website</figcaption>
 </figure>
 

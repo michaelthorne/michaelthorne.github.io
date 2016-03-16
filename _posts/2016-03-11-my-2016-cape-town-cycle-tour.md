@@ -54,7 +54,7 @@ of me dropped their water bottle. As in previous years, everyone in the group
 avoided it without crashing by some miracle.
 
 <figure>
-    <img src="/assets/images/journal/2016-cape-town-cycle-tour-st-james-820x545.jpg" width="820" height="545" alt="">
+    <img src="/assets/images/journal/2016-cape-town-cycle-tour-st-james-820x545.jpg" alt="">
     <figcaption>Leaving Fish Hoek (Courtesy of Jetline Action Photo)</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ After the short climb up and over Soetwater, the cyclists had come together
 and formed a large group.
 
 <figure>
-    <img src="/assets/images/journal/2016-cape-town-cycle-tour-slangkop-820x545.jpg" width="820" height="545" alt="">
+    <img src="/assets/images/journal/2016-cape-town-cycle-tour-slangkop-820x545.jpg" alt="">
     <figcaption>Heading in to Kommetjie (Courtesy of Jetline Action Photo)</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ I enjoy climbing, but the views are spectacular. It’s also a good opportunity
 to prepare for Suikerbossie which is the final climb.
 
 <figure>
-    <img src="/assets/images/journal/2016-cape-town-cycle-tour-chapmans-peak-820x545.jpg" width="820" height="545" alt="">
+    <img src="/assets/images/journal/2016-cape-town-cycle-tour-chapmans-peak-820x545.jpg" alt="">
     <figcaption>Climbing up Chapman’s Peak Drive (Courtesy of Jetline Action Photo)</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ With more or less 3 hours elapsed, I was making my way down Llandudno towards
 Camps Bay. By now it had sunk in that another Cycle Tour was just about over.
 
 <figure>
-    <img src="/assets/images/journal/2016-cape-town-cycle-tour-suikerbossie-820x545.jpg" width="820" height="545" alt="">
+    <img src="/assets/images/journal/2016-cape-town-cycle-tour-suikerbossie-820x545.jpg" alt="">
     <figcaption>Feeling the heat on Suikerbossie (Courtesy of Jetline Action Photo)</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ I put my head down and pushed hard towards the finish, crossing the line
 a few minutes inside of my goal time.
 
 <figure>
-    <img src="/assets/images/journal/2016-cape-town-cycle-tour-finish-820x545.jpg" width="820" height="545" alt="">
+    <img src="/assets/images/journal/2016-cape-town-cycle-tour-finish-820x545.jpg" alt="">
     <figcaption>The finish line (Courtesy of Jetline Action Photo)</figcaption>
 </figure>
 

@@ -35,7 +35,7 @@ September last year we went to New York.
                      /assets/images/general/michael-thorne-craft-bike-transalp-2010-410x231.jpg 410w"
             sizes="100vw"
             src="/assets/images/general/michael-thorne-craft-bike-transalp-2010-820x461.jpg"
-            alt="CRAFT Bike Transalp 2010 – Etappe 4, 2010">
+            alt="">
     </a>
     <figcaption>CRAFT Bike Transalp 2010 – Etappe 4, 2010</figcaption>
 </figure>

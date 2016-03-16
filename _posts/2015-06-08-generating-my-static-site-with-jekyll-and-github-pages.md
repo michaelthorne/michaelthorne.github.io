@@ -12,7 +12,7 @@ I recently converted my website to use Jekyll and GitHub Pages. Jekyll allows yo
                      /assets/images/journal/jekyll-logo-410x209.png 410w"
             sizes="100vw"
             src="/assets/images/journal/jekyll-logo-820x418.png"
-            alt="Jekyll logo">
+            alt="">
     </a>
     <figcaption>Jekyll is a simple, blog-aware, static site generator.</figcaption>
 </figure>

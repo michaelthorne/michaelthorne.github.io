@@ -57,7 +57,7 @@ like the kicker valves. The hydration pack is lightweight, with a perfect fit th
                  /assets/images/journal/salomon-s-lab-advanced-skin3-12set-300x318.jpg 300w"
         sizes="100vw"
         src="/assets/images/journal/salomon-s-lab-advanced-skin3-12set-600x635.jpg"
-        alt="Salomon Advanced Skin3 12SET hydration pack">
+        alt="">
     <figcaption>Salomon Advanced Skin3 12SET hydration pack</figcaption>
 </figure>
 
@@ -193,7 +193,7 @@ to support me at the end was special. I felt more sorry for them standing in the
                  /assets/images/journal/ultra-trail-cape-town-2015-finish-512x420.jpg 512w"
         sizes="100vw"
         src="/assets/images/journal/ultra-trail-cape-town-2015-finish-512x420.jpg"
-        alt="The joy of finishing the 2015 Ultra-trail Cape Town">
+        alt="">
     <figcaption>The joy of finishing the 2015 Ultra-trail Cape Town</figcaption>
 </figure>
 
