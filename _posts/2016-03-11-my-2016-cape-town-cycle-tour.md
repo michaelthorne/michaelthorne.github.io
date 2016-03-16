@@ -8,7 +8,7 @@ On Sunday the 6th of March, 2016 I took part in my fifth Cape Town Cycle Tour. M
 
 ### Preparation
 
-Only after the race did I see that I had actually put in more training mileage compared to previous years. From the beginning of the year up until the day of this year’s cycle tour, I had clocked up 420 km’s The 99er Cycle Tour and Tour de PPA proved to be ideal training, even if they didn’t have the more defined climbs of the Cape Town Cycle Tour.
+Only after the race did I see that I had actually put in more training mileage compared to previous years. From the beginning of the year up until the day of this year’s cycle tour, I had clocked up 420 km’s. The 99er Cycle Tour and Tour de PPA proved to be ideal training, even if they didn’t have the more defined climbs of the Cape Town Cycle Tour.
 
 ### The race
 
