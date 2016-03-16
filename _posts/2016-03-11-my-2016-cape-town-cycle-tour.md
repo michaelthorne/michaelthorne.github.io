@@ -6,19 +6,19 @@ categories: journal
 
 On Sunday the 6th of March, 2016 I took part in my fifth Cape Town Cycle Tour. My excitement for this year’s race was at an all time high, having not taken part in the previous two.
 
-## Preparation
+### Preparation
 
 Only after the race did I see that I had actually put in more training mileage compared to previous years. From the beginning of the year up until the day of this year’s cycle tour, I had clocked up 420 km’s The 99er Cycle Tour and Tour de PPA proved to be ideal training, even if they didn’t have the more defined climbs of the Cape Town Cycle Tour.
 
-## The race
+### The race
 
 Without fail the number one question everyone asks in the lead up to the race is: what is the weather forecast? The weather gods played their part on the day, as I woke up to clear blue skies and nothing more than a light breeze. I made a distinct effort this year to take in as much of the scenery and supporters along the route. It is a great opportunity to ride along some of the most beautiful coastlines in the world.
 
-### An early start
+#### An early start
 
 Based on previous cycle tour results and seeding events, my start time was 6:50am from group 2D. Any start time before 7am is ideal and I feel for those who start much later in the morning. My girlfriend kindly dropped me off close to the start and I made my way to the primary check-in at around 6:15am. There was a nervous energy in the air, after hearing the starting gun fire for the elite cyclists. The process of getting in to your start chute still feels inefficient. The entrances to the various chutes get crowed by the other cyclists who are waiting to enter theirs.
 
-### The first half
+#### The first half
 
 Excitement takes over the from the nerves as soon as the starting gun fires. Before long you see (and hear) the first of many supporters you’ll experience along the route.
 
@@ -30,7 +30,7 @@ Before long we faced the first headwinds after we left Fish Hoek and made our wa
 
 There was a nasty crash heading up Smitswinkel towards Cape Point. Due to the roadworks which caused the road to be narrower than normal, the group at this point split in half.
 
-### The second half
+#### The second half
 
 By the time I was making the fast decent towards Noordhoek, there was a small mix of riders from various groups. At this point, I was well on course for my goal of 3 hours and 30 minutes. I had set that ambitious target as I had done it before and knew it was possible.
 
@@ -51,7 +51,7 @@ I put my head down and pushed hard towards the finish, crossing the line a few m
     <iframe src="https://www.strava.com/activities/509754733/embed/771705e0d50a373a8f4112ff9914f13e6f6c13cf"></iframe>
 </div>
 
-## Reflections
+### Reflections
 
 Having completed the Cycle Tour for the fifth time, this was by far my favourite. Although this was not my fastest, to me, time is secondary to enjoyment when taking part in a fun ride.
 

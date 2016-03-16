@@ -13,7 +13,7 @@ I entered the 65km ultra-trail run at the beginning of the year having never run
 * [Reflection](#reflection)
 * [Thank you](#thank-you)
 
-## About the race
+### About the race
 
 The [Ultra-trail Cape Town](http://www.ultratrailcapetown.com) race starts and ends at the Tech Gardens rugby club in Oranjezicht.
 With the iconic Table Mountain set in the background, the runners can see where they’ll be going. It consists of a 100km
@@ -25,7 +25,7 @@ and 100km routes earn qualifying points for the Ultra-trail du Mont-Blanc.
 Landmarks in the 65km include: Signal Hill, Lion’s Head, Platteklip Gorge, Constantia Nek, Newlands Forest, UCT and Rhodes
 Memorial.
 
-## Training and preparation
+### Training and preparation
 
 My friend Guthrie convinced me to enter the race. Unfortunately injury prevented him from taking part this year, but I hope
 to see him there next year! I had read on the race website that one could hike the 65km route within the allocated 15 hour
@@ -45,7 +45,7 @@ of basic weight training with steps between each set helped a lot.
 The pre-race briefing on Thursday evening, after registration, was informative. The organisers shared the history of the
 event as well as some tips. Some of the elite runners gave valuable insight into the race when interviewed.
 
-## Equipment and nutrition
+### Equipment and nutrition
 
 In July I purchased a [Salomon Advanced Skin3 12SET](http://www.salomon.com/us/product/s-lab-adv-skin3-12set.html) hydration
 pack. I used two [Ultimate Direction 500ml bottles](http://www.ultimatedirection.com/t-ultimate-bottle.aspx) with Kicker
@@ -77,7 +77,7 @@ even if you aren’t running!
 
 The mandatory equipment list included: a rain jacket, a space blanket, a buff or beanie, a first aid kit and a headlamp.
 
-## The day of the race
+### The day of the race
 
 After a restless sleep, I woke up at 3:15 am and immediately looked outside. To my huge disappointment it was drizzling.
 Every weather forecast I looked at predicated clouds in the morning with clear skies later in the day. But no rain!
@@ -90,7 +90,7 @@ Arriving at the start venue at about 4:30 am, my heart sank as I realised I had 
 and I knew there was no way I could start without it. In less than half an hour, my amazing girlfriend (who was writing an
 MBA exam later that morning) brought me my jacket.
 
-### The start
+#### The start
 
 At 5:09 am the race began. Before long I was running down Government Avenue, wondering just what lay ahead. Shortly thereafter,
 I was on the mountain and away from the safety of the city. There was no turning back now.
@@ -99,7 +99,7 @@ The visibility at the top of Signal Hill was non-existent with thick fog engulfi
 Head and made it to the first aid station on Tafelberg Road, the wind had picked up. I felt comfortable though at this point,
 without knowing what was to come.
 
-### On top of Table Mountain
+#### On top of Table Mountain
 
 I always knew these were going to be two tough sections. After ascending Kloof Corner, the run along the contour path to
 Platteklip Gorge went well. Shortly after starting the climb up Platteklip Gorge, the hope of better weather diminished.
@@ -124,7 +124,7 @@ wind and rain whilst providing us with food and water. If I am honest with mysel
 this section. I felt ill prepared and completely out of my depth. The runners around me didn’t seem to be fairing any better,
 with many slipping on the rocky surface. My shoes did the job and I managed to stay upright the entire time.
 
-### Towards Constantia Nek
+#### Towards Constantia Nek
 
 I decided to make a beeline for the next aid station, as the top of the mountain was no place to be at that time. I found
 a nice rhythm with a few runners along the concrete path towards Constantia Nek. The large number of hikers on the mountain
@@ -135,7 +135,7 @@ for this reason and because it too was wet and muddy.
 
 After refueling at the aid station, I left with a small group of runners to the Constantia Winelands section.
 
-### Constantia Winelands
+#### Constantia Winelands
 
 By now it felt a bit warmer, although I still had all my layers on. Saturated from head to toe, the layers did a good job
 to keep me from freezing as it was still drizzling at this point.
@@ -154,7 +154,7 @@ How I managed to twist my ankle going over the root of a tree remains a mystery.
 it happened and I knew it was going to hurt. I think it was down to fatigue and not concentrating as hard as I had been
 up to that point. There was no way I was going to stop now so I soldiered on.
 
-### Up into Newlands forest
+#### Up into Newlands forest
 
 All day I knew the long stretch home was going to be tough. Newlands forest is lovely for running, but not with 8 hours
 under your belt. Having taken the majority of the morning as easy as possible under the conditions, I had to dig deep now.
@@ -171,7 +171,7 @@ Ken and I both had loved ones waiting for us at UCT which definitely kept us goi
 finished her exam earlier, were awaiting our arrival. Thinking back, this was the highlight of my race. A familiar face
 a hug and a kiss after such a long, hard and cold day made it all worthwhile.
 
-### The final slog
+#### The final slog
 
 Ken and I left the UCT aid station in good spirits, making sure to keep running until we were out of sight of our "fans".
 The long climb up to the King’s Blockhouse was painful. We bisected the contour paths and took the most direct route up.
@@ -209,7 +209,7 @@ Wait, I lie! Maybe a little less happy.
 Forums), was able to [repair my FIT file](https://forums.garmin.com/showthread.php?29924-How-to-repair-a-fit-file&p=736228#post736228)
 as best as possible.</i></small>
 
-## Reflection
+### Reflection
 
 Relief. Pride. Grateful. Those are the feelings that come to mind.
 
@@ -243,7 +243,7 @@ much as it was a physical one.
     </div>
 </blockquote>
 
-## Thank you
+### Thank you
 
 The organisers of UTCT did an incredible job. The information leading up to the race was spot on. The route markings were
 excellent and the aid stations were life savers. All the volunteers and supporters on the day definitely made it easier

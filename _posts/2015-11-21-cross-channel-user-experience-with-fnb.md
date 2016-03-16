@@ -8,13 +8,13 @@ A few weeks ago I upgraded to a Samsung Galaxy S6, but had difficulties with FNB
 it. Instead of just complaining about it, I thought I'd take the effort to document the process. And in doing so, find ways
 which could make it a better experience in future.
 
-## Installation: the easy part
+### Installation: the easy part
 
 The installation via Google’s Play Store is straightforward, as is with most applications. As someone who works with technology
 for a living, I usually enjoy the process of configuring a phone. But things became problematic after logging in to the
 application.
 
-## Authentication: easier said than done
+### Authentication: easier said than done
 
 I entered my FNB online banking username and the app notified me that it was waiting for a confirmation SMS. A few seconds
 later I received the SMS and the app prompted me to link a card of mine. This is where things got confusing (I’ve been unable
@@ -23,7 +23,7 @@ username and the OTP. The correct action would’ve been to enter a card number 
 OTP). I am so used to entering the OTP for any action related to my account like adding a beneficiary or making a payment.
 The fact that I had just received an SMS, I assumed that I had to use the OTP with a card number of mine.
 
-### Computer says no: card blocked
+#### Computer says no: card blocked
 
 After attempting to enter the OTP twice, my card got blocked. In spite of the warning that two incorrect entries of card
 number and PIN would result in a blocked card, I proceeded. It didn’t seem possible that I could enter my card number and
@@ -34,7 +34,7 @@ I decided to call it a day and try again another time. The following day, I used
 was successful. Moments later, at another shop my card wouldn’t work. The cashier read some ambiguous error message to me.
 I was able to use another card, a scenario not everyone is as fortunate to have. Frustration became anger.
 
-### Please call us; even though we can’t help you
+#### Please call us; even though we can’t help you
 
 Upon returning home, I received an SMS to call the phone number on the back of my card as the PIN entered was incorrect.
 After spending 4 minutes on hold, I hung up. This process involved entering my ID number at least 3 times, before it was
@@ -47,7 +47,7 @@ my situation, I was told that I couldn’t be helped over the phone and that I n
 
 I then turned to Twitter to vent my frustration. It was futile.
 
-## Resolution and conclusion
+### Resolution and conclusion
 
 Two days later I went in to an FNB branch, explained my situation all over again. Within a few minutes, the consultant unblocked
 my card, asked me to enter a PIN and I was off.
