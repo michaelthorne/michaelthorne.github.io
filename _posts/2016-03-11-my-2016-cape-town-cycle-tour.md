@@ -122,12 +122,15 @@ a few minutes inside of my goal time.
 
 ### Reflections
 
-Having completed the Cycle Tour for the fifth time, this was by far my favourite.
-Although this was not my fastest, to me, time is secondary to enjoyment when
-taking part in a fun ride.
+Now that I have completed five Cycle Tours, I have to say that this was by
+far my favourite. Although this was not my fastest, to me, time is secondary
+to enjoyment when taking part in a fun ride.
 
-Having my Mom and girlfriend meet me at the finish made it all the more
-worthwhile. Thanks for your support!
+I saw more cyclists receiving medical attention this year compared to previous
+years. So I am definitely grateful to have made it to the finish without incident!
+
+Finally, it was great to have my Mom and girlfriend meet me at the finish.
+This made it all the more worthwhile. Thanks for your support!
 
 <blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
 <div style="padding:8px;">
