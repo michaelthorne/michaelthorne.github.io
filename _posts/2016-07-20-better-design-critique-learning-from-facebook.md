@@ -22,13 +22,13 @@ all design decisions and guides objectivity when providing feedback.
 
 As someone with a [restorative theme](http://www.gallup.com/businessjournal/709/restorative.aspx)
 (according to the Gallup StrengthsFinder) I enjoy problem solving. A big
-part of this is needing to know “why” whenever I’m faced with a task at work.
+part of this is needing to know “why” whenever I’m faced with tasks at work.
 Without knowing the why behind design decisions, I find that critique becomes
 unobjective.
 
-That is not to say personal feelings aren't valuable, as experience brings
+That is not to say personal opinions aren’t valuable, as experience brings
 insight. But if problem solving is at the forefront of all design decisions,
-critique will be better.
+critique can be even better.
 
 <blockquote>
     <p>Always go back to your original problem statement so you can verify
@@ -37,12 +37,12 @@ critique will be better.
     <cite>— Paola Mariselli</cite>
 </blockquote>
 
-My key takeaways from Tanner’s article when looking for design critique:
+The highlights from of Tanner’s article when looking for design critique are:
 
-1. Summarize the problem you are solving
-2. Specify the part of the design you are looking for feedback on
+1. Summarize the problem you are solving.
+2. Specify the part of the design you are looking for feedback on.
 3. Ensure everyone understands the problem. Allow people to ask clarifying questions, etc.
-4. Critiques work best in person
+4. Critiques work best in person.
 
 ---
 
