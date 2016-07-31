@@ -37,7 +37,7 @@ critique can be even better.
     <cite>— Paola Mariselli</cite>
 </blockquote>
 
-The highlights from of Tanner’s article when looking for design critique are:
+The highlights from Tanner’s article when looking for design critique are:
 
 1. Summarize the problem you are solving.
 2. Specify the part of the design you are looking for feedback on.
