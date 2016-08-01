@@ -4,9 +4,7 @@ title: "Cross-channel user experience with FNB"
 categories: journal
 ---
 
-A few weeks ago I upgraded to a Samsung Galaxy S6, but had difficulties with FNB’s online banking application after re-installing
-it. Instead of just complaining about it, I thought I'd take the effort to document the process. And in doing so, find ways
-which could make it a better experience in future.
+A few weeks ago I upgraded to a Samsung Galaxy S6, but had difficulties with FNB’s online banking application after re-installing it. Instead of just complaining about it, I thought I’d take the effort to document the process. And in doing so, find ways which could make it a better experience in future.
 
 ### Installation: the easy part
 

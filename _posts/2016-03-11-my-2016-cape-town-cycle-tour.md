@@ -4,9 +4,7 @@ title: "My 2016 Cape Town Cycle Tour"
 categories: journal
 ---
 
-On Sunday the 6th of March, 2016 I took part in my fifth Cape Town Cycle
-Tour. My excitement for this year’s race was at an all time high, having
-not taken part in the previous two.
+On Sunday the 6th of March, 2016 I took part in my fifth Cape Town Cycle Tour. My excitement for this year’s race was at an all time high, having not taken part in the previous two.
 
 ### Preparation
 

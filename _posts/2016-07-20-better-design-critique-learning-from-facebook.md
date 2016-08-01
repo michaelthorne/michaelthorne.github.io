@@ -4,9 +4,7 @@ title: "Better design critique: learning from Facebook"
 categories: journal
 ---
 
-Without proper design critique, you run the risk of building great looking
-products that no one is going to use. Whilst asking for feedback is easy,
-ensuring it is the right feedback is a challenge.
+Without proper design critique, you run the risk of building great looking products that no one is going to use. Whilst asking for feedback is easy, ensuring it is the right feedback is a challenge.
 
 [Peek Inside a Facebook Design Critique](https://medium.com/facebook-design/peek-inside-a-facebook-design-critique-c4833efda26e):
 is an article by [Tanner Christensen](http://tannerchristensen.com) (product
