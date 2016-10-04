@@ -22,7 +22,7 @@ A lot has changed since those early days — for the better. I worked as a Java 
 where I got experience in an enterprise development environment. I became familiar with technologies such as Grails and
 jQuery. Working in an IDE was also a welcome change from the text editors of old. I learned about methodologies such as
 Agile, version control (SVN) and project-tracking software (JIRA). These were now a part of my daily routine (shout-out to
-[Simon](http://twitter.com/@simonthetwit)).
+[Simon](http://twitter.com/simonthetwit)).
 
 Most recently, at [Hellocomputer](http://www.hellocomputer.com), I explored the latest advancements in HTML and CSS with
 the arrival of HTML5 and CSS3. It was during this time that I began to see the value in the front-end developer as a specialist
