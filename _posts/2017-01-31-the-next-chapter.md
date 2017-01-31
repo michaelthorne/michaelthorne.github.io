@@ -12,9 +12,9 @@ at [Next](https://wearenext.co.za). So it is sad to leave it all behind.
 
 ### Reflections
 
-But, I can look back to all the successful projects I worked on during my time at Next with fond memories. Highlights included
-the [CapeTalk](http://capetalk.co.za) and [702](http://702.co.za) talk radio websites for Primedia Broadcasting. As well
-as [Fido](https://www.hellofido.co.za): the online credit check for FRANK.NET (including their website).
+I can look back to all the successful projects I worked on at Next with fond memories. Highlights included the [CapeTalk](http://capetalk.co.za)
+and [702](http://702.co.za) talk radio websites for Primedia Broadcasting. As well as [Fido](https://www.hellofido.co.za):
+the online credit check for FRANK.NET (including their website).
 
 Unfortunately there were a handful of websites that never made it to launch. Even so, the lessons learned from these projects
 meant they were still valuable learning experiences.
