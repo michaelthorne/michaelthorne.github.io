@@ -6,9 +6,9 @@ categories: journal
 
 ​Today marks the end of my time at Next.
 
-I had never imagined what this day might be like, so I have mixed emotions. For over 3 years I put a lot of effort and passion
-into a company that has produced some excellent work. It was nice to be apart of a constantly growing team during my time
-at [Next](https://wearenext.co.za). So it is sad to leave it all behind.
+I had never imagined what this day might be like, so I have mixed emotions. For the last 3 and a bit years I put a lot of
+effort and passion into a company that has produced some excellent work. It was nice to be apart of a constantly growing
+team during my time at [Next](https://wearenext.co.za). So it is sad to leave it all behind.
 
 ### Reflections
 
