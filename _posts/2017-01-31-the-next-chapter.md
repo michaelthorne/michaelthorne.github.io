@@ -7,8 +7,8 @@ categories: journal
 ​Today marks the end of my time at Next.
 
 I had never imagined what this day might be like, so I have mixed emotions. For over 3 years I put a lot of effort and passion
-into a company that has produced some excellent work. Much of my time at [Next](https://wearenext.co.za) overlapped with
-that of the majority of this great team. So it is sad to leave it all behind.
+into a company that has produced some excellent work. It was nice to be apart of the growth of a great team at [Next](https://wearenext.co.za)
+during my time here. So it is sad to leave it all behind.
 
 ### Reflections
 
