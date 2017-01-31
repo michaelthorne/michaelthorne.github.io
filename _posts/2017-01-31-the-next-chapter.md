@@ -44,3 +44,5 @@ I’m fortunate to have worked with you and appreciate the opportunity.
 
 And to the rest of the team for everything that you have taught me. You’ve been easy to get along with and you can be proud
 of all that you’ve achieved. Keep making things that matter.
+
+<img src="/assets/images/journal/parrot-shuffle-30x25.gif" width="30" height="25" alt="Parrot shuffle">
