@@ -3,7 +3,7 @@ layout: default
 lastmod: 2015-06-08
 ---
 
-{% for post in site.posts | limit: 1 %}
+{% for post in site.posts limit: 1 %}
 <article itemscope itemtype="http://schema.org/BlogPosting">
     <h2 itemprop="headline">{{ post.title }}</h2>
 

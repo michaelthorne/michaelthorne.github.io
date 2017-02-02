@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Better design critique: learning from Facebook"
+title: "Better design critique&#58; learning from Facebook"
 categories: journal
 ---
 
