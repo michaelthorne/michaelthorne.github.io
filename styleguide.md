@@ -14,11 +14,9 @@ This is the front-end Style Guide for the website. It displays the typographic s
 
 ###### Font Stacks
 
-<p>Primary font: Merriweather, serif</p>
-<p><em>Primary font italic: Merriweather, serif</em></p>
-<p><strong>Primary font bold: Merriweather, serif</strong></p>
-<p class="font-secondary">Secondary font: Lato, sans-serif</p>
-<p class="font-secondary"><strong>Secondary font bold: Lato, sans-serif</strong></p>
+<p>Primary font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;</p>
+<p><em>Primary font italic: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;</em></p>
+<p><strong>Primary font bold: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;</strong></p>
 
 <hr class="separator">
 

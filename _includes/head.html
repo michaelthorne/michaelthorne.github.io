@@ -31,20 +31,4 @@
     {% if page.next %}
     <link rel="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="{{ page.next.title }}">
     {% endif %}
-
-    <!-- Web Fonts -->
-    <script>
-        WebFontConfig = {
-            google: {
-                families: ['Lato:400,700', 'Merriweather:400,700,400italic,700italic']
-            }
-        };
-    </script>
-
-    <!-- Web Font Loader -->
-    <script>
-        (function(){var e=document.createElement("script");e.src=("https:"==document.location.protocol?"https":"http")+
-        "://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js";e.type="text/javascript";e.async="true";
-        var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
-    </script>
 </head>

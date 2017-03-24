@@ -3,7 +3,6 @@
 \* -------------------------------------------------------------------------- */
 
 @mixin heading($font-size) {
-    font-family: $font-secondary;
     font-size: $font-size;
     line-height: 1.2;
     margin-top: 0;
