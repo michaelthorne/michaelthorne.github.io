@@ -1,7 +1,7 @@
 # Site settings
 title: Michael Thorne / Front-end Web Developer
 strapline: Michael Thorne
-description: Front-end web developer at Next in Cape Town, South Africa. Focused on web standards, performance, accessibility and user experience. Interested in design, photography and sports.
+description: Front-end web developer in Cape Town, South Africa. Focused on web standards, performance, accessibility and user experience. Interested in design, photography and sports.
 baseurl: ""
 url: "http://www.userx.co.za"
 permalink: :categories/:title/
