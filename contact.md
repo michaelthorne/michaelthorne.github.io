@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Contact me
-excerpt: You can email me or or get in touch with me on Twitter @mikkelz_za if you’d like to chat about work or have any questions relating to my website.
+excerpt: |
+    You can email me or or get in touch with me on Twitter @mikkelz_za if you’d
+    like to chat about work or have any questions relating to my website.
 nav: Contact
 header: contact
 order: 3

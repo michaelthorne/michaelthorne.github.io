@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About me
-excerpt: I’m a front-end web developer, sports enthusiast and avid traveller who lives in Cape Town, South Africa.
+excerpt: |
+    I’m a front-end web developer, sports enthusiast and avid traveller who
+    lives in Cape Town, South Africa.
 nav: About
 header: about
 order: 1
