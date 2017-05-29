@@ -44,7 +44,7 @@ year to be frustrating. My time was [56:02 in 2015](https://www.strava.com/activ
 and [53:11 in 2016](https://www.strava.com/activities/576478807). So I was
 hoping for more of the same this year.
 
-I immediately emailed the organisers after my tweet to them (disappointingly) [didn’t receive a reply](https://twitter.com/mikkelz_za/status/864479605964582914).
+I emailed the organisers after my tweet to them (disappointingly) [didn’t receive a reply](https://twitter.com/mikkelz_za/status/864479605964582914).
 
 Shortly thereafter, I received an abrupt reply to my email:
 
