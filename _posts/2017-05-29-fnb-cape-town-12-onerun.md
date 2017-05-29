@@ -115,8 +115,8 @@ arranged a lift to get home.
 
 Later in the day we received our official results, provided by [Finish Time](http://results.finishtime.co.za/MyResults.aspx?uid=35-2290-1-300660):
 
-Overall, I finished **425** out of **11238** runners. This confirmed my
-argument that batch F was not the correct seeding for me.
+Overall, I finished **425** out of **11238** runners based on my net time. This
+confirmed my argument that batch F was not the correct seeding for me.
 
 ### Suggestions and feedback:
 
