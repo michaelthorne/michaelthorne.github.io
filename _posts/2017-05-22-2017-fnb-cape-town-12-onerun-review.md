@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "2017 FNB Cape Town 12 ONERUN review"
+title: "FNB Cape Town 12 ONERUN"
 categories: journal
 ---
 
-The 3rd edition of the now annual FNB Cape Town 12 ONERUN took place this year.
-Having now participated it in all 3 events, I'm going to share my thoughts on
+The 3rd edition of the now annual FNB Cape Town 12 ONERUN took place in 2017.
+Having now participated it in all 3 events, I’m going to share my thoughts on
 the most recent one.
+
+My level of expectation was high, as the previous two events were loads of fun.
+For such a new event, it was well organised and I didn’t experience any hiccups.
 
 ### Registration
 
@@ -15,7 +18,7 @@ the most recent one.
 Event organiser Stillwater Sports, used Entry Ninja to manage the online
 registration process. Online entry for this event was much like any other. The
 entry cost R180 which included a R20 temporary running license. All entrants
-received a branded, PUMA "technical performance" t-shirt.
+received a branded, PUMA “technical performance” t-shirt.
 
 #### Seeding
 
@@ -41,7 +44,7 @@ year to be frustrating. My time was [56:02 in 2015](https://www.strava.com/activ
 and [53:11 in 2016](https://www.strava.com/activities/576478807). So I was
 hoping for more of the same this year.
 
-I immediately emailed the organisers after my tweet to them (disappointingly) [didn't receive a reply](https://twitter.com/mikkelz_za/status/864479605964582914).
+I immediately emailed the organisers after my tweet to them (disappointingly) [didn’t receive a reply](https://twitter.com/mikkelz_za/status/864479605964582914).
 
 Shortly thereafter, I received an abrupt reply to my email:
 
@@ -64,7 +67,7 @@ free parking available. The Justin Bieber concert at Green Point Stadium on
 Wednesday evening resulted in terrible congestion.
 
 I queried my seeding with one of the event organisers at the information desk.
-They told me seeding "hadn't gone according to plan" and that I must wait and
+They told me seeding “hadn’t gone according to plan” and that I must wait and
 see if they resolve it later in the week.
 
 ### The race
@@ -74,7 +77,7 @@ see if they resolve it later in the week.
 Having driven past the start area the night before, I noticed that batch F was
 not setup.  I made my way to the start at around 8:30 am on the morning of the
 race. There was still no sign of batch F, only a hoard of runners around batch
-E, who's seeding pen wasn't closed off. This resulted in all F runners merging
+E, who’s seeding pen wasn’t closed off. This resulted in all F runners merging
 with the back of E, causing major congestion.
 
 Shortly after 9am when the race started, the mass of E and F runners moved
@@ -92,7 +95,7 @@ pacers for 1:15 and 1:25 were soon overtaken and I saw a glimmer of hope in the
 form of the flag of a 55 minute pacer (4:30/km).
 
 By the time we made our way past the CTICC, the road had somewhat cleared and
-comprised of runners for the most part. I was happy with the time I'd set thus
+comprised of runners for the most part. I was happy with the time I’d set thus
 far and looked on course for a 54 minute time. Based on my seeding and supposed
 start time, I was over the moon with this.
 
@@ -108,23 +111,47 @@ finish, I was more than happy with my result.
 #### The finish
 
 A medal, bottle of water and can of Liqui-Fruit welcomed the runners after the
-finish line. Not one to stick around after a race, I made my towards where I'd
+finish line. Not one to stick around after a race, I made my towards where I’d
 arranged a lift to get home.
 
 Later in the day we received our official results, provided by [Finish Time](http://results.finishtime.co.za/MyResults.aspx?uid=35-2290-1-300660):
 
-Overall I finished **425** out of **11238** runners.
-
----
+Overall, I finished **425** out of **11238** runners.
 
 ### Suggestions and feedback
 
-1. The number of participants seems to be growing each year, so seeding needs reviewing. Previous finish times of runners should allow for more accurate seeding. This unfortunately counts against first time runners. But this is par for the course with most timed, mass-participation events.
+1. The number of participants seems to be growing each year, so seeding needs
+reviewing. Previous finish times of runners should allow for more accurate
+seeding. This unfortunately counts against first time runners. But this is par
+for the course with most timed, mass-participation events.
 
-2. If 10 km personal best times count towards seeding, then a way of verifying this must take place. It could be as simple as a link to an activity on Strava or Garmin Connect. Using an official event result would be preferable, but this will also count against some.
+2. If 10 km personal best times count towards seeding, then a way of verifying
+this must take place. It could be as simple as a link to an activity on Strava
+or Garmin Connect. Using an official event result would be preferable, but this
+will also count against some.
 
-3. Number collection needs to be in a more accessible  area. Forcing people to have to pay for parking at the V&A Waterfront is not fair. Also cater for people who may live far from the CBD. This is not the easiest of venues to get to during the week. An (official) Saturday morning collection would also help people.
+3. Number collection needs to be in a more accessible  area. Forcing people to
+have to pay for parking at the V&A Waterfront is not fair. Also cater for people
+who may live far from the CBD. This is not the easiest of venues to get to
+during the week. An (official) Saturday morning collection would also help
+people.
 
-4. The start chutes need to be better controlled. As mentioned in my situation, runners from D, E and F got mixed up into one group. This was due to flimsy red and white tape used to separate hundreds of people. Needless to say this didn't do a good job of holding them back.
+4. The start chutes need to be better controlled. As mentioned in my situation,
+runners from D, E and F got mixed up into one group. This was due to flimsy red
+and white tape used to separate hundreds of people. Needless to say this didn’t
+do a good job of holding them back.
 
-5. There was an insane amount of litter on the course from water sachets. The sheer volume of runners resulted in there being an inadequate number of bins. An event like this is a great place to enforce good habits for all runners.
+5. There was an insane amount of litter on the course from water sachets. The
+sheer volume of runners resulted in there being an inadequate number of bins. An
+event like this is a great place to enforce good habits for all runners.
+
+---
+
+Will I return next year? I doubt it. The dismissive way in which the organisers
+handled my queries before the event was not nice. Never mind the contradictory
+messages between the various support channels.
+
+Would I recommend this event to someone else? Sure, but with a disclaimer that
+they should manage their expectations beforehand. There is a huge focus on the
+VIPs and elite athletes. Unless you fall into that category, your experience
+could be disappointing.
