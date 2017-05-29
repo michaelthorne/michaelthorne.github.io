@@ -97,13 +97,13 @@ form of the flag of a 55 minute pacer (4:30/km).
 
 By the time we made our way past the CTICC, the road had somewhat cleared and
 comprised of runners for the most part. I was happy with the time I’d set thus
-far and looked on course for a 54 minute time. Based on my seeding and supposed
-start time, I was over the moon with this.
+far and looked on course for a sub 54 minute time. Based on my seeding and
+supposed start time, I was over the moon with this.
 
 A solid push up Government Avenue and across onto Bree Street saw us onto the
 final stretch for a fast finish. I ended with a respectable time of 53 minutes
-and 15 seconds. Having spent a lot of energy to pick a clean running line to the
-finish, I was more than happy with my result.
+and 15 seconds. Having spent a lot of energy to constantly pick a clean running
+line along the route, I was more than happy with my result.
 
 <div class="u-fluid-embed">
     <iframe src="https://www.strava.com/activities/998087651/embed/e52989c872802c1ef52dc4fe628921b09d8e6e29"></iframe>
