@@ -75,7 +75,7 @@ see if they resolve it later in the week. And that was the last I heard of it.
 #### Start chutes
 
 Having driven past the start area the night before, I noticed that batch F was
-not setup.  I made my way to the start at around 8:30 am on the morning of the
+not set up.  I made my way to the start at around 8:30 am on the morning of the
 race. There was still no sign of batch F, only a hoard of runners around batch
 E, who’s seeding pen wasn’t closed off. This resulted in all F runners merging
 with the back of E, causing major congestion.
