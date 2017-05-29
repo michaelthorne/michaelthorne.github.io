@@ -89,8 +89,8 @@ position.
 
 #### Obstacle course
 
-As expected, I had a tough task ahead of me, for as far as the eye could see,
-runners filled both lanes of the road into town. It became an obstacle course
+As expected, I had a tough task ahead of me. For as far as the eye could see,
+runners filled both lanes of the road into town. It was an obstacle course
 of weaving between walkers and joggers as I made my way towards the harbour. The
 pacers for 1:15 and 1:25 were soon overtaken and I saw a glimmer of hope in the
 form of the flag of a 55 minute pacer (4:30/km).
