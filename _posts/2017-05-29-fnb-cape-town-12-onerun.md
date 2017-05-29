@@ -148,8 +148,8 @@ event like this is a great place to enforce good habits for all runners.
 ---
 
 Will I return next year? I doubt it. The dismissive way in which the organisers
-handled my queries before the event was not nice. Never mind the contradictory
-messages between the various support channels.
+handled my queries before the event was unprofessional. Never mind the
+contradictory messages between the various support channels.
 
 Would I recommend this event to someone else? Sure, but with a disclaimer that
 they should manage their expectations beforehand. There is a huge focus on the
