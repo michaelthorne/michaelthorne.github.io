@@ -120,7 +120,7 @@ Later in the day we received our official results, provided by [Finish Time](htt
 Overall, I finished **425** out of **11238** runners. This confirmed my
 argument that batch F was not the correct seeding for me.
 
-### Suggestions and feedback
+### Suggestions and feedback:
 
 1. The number of participants seems to be growing each year, so seeding needs
 reviewing. Previous finish times of runners should allow for more accurate
