@@ -6,14 +6,6 @@ article {
     margin-bottom: 2em;
 
     /**
-     * Heading
-     */
-
-    h2 {
-        margin-bottom: 0.125em;
-    }
-
-    /**
      * Anchor
      */
 
@@ -35,14 +27,14 @@ article {
 
     blockquote {
         border-left: 3px solid $color-blue;
-        margin-bottom: 2em;
-        margin-left: 1em;
+        margin: 2em 0;
         padding-left: 1em;
 
         /* Paragraph */
 
         p {
-            margin-bottom: 1em;
+            line-height: 1.5;
+            margin-bottom: 1rem;
             quotes: "\201C""\201D""\2018""\2019";
 
             &:before {
@@ -66,7 +58,7 @@ article {
      */
 
     figure {
-        margin: 0 0 2em 0;
+        margin: 1rem 0;
 
         /* Caption */
 
@@ -88,7 +80,7 @@ article {
         border-top: 3px solid $color-black;
         display: block;
         height: 1px;
-        margin: 0 auto 2em;
+        margin: 2rem auto;
         padding: 0;
         width: 33%;
 
@@ -117,15 +109,11 @@ article {
 
     ol,
     ul {
-        margin-bottom: 1.5em;
-        padding-left: 1.875em;
+        margin-bottom: 2rem;
+        padding-left: 2em;
 
         li {
-            margin-bottom: 1em;
-        }
-
-        & + h2 {
-            margin-top: 1em;
+            margin-bottom: 1rem;
         }
     }
 
@@ -138,17 +126,8 @@ article {
      */
 
     p {
-        margin-bottom: 1.5em;
-
-        & + blockquote,
-        & + figure,
-        & + hr {
-            margin-top: 2em;
-        }
-
-        & + h2 {
-            margin-top: 1em;
-        }
+        margin-top: 0;
+        margin-bottom: 2rem;
     }
 
     /**
@@ -164,9 +143,9 @@ article {
      */
 
     time {
-        display: inline-block;
-        font-size: 0.875em; /* 14 / 16 */
-        margin-bottom: 1em;
+        display: block;
+        margin-top: -0.75em;
+        margin-bottom: 2rem;
 
         a {
             color: $color-blue;
@@ -194,10 +173,6 @@ article {
     .instagram-media {
         margin-bottom: 1.5em !important;
         max-width: 100% !important;
-
-        & + h2 {
-            margin-top: 1em;
-        }
     }
 
     /**
@@ -206,10 +181,6 @@ article {
 
     .twitter-tweet {
         margin-bottom: 1.5em !important;
-
-        & + h2 {
-            margin-top: 1em;
-        }
     }
 }
 
@@ -218,10 +189,6 @@ article {
     article {
         font-size: 1.25em; /* 24 / 16 */
         line-height: 1.75;
-
-        time {
-            font-size: 0.8333em; /* 20 / 24 */
-        }
     }
 }
 
@@ -236,10 +203,6 @@ article {
         figure {
             margin-right: -2em;
             margin-left: -2em;
-
-            figcaption {
-                font-size: 0.75em;
-            }
         }
 
         hr {

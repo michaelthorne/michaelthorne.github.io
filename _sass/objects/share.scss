@@ -4,9 +4,8 @@
 
 .share {
     background-color: $color-white-dark;
-    margin-top: 2em;
-    margin-bottom: 2.5em;
-    padding: 1.5em;
+    margin-bottom: 2em;
+    padding: 1em;
 
     /**
      * Icon
@@ -24,6 +23,7 @@
 
     .share__synopsis {
         font-size: 0.875em; /* 14 / 16 */
+        line-height: 1.5;
         margin-top: 0;
         margin-bottom: 0;
 
