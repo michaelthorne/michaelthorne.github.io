@@ -4,7 +4,7 @@ title: "FNB Cape Town 12 ONERUN"
 categories: journal
 ---
 
-The 3rd edition of the now annual FNB Cape Town 12 ONERUN took place in 2017.
+The 3rd edition of the now annual FNB Cape Town 12 ONERUN took place this year.
 Having now participated it in all 3 events, I’m going to share my thoughts on
 the most recent one.
 
