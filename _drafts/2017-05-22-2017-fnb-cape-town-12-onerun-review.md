@@ -31,42 +31,89 @@ Everyone received an SMS from the organisers in the week before the event with
 their race number. I got seeded in batch F, with a start time of 9:20! The event
 starts at 9am.
 
-Having not had an issue with my seeding in the previous two events, I found this
-year to be frustrating. My time was 56:02 in 2015 [https://www.strava.com/activities/306448499] and 53:11 in 2016. So I was hoping for more of the same this year.
+<figure>
+    <img src="/assets/images/journal/fnb-capetown-12-onerun-sms.png" alt="">
+    <figcaption>The seeding SMS I received from the organisers</figcaption>
+</figure>
 
-I immediately emailed the organisers after my tweet to them didn't receive a reply. [https://twitter.com/mikkelz_za/status/864479605964582914]
+Having not had an issue with my seeding in the previous two events, I found this
+year to be frustrating. My time was [56:02 in 2015](https://www.strava.com/activities/306448499)
+and [53:11 in 2016](https://www.strava.com/activities/576478807). So I was
+hoping for more of the same this year.
+
+I immediately emailed the organisers after my tweet to them (disappointingly) [didn't receive a reply](https://twitter.com/mikkelz_za/status/864479605964582914).
 
 Shortly thereafter, I received an abrupt reply to my email:
 
-The seeding is done by an automated system and is based on factors such as date you entered and limited numbers per batch. It is done by an external company and unfortunately we cannot change it.
+> The seeding is done by an automated system and is based on factors such as
+date you entered and limited numbers per batch. It is done by an external
+company and unfortunately we cannot change it.
 
-This completely contradicted their website and what they posted on on Facebook. [screenshot of post]
+This completely contradicted their website and what they posted on on Facebook.
+
+<figure>
+    <img src="/assets/images/journal/fnb-capetown-12-onerun-seeding.png" alt="">
+    <figcaption>The website clearly stating that seeding is deteremined by your 10 km time</figcaption>
+</figure>
 
 #### Number collection
 
-We had to collect our race numbers from The Avenue at the V&A Waterfront on Wednesday or Thursday before the race. Not the most accessible venue, with no free parking available. The Justin Bieber concert at Green Point Stadium on Wednesday evening resulted in terrible congestion.
+We had to collect our race numbers from The Avenue at the V&A Waterfront on
+Wednesday or Thursday before the race. Not the most accessible venue, with no
+free parking available. The Justin Bieber concert at Green Point Stadium on
+Wednesday evening resulted in terrible congestion.
 
-I queried my seeding with one of the event organisers at the information desk. They told me seeding "hadn't gone according to plan" and that I must wait and see if they resolve it later in the week.
+I queried my seeding with one of the event organisers at the information desk.
+They told me seeding "hadn't gone according to plan" and that I must wait and
+see if they resolve it later in the week.
 
 ### The race
 
 #### Start chutes
 
-Having driven past the start area the night before, I noticed that batch F was not setup.  I made my way to the start at around 8:30 am on the morning of the race. There was still no sign of batch F, only a hoard of runners around batch E, who's seeding pen wasn't closed off. This resulted in all F runners merging with the back of E, causing major congestion.
+Having driven past the start area the night before, I noticed that batch F was
+not setup.  I made my way to the start at around 8:30 am on the morning of the
+race. There was still no sign of batch F, only a hoard of runners around batch
+E, who's seeding pen wasn't closed off. This resulted in all F runners merging
+with the back of E, causing major congestion.
 
-Shortly after 9am when the race started, the mass of E and F runners moved forward. Not long afterwards, there was a sudden surge as everyone starting jogging forwards. Upon reaching the start, the announcer said that some of the D batch had pushed through the tape. A few minutes later and we were off. This large group of D, E and F runners in a frenzy.
+Shortly after 9am when the race started, the mass of E and F runners moved
+forward. Not long afterwards, there was a sudden surge as everyone starting
+jogging forwards. Upon reaching the start, the announcer said that some of the
+D batch had pushed through the tape. A few minutes later and we were off. This
+large group of D, E and F runners in a frenzy.
 
 #### Obstacle course
 
-As expected, I had a tough task ahead of me, for as far as the eye could see, runners filled both lanes of the road into town. It became an obstacle course of weaving between walkers and joggers as I made my way towards the harbour. The pacers for 1:15 and 1:25 were soon overtaken and I saw a glimmer of hope in the form of the flag of a 55 minute pacer (4:30/km).
+As expected, I had a tough task ahead of me, for as far as the eye could see,
+runners filled both lanes of the road into town. It became an obstacle course
+of weaving between walkers and joggers as I made my way towards the harbour. The
+pacers for 1:15 and 1:25 were soon overtaken and I saw a glimmer of hope in the
+form of the flag of a 55 minute pacer (4:30/km).
 
-By the time we made our way past the CTICC, the road had somewhat cleared and comprised of runners for the most part. I was happy with the time I'd set thus far and looked on course for a 54 minute time. Based on my seeding and supposed start time, I was over the moon with this.
+By the time we made our way past the CTICC, the road had somewhat cleared and
+comprised of runners for the most part. I was happy with the time I'd set thus
+far and looked on course for a 54 minute time. Based on my seeding and supposed
+start time, I was over the moon with this.
 
-A solid push up Government Avenue and across onto Bree Street saw us onto the final stretch for a fast finish. I ended with a respectable time of 53 minutes and 18 seconds. Having spent a lot of energy to pick a clean running line to the finish, I was more than happy with my result.
+A solid push up Government Avenue and across onto Bree Street saw us onto the
+final stretch for a fast finish. I ended with a respectable time of 53 minutes
+and 15 seconds. Having spent a lot of energy to pick a clean running line to the
+finish, I was more than happy with my result.
+
+<div class="u-fluid-embed">
+    <iframe src="https://www.strava.com/activities/998087651/embed/e52989c872802c1ef52dc4fe628921b09d8e6e29"></iframe>
+</div>
 
 #### The finish
 
-A medal, bottle of water and can of Liqui-Fruit welcomed the runners after the finish line. Not one to stick around after a race, I made my towards where I'd arranged a lift to get home.
+A medal, bottle of water and can of Liqui-Fruit welcomed the runners after the
+finish line. Not one to stick around after a race, I made my towards where I'd
+arranged a lift to get home.
+
+Later in the day we received our official results, provided by [Finish Time](http://results.finishtime.co.za/MyResults.aspx?uid=35-2290-1-300660):
+
+Overall I finished **425** out of **11238** runners.
 
 ---
 
