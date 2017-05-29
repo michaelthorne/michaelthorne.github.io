@@ -82,9 +82,9 @@ with the back of E, causing major congestion.
 
 Shortly after 9 a.m. when the race started, the mass of E and F runners moved
 forward. Not long afterwards, there was a sudden surge as everyone starting
-jogging forwards. Upon reaching the start, the announcer said that some of the
-D batch had pushed through the tape. A few minutes later and we were off. This
-large group of D, E and F runners in a frenzy.
+jogging towards the start. Upon reaching the start, the announcer said that some
+of the D batch had pushed through the tape. A few minutes later and we were off.
+This large group of D, E and F runners in a frenzy.
 
 #### Obstacle course
 
