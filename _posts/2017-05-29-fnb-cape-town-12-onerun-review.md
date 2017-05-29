@@ -75,7 +75,7 @@ see if they resolve it later in the week. And that was the last I heard of it.
 #### Start chutes
 
 Having driven past the start area the night before, I noticed that batch F was
-not set up.  I made my way to the start at around 8:30 a.m. on the morning of the
+not set up. I made my way to the start at around 8:30 a.m. on the morning of the
 race. There was still no sign of batch F, only a hoard of runners around batch
 E, who’s seeding pen wasn’t closed off. This resulted in all F runners merging
 with the back of E, causing major congestion.
@@ -131,7 +131,7 @@ this must take place. It could be as simple as a link to an activity on Strava
 or Garmin Connect. Using an official event result would be preferable, but this
 will also count against some.
 
-3. Number collection needs to be in a more accessible  area. Forcing people to
+3. Number collection needs to be in a more accessible area. Forcing people to
 have to pay for parking at the V&A Waterfront is not fair. Also cater for people
 who may live far from the CBD. This is not the easiest of venues to get to
 during the week. An (official) Saturday morning collection would also help
