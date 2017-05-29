@@ -31,8 +31,8 @@ validation of the time provided. Due to the increase in popularity of the event,
 previous times for the event should help with seeding.
 
 Everyone received an SMS from the organisers in the week before the event with
-their race number. I got seeded in batch F, with a start time of 9:20! The event
-starts at 9am.
+their race number. I got seeded in batch F, with a start time of 9:20 a.m.! The event
+starts at 9 a.m.
 
 <figure>
     <img src="/assets/images/journal/fnb-capetown-12-onerun-sms.png" alt="">
@@ -75,12 +75,12 @@ see if they resolve it later in the week. And that was the last I heard of it.
 #### Start chutes
 
 Having driven past the start area the night before, I noticed that batch F was
-not set up.  I made my way to the start at around 8:30 am on the morning of the
+not set up.  I made my way to the start at around 8:30 a.m. on the morning of the
 race. There was still no sign of batch F, only a hoard of runners around batch
 E, who’s seeding pen wasn’t closed off. This resulted in all F runners merging
 with the back of E, causing major congestion.
 
-Shortly after 9am when the race started, the mass of E and F runners moved
+Shortly after 9 a.m. when the race started, the mass of E and F runners moved
 forward. Not long afterwards, there was a sudden surge as everyone starting
 jogging forwards. Upon reaching the start, the announcer said that some of the
 D batch had pushed through the tape. A few minutes later and we were off. This
