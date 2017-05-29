@@ -68,7 +68,7 @@ Wednesday evening resulted in terrible congestion.
 
 I queried my seeding with one of the event organisers at the information desk.
 They told me seeding “hadn’t gone according to plan” and that I must wait and
-see if they resolve it later in the week.
+see if they resolve it later in the week. And that was the last I heard of it.
 
 ### The race
 
