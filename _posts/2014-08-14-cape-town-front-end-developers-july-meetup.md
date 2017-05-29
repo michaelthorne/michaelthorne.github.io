@@ -25,7 +25,7 @@ but I haven’t yet tried it myself.
 </blockquote>
 
 The idea behind building a “living” style guide that is dynamic and easy to maintain is definitely an appealing one, especially
-when working on larger projects. Ian Feather wrote this great article: A Maintainable Style Guide](http://engineering.lonelyplanet.com/2014/05/18/a-maintainable-styleguide.html)
+when working on larger projects. Ian Feather wrote this great article: [A Maintainable Style Guide](http://engineering.lonelyplanet.com/2014/05/18/a-maintainable-styleguide.html)
 where he discusses how the Lonely Planet’s style guide is kept up to date via an API.
 
 Below is a list of some of my favourite style guides currently online:
