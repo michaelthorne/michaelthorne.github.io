@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FNB Cape Town 12 ONERUN"
+title: "2017 FNB Cape Town 12 ONERUN review"
 categories: journal
 ---
 
