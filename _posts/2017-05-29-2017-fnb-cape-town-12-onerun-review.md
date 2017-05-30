@@ -115,8 +115,8 @@ arranged a lift to get home.
 
 Later in the day we received our official results, provided by [Finish Time](http://results.finishtime.co.za/MyResults.aspx?uid=35-2290-1-300660):
 
-Overall, I finished **425** out of **11238** runners. This confirmed my
-argument that batch F was not the correct seeding for me.
+Overall, I finished **425** out of **11238** runners based on my net time. This
+confirmed my argument that batch F was not the correct seeding for me.
 
 ### Suggestions and feedback:
 
@@ -148,8 +148,8 @@ event like this is a great place to enforce good habits for all runners.
 ---
 
 Will I return next year? I doubt it. The dismissive way in which the organisers
-handled my queries before the event was not nice. Never mind the contradictory
-messages between the various support channels.
+handled my queries before the event was unprofessional. Never mind the
+contradictory messages between the various support channels.
 
 Would I recommend this event to someone else? Sure, but with a disclaimer that
 they should manage their expectations beforehand. There is a huge focus on the
