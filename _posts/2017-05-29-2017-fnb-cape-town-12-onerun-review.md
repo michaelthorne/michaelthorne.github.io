@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FNB Cape Town 12 ONERUN"
+title: "2017 FNB Cape Town 12 ONERUN review"
 categories: journal
 ---
 
@@ -113,7 +113,7 @@ A medal, bottle of water and can of Liqui-Fruit welcomed the runners after the
 finish line. Not one to stick around after a race, I made my towards where I’d
 arranged a lift to get home.
 
-Later in the day we received our official results, provided by [Finish Time](http://results.finishtime.co.za/MyResults.aspx?uid=35-2290-1-300660):
+Later in the day we received our official results, provided by [Finish Time](http://results.finishtime.co.za/MyResults.aspx?uid=35-2290-1-300660).
 
 Overall, I finished **425** out of **11238** runners based on my net time. This
 confirmed my argument that batch F was not the correct seeding for me.
