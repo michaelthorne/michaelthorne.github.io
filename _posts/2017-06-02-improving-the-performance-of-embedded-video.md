@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Improving the web performance of embedded videos"
+title: "Improving the performance of embedded video"
 categories: journal
 ---
 
-I created this basic case study to show how you can improve the performance of an embedded YouTube video.
+I created this basic case study to show how you can improve the performance of embedded video.
 
 ### Always be testing
 
@@ -36,14 +36,14 @@ It is also easier to quantify the differences by eliminating all other factors.
 So I set out to create a [case study](http://code.userx.co.za/iframes),
 detailing the different methods for embedding a YouTube video.
 
-#### Inline iframe
+#### 1. The inline iframe
 
 The [first method](http://code.userx.co.za/iframes/embed-iframe-default.html)
 embeds the video with an inline iframe. YouTube provides this code for you and
 makes embedding videos a simple affair. As mentioned, the downside to this is
 that you force the download of all the necessary scripts on page load.
 
-#### JavaScript
+#### 2. Using JavaScript
 
 In the [second method](http://code.userx.co.za/iframes/embed-iframe-javascript.html),
 JavaScript inserts an iframe into the page when you click to play the video. A
