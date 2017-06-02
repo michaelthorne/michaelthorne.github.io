@@ -4,7 +4,7 @@ title: "The Next chapter"
 categories: journal
 --- 
 
-​Today marks the end of my time at Next.
+​Today marks the end of my time at Next. An exciting opportunity awaits, but now is a time for reflection.
 
 I had never imagined what this day might be like, so I have mixed emotions. For the last 3 and a bit years I put a lot of
 effort and passion into a company that has produced some excellent work. It was nice to be apart of a constantly growing
