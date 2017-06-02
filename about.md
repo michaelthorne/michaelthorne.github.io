@@ -22,7 +22,7 @@ at [RED-i](http://red-i.co.za) as a Java developer and then I made the switch ba
 In 2012 I spent the entire year freelancing as a front-end web developer. From 2014 I worked at [Next](http://www.wearenext.co.za)
 for just over 3 years.
 
-Currently, I work for InQbate at [Quint Group](http://www.quint.co.uk). Quint is an international fintech company who operates
+Currently, I work for InQbate at Quint Group. Quint is an international fintech company who operates
 in the consumer finance market.
 
 I was fortunate to go overseas at an early age, a holiday to the UK and Europe in 1993, I’ve continued to
