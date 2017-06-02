@@ -35,7 +35,7 @@ Having spent many hours analysing the route and profile, I identified a few key 
 through Bo-kaap on to Signal Hill and up on to Table Mountain via Platteklip Gorge became my focus. 
 
 The [VWS 25km Trail Challenge](https://www.strava.com/activities/301503095) in May was my first trail race as well as my
-longest. I also ran the [PPC Riebeeck Bergmarathon](journal/running-the-2015-ppc-cement-riebeeck-bergmarathon/) in August
+longest. I also ran the [PPC Riebeeck Bergmarathon](journal/running-the-2015-ppc-cement-riebeeck-bergmarathon) in August
 which was my first full road marathon. Whenever possible I made an effort to put in a good run on the weekend. This included
 a few long runs starting in Gardens which mirrored the first 10 to 15km of the UTCT route.
 
@@ -259,11 +259,11 @@ my ass! And to my Mom: I’m so glad that you were there at the finish. It meant
 **Update**: I’ve added a list below with a few links to blogs and photos of Ultra-trail Cape Town 2015.
 
 * [Ultra-trail Cape Town 100 by Devon Yanko](http://www.devonyanko.com/news/2015/10/6/ultra-trail-cape-town)
-* [Aid Stationing at the Ultra-trail Cape Town by Leave The Couch](http://leavethecouch.com/aid-stationing-at-the-ultra-trail-cape-town/)
+* [Aid Stationing at the Ultra-trail Cape Town by Leave The Couch](http://leavethecouch.com/aid-stationing-at-the-ultra-trail-cape-town)
 * [Sportograf @ Ultra Trail Cape Town](http://www.sportograf.com/en/event/2939-Ultra-Trail-Cape-Town-2015#event)
 * [UTCT 2015 by Jeff Ayliffe](https://www.facebook.com/media/set/?set=a.435364166650073.1073741847.247813108738514&type=3)
 * [UTCT 2015 by Peter Kirk](https://www.facebook.com/media/set/?set=a.435368719982951.1073741848.247813108738514&type=3)
 * [Ultra-trail Cape Town® 2015: Official Race Film](https://www.facebook.com/video.php?v=435925923260564)
-* [From zero to Ultra Trail in 6 weeks by John Mullins](http://www.johnmullins.co.za/ultratrailcapetown2015/)
+* [From zero to Ultra Trail in 6 weeks by John Mullins](http://www.johnmullins.co.za/ultratrailcapetown2015)
 
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>

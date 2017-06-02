@@ -14,7 +14,7 @@ I finished the 2015 PPC Cement Riebeeck Bergmarathon on my first attempt at a ro
 
 ### My goal and motivation
 
-At the beginning of the year I entered the [Ultra-trail Cape Town 2015](http://www.ultratrailcapetown.com/)
+At the beginning of the year I entered the [Ultra-trail Cape Town 2015](http://www.ultratrailcapetown.com)
 65 km solo race. It takes place on Saturday, the 3rd of October, 2015. And as of March this year, I’ve been trail running most weekends.
 The furthest distance I’d run leading up to my first marathon was 31 km off-road and 25 km on the road.
 
@@ -72,7 +72,7 @@ And the views of the farms and cattle on either side of the road were beautiful.
 Due to the cold temperatures, I drank a lot less than usual. I think this was also the reason that I ate less than I normal.
 A slice of toast for breakfast with peanut butter and honey and two bananas before the race started.
 
-Then during the race I ate a [Wedgewood Race Food](http://www.foodforsport.co.za/wedgewood-race-food/) nougat bar, two mouthfuls
+Then during the race I ate a [Wedgewood Race Food](http://www.foodforsport.co.za/wedgewood-race-food) nougat bar, two mouthfuls
 of a raw date bar and half a banana.
 
 Thinking back, I should have eaten some more of the date bar, but I didn’t feel like it at the time.
@@ -140,7 +140,7 @@ from Ultimate Direction. I prefer them to the soft flasks that come with the Sal
 
 ---
 
-The next big race that I will be taking part in is the [The Crazy Store Table Mountain Challenge](http://www.energyevents.co.za/event/the-crazy-store-table-mountain-challenge-2015/).
+The next big race that I will be taking part in is the [The Crazy Store Table Mountain Challenge](http://www.energyevents.co.za/event/the-crazy-store-table-mountain-challenge-2015).
 This trail run takes place on the 12th of September, 2015 and is a 40 km route on and around Table Mountain. It is not
 going to be easy by any stretch of the imagination, but I’m looking forward to it!
 

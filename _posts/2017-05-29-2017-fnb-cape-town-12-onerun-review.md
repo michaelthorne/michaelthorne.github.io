@@ -50,7 +50,7 @@ Shortly thereafter, I received an abrupt reply to my email:
 date you entered and limited numbers per batch. It is done by an external
 company and unfortunately we cannot change it.
 
-This completely contradicted their website and what they posted on on [Facebook](https://www.facebook.com/Ctown12/photos/a.593191857478997.1073741830.572326119565571/1025946037536908/).
+This completely contradicted their website and what they posted on on [Facebook](https://www.facebook.com/Ctown12/photos/a.593191857478997.1073741830.572326119565571/1025946037536908).
 
 <figure>
     <img src="/assets/images/journal/fnb-capetown-12-onerun-seeding.png" alt="">

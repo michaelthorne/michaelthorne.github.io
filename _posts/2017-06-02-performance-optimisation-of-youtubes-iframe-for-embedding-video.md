@@ -31,9 +31,9 @@ a modal (ugh, more bloat). This got me thinking: include the
 ### Measuring performance
 
 After a little bit of digging around online, I came across the solution on
-[SitePoint](https://www.sitepoint.com/faster-youtube-embeds-javascript/). Other
+[SitePoint](https://www.sitepoint.com/faster-youtube-embeds-javascript). Other
 examples are available on [Tuts+](https://webdesign.tutsplus.com/tutorials/how-to-lazy-load-embedded-youtube-videos--cms-26743)
-and [Labnol](https://www.labnol.org/internet/light-youtube-embeds/27941/).
+and [Labnol](https://www.labnol.org/internet/light-youtube-embeds/27941).
 
 Needless to say, it was not the first time someone had thought of
 this. Why I felt compelled to reproduce it, instead of copying it and moving on,
@@ -85,6 +85,6 @@ illustrating an alternative way of dealing with an inline
 
 ### Further reading on web performance
 
-- Designing for Performance: [Performance is User Experience](http://designingforperformance.com/performance-is-ux/)
-- SOASTA: [Google: 53% of mobile users abandon sites that take longer than 3 seconds to load](https://www.soasta.com/blog/google-mobile-web-performance-study/)
-- Google Developers: [Web Performance Fundamentals](https://developers.google.com/web/fundamentals/performance/)
+- Designing for Performance: [Performance is User Experience](http://designingforperformance.com/performance-is-ux)
+- SOASTA: [Google: 53% of mobile users abandon sites that take longer than 3 seconds to load](https://www.soasta.com/blog/google-mobile-web-performance-study)
+- Google Developers: [Web Performance Fundamentals](https://developers.google.com/web/fundamentals/performance)

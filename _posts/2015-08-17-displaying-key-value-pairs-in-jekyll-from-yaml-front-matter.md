@@ -58,5 +58,5 @@ Block mapping will allow me to create more complex layouts in Jekyll using YAML 
 
 ---
 
-The idea behind the [Next handbooks](http://www.wearenext.co.za/readme/) is to document our culture, processes and tools.
+The idea behind the [Next handbooks](http://www.wearenext.co.za/readme) is to document our culture, processes and tools.
 Anyone at Next can contribute to the them and those outside get an insight in to who we are and how we work.
