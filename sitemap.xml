@@ -1,19 +1,16 @@
 ---
 layout: null
-sitemap:
-    exclude: true
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% assign sorted_pages = (site.pages | sort: 'order') %}
-    {% for page in sorted_pages %}
-    {% unless page.sitemap.exclude == true %}
+{% for page in site.pages %}
+    {% if page.sitemap_include == true %}
     <url>
         <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-        <lastmod>{{ page.lastmod | date: "%Y-%m-%d"}}</lastmod>
+        <lastmod>{{ page.sitemap_lastmod | date: "%Y-%m-%d"}}</lastmod>
     </url>
-    {% endunless %}
+    {% endif %}
 {% endfor %}
 {% for post in site.posts %}
     {% unless post.published == false %}

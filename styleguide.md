@@ -3,7 +3,8 @@ layout: page
 title: Style Guide
 excerpt: This is the front-end Style Guide for the website. It displays the typographic styles for the markup my of content.
 permalink: /styleguide/
-lastmod: 2015-06-08
+sitemap_include: true
+sitemap_lastmod: 2015-06-08
 ---
 
 ## Style Guide

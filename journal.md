@@ -8,7 +8,8 @@ nav: Journal
 header: journal
 order: 2
 permalink: /journal/
-lastmod: 2015-06-08
+sitemap_include: true
+sitemap_lastmod: 2015-06-08
 ---
 
 ## My journal
