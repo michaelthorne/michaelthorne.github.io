@@ -19,11 +19,11 @@ I’m a front-end web developer, sports enthusiast and avid traveller who lives 
 I matriculated from Wynberg Boys’ High School in 2000 and completed a computer science diploma at CTI in 2002.
 
 Towards the end of 2002, I began my career at Generator Communications as a PHP developer. In 2006 I started working
-at [RED-i](http://red-i.co.za) as a Java developer and then I made the switch back to PHP development in 2010 at [Hellocomputer](http://www.hellocomputer.com).
+at [RED-i](http://red-i.co.za) as a Java developer and then I made the switch back to PHP development in 2010 at [Hellocomputer](http://www.hellocomputer.com/).
 In 2012 I spent the entire year freelancing as a front-end web developer. From 2014 I worked at [Next](http://www.wearenext.co.za)
 for just over 3 years.
 
-Currently, I work for InQbate at Quint Group. Quint is an international fintech company who operates
+Currently, I work for [InQbate](http://www.inqbate.com/) at Quint Group. Quint is an international fintech company who operates
 in the consumer finance market.
 
 I was fortunate to go overseas at an early age, a holiday to the UK and Europe in 1993, I’ve continued to
