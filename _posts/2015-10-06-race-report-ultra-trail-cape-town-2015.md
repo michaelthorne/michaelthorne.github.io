@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Race report&#58; Ultra-trail Cape Town 2015"
+title: "Race report: Ultra-trail Cape Town 2015"
 categories: journal
 ---
 
