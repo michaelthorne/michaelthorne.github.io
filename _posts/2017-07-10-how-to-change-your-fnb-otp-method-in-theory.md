@@ -96,7 +96,7 @@ continue button under *Option 1* of OTP settings.
 I clicked on it and could now configure my OTP method settings. I thanked the
 consultant and ended the call.
 
-### Computer says no
+### Computer says no: validation fail
 
 <div class="u-fluid-embed">
     <iframe src="https://www.youtube.com/embed/AJQ3TM-p2QI"></iframe>
@@ -134,3 +134,9 @@ to confirm), it's disappointing how things are now.
 
 I keep hearing people mentioning [Capitec Bank](https://www.capitecbank.co.za) –
 maybe now is the time to give them a go.
+
+---
+
+This is not the first time I have written about my difficulties with FNB:
+
+- [Cross-channel user experience with FNB](/journal/cross-channel-user-experience-with-fnb)

@@ -12,7 +12,7 @@ The installation via Google’s Play Store is straightforward, as is with most a
 for a living, I usually enjoy the process of configuring a phone. But things became problematic after logging in to the
 application.
 
-### Authentication: easier said than done
+#### Authentication: easier said than done
 
 I entered my FNB online banking username and the app notified me that it was waiting for a confirmation SMS. A few seconds
 later I received the SMS and the app prompted me to link a card of mine. This is where things got confusing (I’ve been unable
@@ -21,7 +21,7 @@ username and the OTP. The correct action would’ve been to enter a card number 
 OTP). I am so used to entering the OTP for any action related to my account like adding a beneficiary or making a payment.
 The fact that I had just received an SMS, I assumed that I had to use the OTP with a card number of mine.
 
-#### Computer says no: card blocked
+##### Computer says no: card blocked
 
 After attempting to enter the OTP twice, my card got blocked. In spite of the warning that two incorrect entries of card
 number and PIN would result in a blocked card, I proceeded. It didn’t seem possible that I could enter my card number and
@@ -32,7 +32,7 @@ I decided to call it a day and try again another time. The following day, I used
 was successful. Moments later, at another shop my card wouldn’t work. The cashier read some ambiguous error message to me.
 I was able to use another card, a scenario not everyone is as fortunate to have. Frustration became anger.
 
-#### Please call us; even though we can’t help you
+##### Please call us; even though we can’t help you
 
 Upon returning home, I received an SMS to call the phone number on the back of my card as the PIN entered was incorrect.
 After spending 4 minutes on hold, I hung up. This process involved entering my ID number at least 3 times, before it was
@@ -72,6 +72,6 @@ FNB, you can do so much better. I expect a lot more for the bank charges I pay o
 **Update: 2015-11-27**
 
 It’s been 10 days and I still haven’t had a reply to the email I sent to [fnbcard@fnb.co.za](mailto:fnbcard@fnb.co.za)
-as requested by [RBJacobs](https://twitter.com/Rbjacobs) on Twitter. How is this acceptable? And why do banks get away it?
+as requested by [RbJacobs](https://twitter.com/Rbjacobs) on Twitter. How is this acceptable? And why do banks get away it?
 
 
