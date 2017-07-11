@@ -4,9 +4,7 @@ title: "How to change your FNB OTP method (in theory)"
 categories: journal
 ---
 
-Log into FNB’s online banking and then browse to: Online Banking Settings →
-Security → OTP → and select “Change”. That is the theory anyway, unfortunately
-it does not work as intended.
+Log into FNB’s online banking and then browse to: Online Banking Settings → Security → OTP → and select “Change”. That is the theory anyway, unfortunately it does not work as intended.
 
 **TL;DR**: there is actually no way to do this, but feel free to continue reading to
 see the effort I went through to try and change mine.
