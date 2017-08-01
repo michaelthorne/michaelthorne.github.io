@@ -91,27 +91,6 @@ So I made it over the finish line at my own pace in 4 hours, 2 minutes and 9 sec
     <iframe src="https://www.strava.com/activities/358613802/embed/928c6699e0cce688ee1ae1002ba04a1ed8254040"></iframe>
 </div>
 
-### What I learned
-
-The pride and happiness I felt on completing such a tough challenge made it all worthwhile. I realised that I am mentally
-strong and if I put my mind to it, I can achieve what I want. You need to be fit, but mental health and a good strategy
-is even more important for challenges like this.
-
-42 kms is a long distance and running for four hours is not easy. If you can appreciate the fact that it is a privilege
-to run, then you’ll do well.
-
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-    <div style="padding:8px;">
-        <div style="background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">
-            <div style="background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
-        </div>
-        <p style="margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/57UOQxwFSI/" style="color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Chuffed!</a></p>
-        <p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Michael Thorne (@mikkelz_za) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-08-03T15:48:23+00:00">Aug 3, 2015 at 8:48am PDT</time></p>
-    </div>
-</blockquote>
-
-It’s more of an experience than it is a race and I’m so glad that I did it.
-
 ### Equipment
 
 Aside from the usual kit of a cap, sunglasses, shirt and shorts (and socks), a few items made the difference.
@@ -138,10 +117,32 @@ have to wear it (for hydration and emergency supplies requirements).
 I used two [500 ml (20 oz) bottles with kicker valves](http://www.ultimatedirection.com/p-571-20-oz-bottle-with-kicker-valve.aspx?category=bottles-essentials)
 from Ultimate Direction. I prefer them to the soft flasks that come with the Salomon pack.
 
+### What I learned
+
+The pride and happiness I felt on completing such a tough challenge made it all worthwhile. I realised that I am mentally
+strong and if I put my mind to it, I can achieve what I want. You need to be fit, but mental health and a good strategy
+is even more important for challenges like this.
+
+42 kms is a long distance and running for four hours is not easy. If you can appreciate the fact that it is a privilege
+to run, then you’ll do well.
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+    <div style="padding:8px;">
+        <div style="background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;">
+            <div style="background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+        </div>
+        <p style="margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/57UOQxwFSI/" style="color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Chuffed!</a></p>
+        <p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Michael Thorne (@mikkelz_za) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-08-03T15:48:23+00:00">Aug 3, 2015 at 8:48am PDT</time></p>
+    </div>
+</blockquote>
+
+It’s more of an experience than it is a race and I’m so glad that I did it.
+
 ---
 
-The next big race that I will be taking part in is the [The Crazy Store Table Mountain Challenge](http://www.energyevents.co.za/event/the-crazy-store-table-mountain-challenge-2015).
-This trail run takes place on the 12th of September, 2015 and is a 40 km route on and around Table Mountain. It is not
-going to be easy by any stretch of the imagination, but I’m looking forward to it!
+My thoughts on some of the other races I have completed:
+
+- [Race report: Ultra-trail Cape Town 2015](/journal/race-report-ultra-trail-cape-town-2015/)
+- [2017 FNB Cape Town 12 ONERUN review](/journal/2017-fnb-cape-town-12-onerun-review/)
 
 <script src="//platform.instagram.com/en_US/embeds.js" async defer></script>
