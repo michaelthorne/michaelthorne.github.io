@@ -83,7 +83,7 @@ article {
         height: 1px;
         margin: 2rem auto;
         padding: 0;
-        width: 33%;
+        width: 25%;
 
         /* Separator */
 
@@ -110,6 +110,7 @@ article {
 
     ol,
     ul {
+        margin-top: 0;
         margin-bottom: 2rem;
         padding-left: 2em;
 
@@ -211,6 +212,8 @@ article {
 
         hr {
             border-top: 6px solid $color-black;
+            margin-top: 4rem;
+            margin-bottom: 4rem;
         }
     }
 }
