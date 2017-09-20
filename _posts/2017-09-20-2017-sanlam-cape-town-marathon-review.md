@@ -6,11 +6,6 @@ categories: journal
 
 This past weekend I ran the Sanlam Cape Town Marathon for the second year in a row. Having (only just) achieved my goal of sub-4 hours, I thought I’d share my experience of the race.
 
-### The winners 🥇
-
-Congratulations to defending champion Asefa Mengstu Negewo won the men’s race in
-2:10:01 and Betelhem Moges won the women’s race in 2:32:22
-
 ### Entry and registration
 
 Online entry was straight forward as is with most events these days. The entry
@@ -129,6 +124,11 @@ a privilege it is to take part in.
         <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by Nossie Roux (@nossieroux) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-09-17T11:02:27+00:00">Sep 17, 2017 at 4:02am PDT</time></p>
     </div>
 </blockquote>
+
+### The winners 🥇
+
+Congratulations to defending champion Asefa Mengstu Negewo won the men’s race in
+2:10:01 and Betelhem Moges won the women’s race in 2:32:22
 
 ---
 
