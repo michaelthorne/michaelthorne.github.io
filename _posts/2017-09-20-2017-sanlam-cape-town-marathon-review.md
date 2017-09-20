@@ -54,8 +54,8 @@ it blew my mind to see the amount of water wasted by runners. Sachets got ripped
 open and sprayed everywhere. Half-consumed sachets got dropped to the ground,
 soaking the road at the water stations.
 
-Regardless of the source of the water in the sachets it did not look to see such
-wastage.
+Regardless of the source of the water in the sachets it did not look good to see
+such wastage.
 
 Even though there were bins at the water stations, some runners chose to ignore
 them. The organisers did a great job cleaning up afterwards, but this is still
