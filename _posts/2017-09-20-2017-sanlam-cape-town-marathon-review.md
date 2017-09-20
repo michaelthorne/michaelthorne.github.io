@@ -49,6 +49,24 @@ It is not a spectator friendly section of the course and as we were about 35km
 in at this stage, it was rather boring. The short section along the Foreshore
 took us within a few kilometers of the finish.
 
+### The water stations 💦
+
+Cape Town Marathon [posted on Facebook](https://www.facebook.com/CTMarathon/photos/a.114493918653400.11271.100162726753186/1013491518753631/?type=3&theater)
+that they would be taking steps to reduce water usage.
+
+With the [ongoing drought in the Western Cape](https://www.westerncape.gov.za/general-publication/latest-western-cape-dam-levels)
+it blew my mind to see the amount of water wasted by runners. Sachets got ripped
+open and sprayed everywhere. Half-consumed sachets got dropped to the ground,
+soaking the road at the water stations.
+
+Even though there were bins at the water stations, some runners chose to ignore
+them. The organisers did a great job cleaning up afterwards, but this is still
+disappointing to see.
+
+There needs to be a greater awareness of their [“pledge to run green”](http://www.capetownmarathon.com/take-the-pledge-to-run-green/).
+From the online entry, to registration and along the route. It is difficult to
+see how the environment is better off after an event like this.
+
 ### My race
 
 Although this was my fourth marathon, I felt uneasy at the start in spite of
