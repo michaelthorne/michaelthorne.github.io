@@ -8,12 +8,12 @@ This past weekend I ran the Sanlam Cape Town Marathon for the second year in a r
 
 ### Entry and registration
 
-Online entry was straight forward as is with most events these days. The entry
-fee was R260 with an additional R30 for a temporary license (I must get a
-permanent license next year). Number collection was at The Lookout in the
+Online entry was straight forward as is common with most events these days.
+The entry fee was R260 with an additional R30 for a temporary license (I must
+get a permanent license next year). Number collection was at The Lookout in the
 V&A Waterfront. I work nearby which meant I was within walking distance. Traffic
-and parking is a bit of a nightmare during peak times at registration here, so I
-was happy to avoid that.
+and parking is a bit of a nightmare during peak times at registration, so I
+was thankful to avoid that.
 
 Entrants received an ASICS event shirt, as was the case last year. It’s a good
 quality shirt which will be useful for training in.
@@ -38,11 +38,11 @@ the least impressive section of the race out the way, we continued towards
 Woodstock and onto the N1.
 
 The next part of the race saw us running away from town along Paarden Eiland.
-Thereafter, we made our way onto the MyCiTi bus lane heading into town again.
-This section of the race came around the 10km mark last year which I preferred.
-It is not a spectator friendly section of the course and as we were about 35km
-in at this stage, it was rather boring. The short section along the Foreshore
-took us within a few kilometers of the finish.
+Thereafter, we made our way onto the MyCiTi bus lane heading back into town
+again. This section of the race came around the 10km mark last year which I
+preferred. It is not a spectator friendly section of the course and as we were
+about 35km in at this stage, it was rather boring. The short section along the
+Foreshore took us within a few kilometers of the finish.
 
 ### The water stations 💦
 
@@ -54,12 +54,15 @@ it blew my mind to see the amount of water wasted by runners. Sachets got ripped
 open and sprayed everywhere. Half-consumed sachets got dropped to the ground,
 soaking the road at the water stations.
 
+Regardless of the source of the water in the sachets it did not look to see such
+wastage.
+
 Even though there were bins at the water stations, some runners chose to ignore
 them. The organisers did a great job cleaning up afterwards, but this is still
 disappointing to see.
 
-There needs to be a greater awareness of their [“pledge to run green”](http://www.capetownmarathon.com/take-the-pledge-to-run-green/).
-From the online entry, to registration and along the route. It is difficult to
+There needs to be a greater awareness of their [“pledge to run green”](http://www.capetownmarathon.com/take-the-pledge-to-run-green/)
+(from the online entry, to registration and along the route). It is difficult to
 see how the environment is better off after an event like this.
 
 ### My race
@@ -99,8 +102,7 @@ which takes into account the time taken to cross the actual starting line.
 
 ### In hindsight…
 
-- I should have put in a few more longer runs (3+ hours at a slow pace,
-regardless of distance).
+- I should have put in a few more longer runs (3+ hours at a slower pace).
 
 - Arrived even earlier at the start to relax and mentally prepare for the race.
 
