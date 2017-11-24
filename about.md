@@ -2,8 +2,8 @@
 layout: page
 title: About me
 excerpt: |
-    I’m a front-end web developer, sports enthusiast and avid traveller who
-    lives in Cape Town, South Africa.
+    I’m an avid traveller, cyclist and runner who works as a front-end web
+    developer in Cape Town, South Africa.
 nav: About
 header: about
 order: 1
@@ -14,28 +14,32 @@ sitemap_lastmod: 2015-06-08
 
 ## About me
 
-I’m a front-end web developer, sports enthusiast and avid traveller who lives in Cape Town, South Africa.
+I’m an avid traveller, cyclist and runner who works as a front-end web developer in Cape Town, South Africa.
 
-I matriculated from Wynberg Boys’ High School in 2000 and completed a computer science diploma at CTI in 2002.
+I completed a computer science diploma at CTI in 2002, after matriculating from Wynberg Boys’ High School in 2000.
 
-Towards the end of 2002, I began my career at Generator Communications as a PHP developer. In 2006 I started working
-at [RED-i](http://red-i.co.za) as a Java developer and then I made the switch back to PHP development in 2010 at [Hellocomputer](http://www.hellocomputer.com/).
-In 2012 I spent the entire year freelancing as a front-end web developer. From 2014 I worked at [Next](http://www.wearenext.co.za)
-for just over 3 years.
+My professional work experience:
 
-Currently, I work for [InQbate](http://www.inqbate.com/) at Quint Group. Quint is an international fintech company who operates
-in the consumer finance market.
+* **2002–2006**: Generator Communications – PHP Developer
+* **2006–2010**: [RED-i](http://red-i.co.za) – Java Developer
+* **2010–2012**: [Hellocomputer](http://www.hellocomputer.com) – PHP Developer
+* **2013–2014**: Freelance – Front-end Web Developer
+* **2014–2017**: [Next](http://www.wearenext.co.za) – Lead Front-end Web Developer 
+* **2017–present**: [InQbate](http://www.inqbate.com) at Quint Group – Senior Front-end Web Developer
 
-I was fortunate to go overseas at an early age, a holiday to the UK and Europe in 1993, I’ve continued to
-travel whenever possible. I’ve been on two trips to Australia to visit family, first in 1998 and again in [2009](https://www.flickr.com/photos/mikkelz/collections/72157612807086301).
-In 2010 I went to visit my cousin who lives in Munich, Germany. We took part in the [Craft BIKE Transalp](https://www.flickr.com/photos/mikkelz/collections/72157624824109391)
-mountain bike race. The route goes through Germany, Austria, Switzerland and finishes in Italy. We cycled just under 600
-kilometers over the course of the 8 stages. At the end of 2012 I went on holiday to [Thailand](https://www.flickr.com/photos/mikkelz/collections/72157632483864195)
-and [Cambodia](https://www.flickr.com/photos/mikkelz/collections/72157632527368371) with my girlfriend and two mutual friends.
-In 2013 my girlfriend and I travelled to [Turkey](https://www.flickr.com/photos/mikkelz/collections/72157648811892350) and in
-September 2014 we went to New York.
+> Quint is a leading international, highly innovative fintech Group operating in the consumer finance market.
 
-Our most recent adventure overseas saw us visit Spain and Portugal in December of 2016.
+My overseas travels:
+
+* **1993**: UK and Europe – an amazing first overseas holiday with my Mom.
+* **1998**: Australia – a fun holiday to visit family.
+* **2009**: [Australia](https://www.flickr.com/photos/mikkelz/collections/72157612807086301) – my first overseas holiday by myself.
+* **2010**: Germany – my cousin and I took part in the [Craft BIKE Transalp](https://www.flickr.com/photos/mikkelz/collections/72157624824109391) mountain bike race. We cycled over 600 kilometers in 8 stages through Germany, Austria, Swizterland and Italy.
+* **2012**: [Thailand](https://www.flickr.com/photos/mikkelz/collections/72157632483864195) and [Cambodia](https://www.flickr.com/photos/mikkelz/collections/72157632527368371) – my girlfriend and I went overseas together for the first time, with two of our friends.
+* **2013**: [Turkey](https://www.flickr.com/photos/mikkelz/collections/72157648811892350) – our first overseas holiday by ourselves and what a great time it was.
+* **2014**: New York – our first trip to America together. It is still one of my favourite cities!
+* **2016**: Spain and Portugal – a magical end of year holiday together.
+* **2017**: Borneo and Singapore – back in South East Asia for another fantastic experience.
 
 <figure>
     <a href="http://www.flickr.com/photos/mikkelz/sets/72157624485305951">
@@ -58,12 +62,11 @@ to home or overseas.
 </blockquote>
 
 I’ve read some [amazing books](https://kindle.amazon.com/profile/Michael-Thorne/146993) which have been an inspiration to
-me during my career. These are just a few of my favourite:
+me during my career. These are a few of my favourite:
 
 * [Designing With Web Standards](http://en.wikipedia.org/wiki/Designing_with_Web_Standards) by Jeffrey Zeldman
 * [Adaptive Web Design](http://adaptivewebdesign.info) by Aaron Gustafson
 * [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) by Ethan Marcotte
-* [Man’s Search for Meaning](http://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/080701429X) by Viktor E. Frankl
 
 One of the things that I like most about the industry in which I work is how people share what they do. They provide insight
 into how and why they designed a product or website. They create tools to improve our workflow, most of which are free to

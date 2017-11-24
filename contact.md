@@ -30,5 +30,5 @@ if you’d like to chat about work or have any questions relating to my website.
     <figcaption>Michael Thorne – Istanbul, 2013</figcaption>
 </figure>
 
-Otherwise, you can read my [code](https://github.com/michaelthorne), look at my [photos](https://instagram.com/mikkelz_za)
+Otherwise, you can look at my [code](https://github.com/michaelthorne), browse through my [photos](https://instagram.com/mikkelz_za)
 or track my [running & cycling](https://www.strava.com/athletes/1328198).
