@@ -20,12 +20,14 @@ I completed a computer science diploma at CTI in 2002, after matriculating from 
 
 My professional work experience:
 
-* **2002–2006**: Generator Communications – PHP Developer
-* **2006–2010**: [RED-i](http://red-i.co.za) – Java Developer
-* **2010–2012**: [Hellocomputer](http://www.hellocomputer.com) – PHP Developer
-* **2013–2014**: Freelance – Front-end Web Developer
-* **2014–2017**: [Next](http://www.wearenext.co.za) – Lead Front-end Web Developer 
-* **2017–present**: [InQbate](http://www.inqbate.com) at Quint Group – Senior Front-end Web Developer
+* **2002 – 2005**: Web Developer, Generator Communications
+* **2005 – 2006**: Web Developer, Freelance
+* **2006 – 2010**: Java Developer, [RED-i](http://red-i.co.za)
+* **2010 – 2011**: Web Developer, [Hellocomputer](http://www.hellocomputer.com)
+* **2011 – 2012**: Head of Development, [Hellocomputer](http://www.hellocomputer.com)
+* **2013 – 2014**: Front-end Web Developer, Freelance
+* **2014 – 2017**: Lead Front-end Web Developer, [Next](http://www.wearenext.co.za)
+* **2017 – present**: Senior Front-end Web Developer, [InQbate](http://www.inqbate.com) at Quint Group
 
 > Quint is a leading international, highly innovative fintech Group operating in the consumer finance market.
 
