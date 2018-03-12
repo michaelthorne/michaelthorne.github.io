@@ -43,7 +43,7 @@ on track for my goal time. After giving it my all over the last 15 or so kilomet
     <iframe src="https://www.strava.com/activities/1446857632/embed/47c0d3fed24d54b931a15ee073adf4091b9ba668"></iframe>
 </div>
 
-### Keep the rubber side ~~down~~
+### Keep the rubber side ~~down~~ up
 
 There were no fewer than 4 accidents that I witnessed along the route during my ride. One of which was the [tragic death of a marshall](https://www.sport24.co.za/OtherSport/Cycling/organisers-confirm-death-of-3rd-person-at-ct-cycle-tour-20180312)
 on the descent of Llandudno after Suikerbossie.
