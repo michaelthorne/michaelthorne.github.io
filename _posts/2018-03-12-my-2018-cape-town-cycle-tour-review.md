@@ -45,7 +45,7 @@ on track for my goal time. After giving it my all over the last 15 or so kilomet
 
 ### Keep the rubber side ~~down~~ up
 
-There were no fewer than 4 accidents that I witnessed along the route during my ride. One of which was the [tragic death of a marshall](https://www.sport24.co.za/OtherSport/Cycling/organisers-confirm-death-of-3rd-person-at-ct-cycle-tour-20180312)
+There were no fewer than 4 accidents that I witnessed along the route during my ride. One of which was the [tragic death of a marshal](https://www.sport24.co.za/OtherSport/Cycling/organisers-confirm-death-of-3rd-person-at-ct-cycle-tour-20180312)
 on the descent of Llandudno after Suikerbossie.
 
 Another two occurred along the M3, the first of which was on the fast descent of Wynberg Hill with a few cyclists down
@@ -75,6 +75,11 @@ one to be proud of completing regardless of your performance.
         <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/mikkelz_za/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Michael Thorne 🇿🇦</a> (@mikkelz_za) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-03-11T10:37:15+00:00">Mar 11, 2018 at 3:37am PDT</time></p>
     </div>
 </blockquote>
+
+### Condolences
+
+Along with the passing away of a marshal, condolences also go to the [two participants who passed away](http://ewn.co.za/2018/03/12/ct-cycle-tour-marred-by-deaths-of-two-participants)
+yesterday – R.I.P.
 
 ---
 
