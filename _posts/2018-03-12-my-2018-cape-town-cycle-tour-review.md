@@ -12,6 +12,11 @@ Due to the notorious wind tunnel in Hertzog Boulevard when the wind blows, the s
 of Cape Town City Hall. This also meant a new layout for the start chutes and a minor change to the first kilometer or
 so of the route.
 
+<figure>
+    <img src="/assets/images/journal/2018-cape-town-cycle-tour-start-grand-parade-city-hall-820x450.jpg" alt="">
+    <figcaption>The new Cape Town Cycle Tour start at the Grand Parade</figcaption>
+</figure>
+
 Having started in group 2F at 7:08, it looked like there was a good flow of cyclists into the start area with hardly any
 congestion. This was a successful change, which was generally welcomed by most participants.
 
