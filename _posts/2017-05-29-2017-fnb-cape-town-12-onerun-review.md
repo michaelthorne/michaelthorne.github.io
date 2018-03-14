@@ -147,6 +147,8 @@ event like this is a great place to enforce good habits for all runners.
 
 ---
 
+#### Final thoughts
+
 Will I return next year? I doubt it. The dismissive way in which the organisers
 handled my queries before the event was unprofessional. Never mind the
 contradictory messages between the various support channels.

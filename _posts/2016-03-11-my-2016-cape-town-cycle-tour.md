@@ -118,7 +118,9 @@ a few minutes inside of my goal time.
     <iframe src="https://www.strava.com/activities/509754733/embed/771705e0d50a373a8f4112ff9914f13e6f6c13cf"></iframe>
 </div>
 
-### Reflections
+---
+
+#### Final thoughts
 
 Now that I have completed five Cycle Tours, I have to say that this was by
 far my favourite. Although this was not my fastest, to me, time is secondary

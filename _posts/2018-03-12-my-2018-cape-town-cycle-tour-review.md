@@ -104,7 +104,7 @@ during the event – R.I.P.
 
 ---
 
-Related post:
+#### Further reading
 
 - [My 2016 Cape Town Cycle Tour](/journal/my-2016-cape-town-cycle-tour/)
 

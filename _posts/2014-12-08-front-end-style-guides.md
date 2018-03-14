@@ -48,7 +48,7 @@ and use throughout the website.
 
 ---
 
-### Website Style Guide Resources
+#### Final thoughts
 
 [Anna Debenham](http://www.maban.co.uk) recently started a super project on GitHub, which is a collection of [style guide resources](http://styleguides.io).
 She, along with a [bunch of contributors](https://github.com/maban/styleguides/graphs/contributors) have added articles,

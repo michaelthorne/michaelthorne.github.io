@@ -78,5 +78,9 @@ In summary:
 
 I hope this can be of use to you. It’s certainly made my workflow a lot easier!
 
+---
+
+#### Final thoughts
+
 _**Update**: I’ve just realised that the `livereload: true` option also forces a reload on all connected devices. No more
 having to press refresh on your mobile phone or tablet._

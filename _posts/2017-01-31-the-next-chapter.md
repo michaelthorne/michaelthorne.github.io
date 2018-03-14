@@ -39,6 +39,8 @@ is likely to be my biggest career challenge, but one that I am well equipped for
 
 ---
 
+#### Final thoughts
+
 A special thanks to [Franco](https://twitter.com/franco_raffa) for being such a trusting, respectful and generous boss.
 I’m fortunate to have worked with you and appreciate the opportunity.
 

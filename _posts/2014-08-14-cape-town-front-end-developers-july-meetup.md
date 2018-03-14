@@ -39,6 +39,8 @@ Below is a list of some of my favourite style guides currently online:
 
 ---
 
+#### Further reading
+
 [Cape Town Front-end Developers](http://www.meetup.com/ctfeds) is a Meetup group of some of the talented front-end web developers
 currently working in Cape Town.
 

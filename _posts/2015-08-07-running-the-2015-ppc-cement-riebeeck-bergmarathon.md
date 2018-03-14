@@ -140,6 +140,8 @@ It’s more of an experience than it is a race and I’m so glad that I did it.
 
 ---
 
+#### Further reading
+
 My thoughts on some of the other races I have completed:
 
 - [Race report: Ultra-trail Cape Town 2015](/journal/race-report-ultra-trail-cape-town-2015/)

@@ -36,6 +36,8 @@ This is yet another reason why PhpStorm is my favourite IDE!
 
 ---
 
+#### Final thoughts
+
 Be sure to check out these examples of JavaScript style guides for ESLint:
 
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)

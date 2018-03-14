@@ -44,6 +44,8 @@ The highlights from Tanner’s article when looking for design critique are:
 
 ---
 
+#### Further reading
+
 Other useful resources on design critique:
 
 - [Design Criticism and the Creative Process](http://alistapart.com/article/design-criticism-creative-process)

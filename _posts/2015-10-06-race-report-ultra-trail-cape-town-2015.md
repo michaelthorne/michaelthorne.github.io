@@ -256,6 +256,8 @@ my ass! And to my Mom: I’m so glad that you were there at the finish. It meant
 
 ---
 
+#### Further reading
+
 **Update**: I’ve added a list below with a few links to blogs and photos of Ultra-trail Cape Town 2015.
 
 * [Ultra-trail Cape Town 100 by Devon Yanko](http://www.devonyanko.com/news/2015/10/6/ultra-trail-cape-town)

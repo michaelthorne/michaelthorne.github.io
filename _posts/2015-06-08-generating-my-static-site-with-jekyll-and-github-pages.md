@@ -65,5 +65,7 @@ in Liquid](http://jch.penibelst.de). The nice thing about this solution, is that
 
 ---
 
+#### Final thoughts
+
 I also took this opportunity to make some cosmetic updates to my website. Whilst the changes aren’t earth-shattering, I’m
 happy with the progress I’ve made. And now I can post to my journal more often.

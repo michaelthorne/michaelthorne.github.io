@@ -83,7 +83,7 @@ illustrating an alternative way of dealing with an inline
 
 ---
 
-### Further reading on web performance
+#### Further reading
 
 - Designing for Performance: [Performance is User Experience](http://designingforperformance.com/performance-is-ux)
 - SOASTA: [Google: 53% of mobile users abandon sites that take longer than 3 seconds to load](https://www.soasta.com/blog/google-mobile-web-performance-study)

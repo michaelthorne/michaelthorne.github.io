@@ -135,7 +135,7 @@ Congratulations to defending champion Asefa Mengstu Negewo won the men’s race 
 
 ---
 
-My thoughts on some of the other races I have completed:
+#### Further reading
 
 - [Running the 2015 PPC Cement Riebeeck Bergmarathon](/journal/running-the-2015-ppc-cement-riebeeck-bergmarathon/)
 - [Race report: Ultra-trail Cape Town 2015](/journal/race-report-ultra-trail-cape-town-2015/)

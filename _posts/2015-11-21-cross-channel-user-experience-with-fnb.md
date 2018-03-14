@@ -67,6 +67,8 @@ And now you know why I get annoyed at the bank charges for accessing an archived
 
 ---
 
+#### Final thoughts
+
 FNB, you can do so much better. I expect a lot more for the bank charges I pay on my accounts.
 
 **Update: 2015-11-27**
