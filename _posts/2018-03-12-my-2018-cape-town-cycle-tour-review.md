@@ -43,7 +43,23 @@ on track for my goal time. After giving it my all over the last 15 or so kilomet
     <iframe src="https://www.strava.com/activities/1446857632/embed/47c0d3fed24d54b931a15ee073adf4091b9ba668"></iframe>
 </div>
 
-### Keep the rubber side ~~down~~ up
+#### My official results
+
+_**2018** — 03h19:50 — 3059 out of 26240_
+
+**2017** — 03h26:20 — 3726 out of 28881
+
+**2013** — 03h29:48 — 4078 out of 31666
+
+**2012** — 03h40:40 — 5325 out of 29841
+
+**2011** — 03h23:18 — 3820 out of 28702
+
+**2010** — 03h37:14 — 2375 out of 28035
+
+You can view more information about my results on [RaceTec’s website](http://results.racetec.co.za/results_by_person.aspx?PID=333072).
+
+### Keep the rubber side ~~up~~ down 👇
 
 There were no fewer than 4 accidents that I witnessed along the route during my ride. One of which was the [tragic death of a marshal](https://www.sport24.co.za/OtherSport/Cycling/organisers-confirm-death-of-3rd-person-at-ct-cycle-tour-20180312)
 on the descent of Llandudno after Suikerbossie.
@@ -79,11 +95,11 @@ one to be proud of completing regardless of your performance.
 ### Condolences
 
 Along with the passing away of a marshal, condolences also go to the [two participants who passed away](http://ewn.co.za/2018/03/12/ct-cycle-tour-marred-by-deaths-of-two-participants)
-yesterday – R.I.P.
+during the event – R.I.P.
 
 ---
 
-Previous cycle tour review:
+Related post:
 
 - [My 2016 Cape Town Cycle Tour](/journal/my-2016-cape-town-cycle-tour/)
 
