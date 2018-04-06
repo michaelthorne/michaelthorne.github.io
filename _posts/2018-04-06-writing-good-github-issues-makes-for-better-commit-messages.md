@@ -34,13 +34,15 @@ working on!
 By using the issue title as the commit message, you'll start to see the  progression of your bug fixes or features.
 This means you can read what went into a specific commit, without even needing to look at the code to figure it out.
 
-#### Example of a commit message:
+#### Examples of commit messages:
 
+- _[Added a new post about writing better GitHub issues](https://github.com/michaelthorne/michaelthorne.github.io/commit/98508703f9710e8a983b4e9e36f1807664e27a2d)_
 - _Catered for dynamic no results message in table data [Closes #123]_
  
 (I use square brackets to separate keywords and issue number(s); they are not necessary)
 
-By using keywords, GitHub will (in this case) close the issue and create a reference to the commit in your issue.
+By using keywords, GitHub will (in the second commit) close issue number 123 in the repository and create a reference to
+the commit in your issue.
 
 Now that I have been writing better GitHub issues, I can drop the "tidy up" or "WIP" commit messages I have been guilty
 of in the past.
