@@ -1,3 +1,3 @@
-# [www.userx.co.za](http://www.userx.co.za)
+# [www.userx.co.za](https://www.userx.co.za)
 
 My personal website

@@ -3,7 +3,7 @@ title: Michael Thorne / Front-end Web Developer
 strapline: Michael Thorne
 description: Front-end web developer based in Cape Town, South Africa. Passionate about user experience, web standards and web performance. Also an avid traveller, cyclist and runner.
 baseurl: ""
-url: "http://www.userx.co.za"
+url: "https://www.userx.co.za"
 permalink: :categories/:title/
 google_analytics: UA-29325015-1
 profile_github: michaelthorne
