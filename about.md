@@ -20,28 +20,28 @@ I completed a computer science diploma at CTI in 2002, after matriculating from 
 
 My professional work experience:
 
-* **2002 – 2005**: Web Developer, Generator Communications
-* **2005 – 2006**: Web Developer, Freelance
-* **2006 – 2010**: Java Developer, [RED-i](http://red-i.co.za)
-* **2010 – 2011**: Web Developer, [Hellocomputer](http://www.hellocomputer.com)
-* **2011 – 2012**: Head of Development, [Hellocomputer](http://www.hellocomputer.com)
-* **2013 – 2014**: Front-end Web Developer, Freelance
-* **2014 – 2017**: Lead Front-end Web Developer, [Next](http://www.wearenext.co.za)
 * **2017 – present**: Senior Front-end Web Developer, [InQbate](http://www.inqbate.com) at Quint Group
+* **2014 – 2017**: Lead Front-end Web Developer, [Next](http://www.wearenext.co.za)
+* **2013 – 2014**: Front-end Web Developer, Freelance
+* **2011 – 2012**: Head of Development, [Hellocomputer](http://www.hellocomputer.com)
+* **2010 – 2011**: Web Developer, [Hellocomputer](http://www.hellocomputer.com)
+* **2006 – 2010**: Java Developer, [RED-i](http://red-i.co.za)
+* **2005 – 2006**: Web Developer, Freelance
+* **2002 – 2005**: Web Developer, Generator Communications
 
 > Quint is a leading international, highly innovative fintech Group operating in the consumer finance market.
 
 My overseas travels:
 
-* **1993**: UK and Europe – an amazing first overseas holiday with my Mom.
-* **1998**: Australia – a fun holiday to visit family.
-* **2009**: [Australia](https://www.flickr.com/photos/mikkelz/collections/72157612807086301) – my first overseas holiday by myself.
-* **2010**: Germany – my cousin and I took part in the [Craft BIKE Transalp](https://www.flickr.com/photos/mikkelz/collections/72157624824109391) mountain bike race. We cycled over 600 kilometers in 8 stages through Germany, Austria, Swizterland and Italy.
-* **2012**: [Thailand](https://www.flickr.com/photos/mikkelz/collections/72157632483864195) and [Cambodia](https://www.flickr.com/photos/mikkelz/collections/72157632527368371) – my girlfriend and I went overseas together for the first time, with two of our friends.
-* **2013**: [Turkey](https://www.flickr.com/photos/mikkelz/collections/72157648811892350) – our first overseas holiday by ourselves and what a great time it was.
-* **2014**: New York – our first trip to America together. It is still one of my favourite cities!
-* **2016**: Spain and Portugal – a magical end of year holiday together.
 * **2017**: Borneo and Singapore – back in South East Asia for another fantastic experience.
+* **2016**: Spain and Portugal – a magical end of year holiday together.
+* **2014**: New York – our first trip to America together. It is still one of my favourite cities!
+* **2013**: [Turkey](https://www.flickr.com/photos/mikkelz/collections/72157648811892350) – our first overseas holiday by ourselves and what a great time it was.
+* **2012**: [Thailand](https://www.flickr.com/photos/mikkelz/collections/72157632483864195) and [Cambodia](https://www.flickr.com/photos/mikkelz/collections/72157632527368371) – my girlfriend and I went overseas together for the first time, with two of our friends.
+* **2010**: Germany – my cousin and I took part in the [Craft BIKE Transalp](https://www.flickr.com/photos/mikkelz/collections/72157624824109391) mountain bike race. We cycled over 600 kilometers in 8 stages through Germany, Austria, Swizterland and Italy.
+* **2009**: [Australia](https://www.flickr.com/photos/mikkelz/collections/72157612807086301) – my first overseas holiday by myself.
+* **1998**: Australia – a fun holiday to visit family.
+* **1993**: UK and Europe – an amazing first overseas holiday with my Mom.
 
 <figure>
     <a href="http://www.flickr.com/photos/mikkelz/sets/72157624485305951">
