@@ -18,10 +18,10 @@ Yes, I learned about front-end web development the hard way!
 
 ### 🚀 Fast-forward to now.
 
-I’m building a [Vue.js Single File Component](https://vuejs.org/v2/guide/single-file-components.html) (SFC), included in
-a Blade Template of a Laravel application. The application returns data in JSON from an end-point based on the XML
-result of an external API call. The component polls the application end-point until the API finishes returning results.
-Due to the reactivity of Vue.js, the DOM gets updated as the data changes.
+I’m building a [Vue.js Single File Component](https://vuejs.org/v2/guide/single-file-components.html), included in a
+Blade Template of a Laravel application. The application returns data in JSON from an end-point based on the XML result
+of an external API call. The component polls the application end-point until the API finishes returning results. Due to
+the [reactivity](https://vuejs.org/v2/guide/reactivity.html) of Vue.js, the DOM gets updated as the data changes.
 
 I’ve had to work on most of the web stack for this:
 
