@@ -130,6 +130,10 @@ article {
     p {
         margin-top: 0;
         margin-bottom: 2rem;
+
+        &:first-of-type {
+            font-size: 1.5rem;
+        }
     }
 
     /**
@@ -146,7 +150,7 @@ article {
 
     time {
         display: block;
-        margin-top: -0.75em;
+        margin-top: -1rem;
         margin-bottom: 2rem;
 
         a {
@@ -193,7 +197,6 @@ article {
 
     article {
         font-size: 1.25em; /* 24 / 16 */
-        line-height: 1.75;
     }
 }
 

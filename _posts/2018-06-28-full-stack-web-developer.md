@@ -6,7 +6,7 @@ categories: journal
 
 I’ve had a job titles such as PHP developer, Java developer and front-end developer. But can I call myself a full stack developer?
 
-### Not much has changed; everything has changed!
+### Not much has changed; everything has changed! 🤯
 
 As a junior web developer at my first job (2002), I built websites using PHP and MySQL. This familiar web stack is now
 referred to as [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL and PHP).
@@ -16,7 +16,7 @@ for minor visual creativity.
 
 Yes, I learned about front-end web development the hard way!
 
-### Fast-forward to now.
+### 🚀 Fast-forward to now.
 
 I’m building a [Vue.js Single File Component](https://vuejs.org/v2/guide/single-file-components.html) (SFC), included in
 a Blade Template of a Laravel application. The application returns data in JSON from an end-point based on the XML
@@ -43,7 +43,7 @@ And then there’s everything in between:
 These are the things that experience has taught me which are crucial to the success of every project. They aren’t
 glamorous and feel unrewarding at the time.
 
-### Jack of all trades and master of some.
+### Jack of all trades and master of some. 🛠
 
 A quote I read by [Ira Glass](https://www.youtube.com/watch?v=91FQKciKfHI) this week renewed my passion for what I do:
 
