@@ -16,6 +16,14 @@ for minor visual creativity.
 
 Yes, I learned about front-end web development the hard way!
 
+Then again, I recently came up with my own definition for what front-end web development is. There is no one correct
+definition, as it varies from job to job, company to company.
+
+<blockquote class="twitter-tweet" data-lang="en">
+    <p lang="en" dir="ltr">Front-end web development: that job where you build responsive user interfaces to fill the void created by designers who only produce a “mobile” and “desktop” mockup. 💥</p>
+    &mdash; Michael Thorne 🇿🇦 (@mikkelz_za) <a href="https://twitter.com/mikkelz_za/status/996670032452161536?ref_src=twsrc%5Etfw">May 16, 2018</a>
+</blockquote>
+
 ### 🚀 Fast-forward to now.
 
 I’m building a [Vue.js Single File Component](https://vuejs.org/v2/guide/single-file-components.html), included in a
@@ -31,14 +39,20 @@ functionality, as well as the sorting and filtering of content.
 - **HTML/CSS**: creating the markup and styles to display the content based on a proposed design. This involved adding
 to an existing pattern library I had created. This alone has essentially been my primary focus as a front-end developer.
 
+<figure>
+    <img src="/assets/images/journal/tech-stack-820x464.png" width="820" height="464" alt="A modern tech stack">
+    <figcaption>A modern tech stack: AWS, Laravel, MySQL, HTML5, CSS3, Vue.js, JavaScript, Webpack and gulp</figcaption>
+</figure>
+
 And then there’s everything in between:
 
 - Researching
 - Documenting
 - Planning
+- Suggesting
 - Learning
 - Testing
-- Suggesting
+- Optimizing
 
 These are the things that experience has taught me which are crucial to the success of every project. They aren’t
 glamorous and feel unrewarding at the time.
@@ -51,3 +65,5 @@ A quote I read by [Ira Glass](https://www.youtube.com/watch?v=91FQKciKfHI) this 
 ambitions.
 
 Full stack or not, I’m _just_ a web developer trying to do my job.
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

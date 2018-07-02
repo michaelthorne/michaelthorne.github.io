@@ -58,7 +58,7 @@ all of the letters in the English alphabet. Owing to its brevity and coherence, 
 
 ###### Figure
 
-<figure class="figure">
+<figure>
     <img src="http://placehold.it/820x461" width="820" height="461" alt="">
     <figcaption>This is a placeholder image with a supporting caption.</figcaption>
 </figure>
