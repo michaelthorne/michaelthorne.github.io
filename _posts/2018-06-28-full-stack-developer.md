@@ -8,8 +8,8 @@ I’ve had a job titles such as PHP developer, Java developer and front-end deve
 
 ### Not much has changed; everything has changed! 🤯
 
-As a junior web developer at my first job (2002), I built websites using PHP and MySQL. This popular web stack is now
-referred to as [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL and PHP).
+As a junior web developer at my first job (2002), I built websites using PHP and MySQL. This popular web stack is
+commonly known as [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL and PHP).
 
 I used HTML to describe (and structure) the content using table based layouts. And my limited knowledge of CSS allowed
 for minor visual creativity.
