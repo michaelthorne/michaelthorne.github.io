@@ -64,6 +64,6 @@ A quote I read by [Ira Glass](https://www.youtube.com/watch?v=91FQKciKfHI) this 
 > It is only by going through a volume of work that you will close that gap, and your work will be as good as your
 ambitions.
 
-Full stack or not, I’m _just_ a web developer trying to do my job.
+Full stack or not, I’m _just_ a web developer trying to make websites, better.
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
