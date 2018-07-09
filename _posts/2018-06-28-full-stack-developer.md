@@ -12,7 +12,7 @@ As a junior web developer at my first job (2002), I built websites using PHP and
 commonly known as [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySQL and PHP).
 
 I used HTML to describe (and structure) the content using table based layouts. And my limited knowledge of CSS allowed
-for minor visual creativity.
+for minor visual creativity. To top it all off, JavaScript allowed me to (somehow) manipulate DOM elements in the browser. Those were the days of “Dynamic HTML (DHTML)”, where pretty much everything was an experiment. But without a proper debugger (let alone a console), it was tough going.
 
 Yes, I learned about front-end web development the hard way!
 
@@ -64,6 +64,6 @@ A quote I read by [Ira Glass](https://www.youtube.com/watch?v=91FQKciKfHI) this 
 > It is only by going through a volume of work that you will close that gap, and your work will be as good as your
 ambitions.
 
-Full stack or not, I’m _just_ a web developer trying to do my job.
+Full stack or not, I’m _just_ a web developer trying to make websites, better.
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
