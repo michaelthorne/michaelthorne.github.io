@@ -4,8 +4,7 @@ title: "Water wise car wash with a Kärcher high-pressure cleaner and harvested 
 categories: journal
 ---
 
-Washing your car in Cape Town is difficult due to the ongoing drought for well over a year now. But, I worked out how
-to use my Kärcher high-pressure clear in gravity feed mode with rainwater that I harvested. 🎉
+Washing your car in Cape Town is difficult due to the ongoing drought for well over a year now. But, I worked out how to use my Kärcher high-pressure clear in gravity feed mode with rainwater that I harvested. 🎉
 
 ### Water Wise
 
