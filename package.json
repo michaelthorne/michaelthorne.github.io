@@ -15,7 +15,10 @@
     "devDependencies": {
         "grunt": "^1.0.3",
         "grunt-contrib-csslint": "^2.0.0",
-        "grunt-html": "^9.0.0",
+        "grunt-html": "^9.2.0",
         "load-grunt-tasks": "^4.0.0"
+    },
+    "dependencies": {
+        "npm": "^6.4.0"
     }
 }
