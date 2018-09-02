@@ -50,7 +50,7 @@ I filled the piece of hose with water and blocked both ends with my thumbs to re
 of hose with the connector into the high-pressure cleaner as you would normally do.
 
 To protect the high-pressure pump, I purchased a [water filter](https://www.kaercher.com/za/accessory/water-filter-26427940.html)
-from the Kärcher Center in Milerton. Their service is excellent!
+from the Kärcher Center in Milnerton. Their service is excellent!
 
 <figure>
     <img src="/assets/images/journal/karcher-high-pressure-cleaner-filter-820x461.jpg" alt="">
