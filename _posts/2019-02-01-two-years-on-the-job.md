@@ -14,7 +14,7 @@ And also made ongoing enhancements and new feature development a breeze.
 
 We have since deployed the pattern library on 4 separate domains (three B2C and one B2B). There was a lot of refactoring
 and standardizing of design elements across the brand. But it has proved to be successful from a performance and
-consistency perspective.
+standardisation perspective.
 
 ### Vue.js Single-page Application 🚀
 
