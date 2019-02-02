@@ -56,3 +56,10 @@ have visas to enter Amsterdam.
 
 I have started to slowly work my way through a React course on Udemy. It is great learning something new and I look
 forward to progressing through the rest of the course.
+
+---
+
+#### Further reading
+
+- [Full stack developer](/journal/full-stack-developer/)
+- [Two thousand and seventeen](/journal/two-thousand-and-seventeen/)
