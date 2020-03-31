@@ -97,3 +97,30 @@
         }
     }
 }
+
+.covid-19 {
+    background-color: #004020;
+    color: $color-white;
+    padding-bottom: 1.5em;
+    padding-top: 1em;
+    text-align: center;
+
+    p {
+        font-weight: $weight-bold;
+        margin-top: 0;
+    }
+
+    a {
+        color: #fff;
+        font-weight: $weight-normal;
+        text-decoration: none;
+    }
+
+    img {
+        display: block;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+    }
+}

@@ -47,4 +47,5 @@ node_modules
 # Jekyll #
 ##########
 _site
+.jekyll-cache
 .sass-cache
