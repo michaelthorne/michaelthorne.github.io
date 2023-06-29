@@ -19,6 +19,6 @@
         "load-grunt-tasks": "^5.1.0"
     },
     "dependencies": {
-        "npm": "^7.21.0"
+        "npm": "^9.7.2"
     }
 }
